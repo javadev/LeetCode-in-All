@@ -1,4 +1,4 @@
-package g0101_0200.s0105_construct_binary_tree_from_preorder_and_inorder_traversal;
+package g0101_0200.s0105_construct_binary_tree_from_preorder_and_inorder_traversal
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Tree #Binary_Tree
 // #Divide_and_Conquer #Data_Structure_II_Day_15_Tree #Big_O_Time_O(N)_Space_O(N)

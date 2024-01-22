@@ -1,4 +1,4 @@
-package g0201_0300.s0240_search_a_2d_matrix_ii;
+package g0201_0300.s0240_search_a_2d_matrix_ii
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Matrix
 // #Divide_and_Conquer #Data_Structure_II_Day_4_Array #Binary_Search_II_Day_8

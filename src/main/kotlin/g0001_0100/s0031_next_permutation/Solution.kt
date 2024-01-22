@@ -1,4 +1,4 @@
-package g0001_0100.s0031_next_permutation;
+package g0001_0100.s0031_next_permutation
 
 // #Medium #Top_100_Liked_Questions #Array #Two_Pointers #Big_O_Time_O(n)_Space_O(1)
 

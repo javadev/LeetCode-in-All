@@ -1,4 +1,4 @@
-package g0001_0100.s0073_set_matrix_zeroes;
+package g0001_0100.s0073_set_matrix_zeroes
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Matrix
 // #Udemy_2D_Arrays/Matrix #Big_O_Time_O(m*n)_Space_O(1)

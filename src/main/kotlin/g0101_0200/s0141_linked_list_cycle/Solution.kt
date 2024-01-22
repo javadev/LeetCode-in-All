@@ -1,4 +1,4 @@
-package g0101_0200.s0141_linked_list_cycle;
+package g0101_0200.s0141_linked_list_cycle
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Two_Pointers #Linked_List
 // #Data_Structure_I_Day_7_Linked_List #Udemy_Linked_List #Big_O_Time_O(N)_Space_O(1)

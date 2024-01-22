@@ -1,4 +1,4 @@
-package g0001_0100.s0056_merge_intervals;
+package g0001_0100.s0056_merge_intervals
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting
 // #Data_Structure_II_Day_2_Array #Level_2_Day_17_Interval #Udemy_2D_Arrays/Matrix

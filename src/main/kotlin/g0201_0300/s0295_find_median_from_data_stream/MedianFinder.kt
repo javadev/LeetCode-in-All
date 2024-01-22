@@ -1,4 +1,4 @@
-package g0201_0300.s0295_find_median_from_data_stream;
+package g0201_0300.s0295_find_median_from_data_stream
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Sorting #Two_Pointers #Design
 // #Heap_Priority_Queue #Data_Stream #Big_O_Time_O(n*log_n)_Space_O(n)

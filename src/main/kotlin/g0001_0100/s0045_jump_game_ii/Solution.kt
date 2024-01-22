@@ -1,4 +1,4 @@
-package g0001_0100.s0045_jump_game_ii;
+package g0001_0100.s0045_jump_game_ii
 
 // #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Greedy
 // #Algorithm_II_Day_13_Dynamic_Programming #Dynamic_Programming_I_Day_4

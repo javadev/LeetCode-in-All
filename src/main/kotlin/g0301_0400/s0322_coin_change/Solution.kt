@@ -1,4 +1,4 @@
-package g0301_0400.s0322_coin_change;
+package g0301_0400.s0322_coin_change
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming
 // #Breadth_First_Search #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_20

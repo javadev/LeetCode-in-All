@@ -1,4 +1,4 @@
-package g0101_0200.s0102_binary_tree_level_order_traversal;
+package g0101_0200.s0102_binary_tree_level_order_traversal
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Breadth_First_Search #Tree
 // #Binary_Tree #Data_Structure_I_Day_11_Tree #Level_1_Day_6_Tree #Udemy_Tree_Stack_Queue

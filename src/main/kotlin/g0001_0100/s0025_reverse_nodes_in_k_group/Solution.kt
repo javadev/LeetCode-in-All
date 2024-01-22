@@ -1,4 +1,4 @@
-package g0001_0100.s0025_reverse_nodes_in_k_group;
+package g0001_0100.s0025_reverse_nodes_in_k_group
 
 // #Hard #Top_100_Liked_Questions #Linked_List #Recursion #Data_Structure_II_Day_13_Linked_List
 // #Udemy_Linked_List #Big_O_Time_O(n)_Space_O(k)

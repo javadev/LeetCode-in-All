@@ -1,4 +1,4 @@
-package g0001_0100.s0072_edit_distance;
+package g0001_0100.s0072_edit_distance
 
 // #Hard #Top_100_Liked_Questions #String #Dynamic_Programming
 // #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_19

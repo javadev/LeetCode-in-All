@@ -1,4 +1,4 @@
-package g0001_0100.s0002_add_two_numbers;
+package g0001_0100.s0002_add_two_numbers
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Math #Linked_List #Recursion
 // #Data_Structure_II_Day_10_Linked_List #Programming_Skills_II_Day_15

@@ -1,4 +1,4 @@
-package g0401_0500.s0494_target_sum;
+package g0401_0500.s0494_target_sum
 
 // #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Backtracking
 // #Big_O_Time_O(n*(sum+s))_Space_O(n*(sum+s))

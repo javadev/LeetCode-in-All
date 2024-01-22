@@ -1,4 +1,4 @@
-package g0001_0100.s0042_trapping_rain_water;
+package g0001_0100.s0042_trapping_rain_water
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming #Two_Pointers
 // #Stack #Monotonic_Stack #Dynamic_Programming_I_Day_9 #Udemy_Two_Pointers

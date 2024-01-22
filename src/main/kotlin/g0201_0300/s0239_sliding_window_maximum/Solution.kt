@@ -1,4 +1,4 @@
-package g0201_0300.s0239_sliding_window_maximum;
+package g0201_0300.s0239_sliding_window_maximum
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Heap_Priority_Queue
 // #Sliding_Window #Queue #Monotonic_Queue #Udemy_Arrays #Big_O_Time_O(n*k)_Space_O(n+k)

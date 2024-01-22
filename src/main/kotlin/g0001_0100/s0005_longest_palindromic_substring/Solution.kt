@@ -1,4 +1,4 @@
-package g0001_0100.s0005_longest_palindromic_substring;
+package g0001_0100.s0005_longest_palindromic_substring
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
 // #Data_Structure_II_Day_9_String #Algorithm_II_Day_14_Dynamic_Programming

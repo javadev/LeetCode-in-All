@@ -1,4 +1,4 @@
-package g0001_0100.s0015_3sum;
+package g0001_0100.s0015_3sum
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting #Two_Pointers
 // #Data_Structure_II_Day_1_Array #Algorithm_II_Day_3_Two_Pointers #Udemy_Two_Pointers

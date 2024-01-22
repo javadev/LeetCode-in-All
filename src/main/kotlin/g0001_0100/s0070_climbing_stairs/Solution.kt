@@ -1,4 +1,4 @@
-package g0001_0100.s0070_climbing_stairs;
+package g0001_0100.s0070_climbing_stairs
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Dynamic_Programming #Math #Memoization
 // #Algorithm_I_Day_12_Dynamic_Programming #Dynamic_Programming_I_Day_2

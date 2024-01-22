@@ -1,4 +1,4 @@
-package g0601_0700.s0647_palindromic_substrings;
+package g0601_0700.s0647_palindromic_substrings
 
 // #Medium #Top_100_Liked_Questions #String #Dynamic_Programming #Big_O_Time_O(n^2)_Space_O(n)
 

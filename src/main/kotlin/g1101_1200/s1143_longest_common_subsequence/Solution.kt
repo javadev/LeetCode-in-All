@@ -1,4 +1,4 @@
-package g1101_1200.s1143_longest_common_subsequence;
+package g1101_1200.s1143_longest_common_subsequence
 
 // #Medium #Top_100_Liked_Questions #String #Dynamic_Programming
 // #Algorithm_II_Day_17_Dynamic_Programming #Dynamic_Programming_I_Day_19

@@ -1,4 +1,4 @@
-package g0201_0300.s0300_longest_increasing_subsequence;
+package g0201_0300.s0300_longest_increasing_subsequence
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming
 // #Binary_Search #Algorithm_II_Day_16_Dynamic_Programming #Binary_Search_II_Day_3

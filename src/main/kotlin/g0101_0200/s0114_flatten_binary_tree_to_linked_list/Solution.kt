@@ -1,4 +1,4 @@
-package g0101_0200.s0114_flatten_binary_tree_to_linked_list;
+package g0101_0200.s0114_flatten_binary_tree_to_linked_list
 
 // #Medium #Top_100_Liked_Questions #Depth_First_Search #Tree #Binary_Tree #Stack #Linked_List
 // #Udemy_Linked_List #Big_O_Time_O(N)_Space_O(N)

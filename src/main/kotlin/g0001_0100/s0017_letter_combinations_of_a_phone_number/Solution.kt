@@ -1,4 +1,4 @@
-package g0001_0100.s0017_letter_combinations_of_a_phone_number;
+package g0001_0100.s0017_letter_combinations_of_a_phone_number
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table #Backtracking
 // #Algorithm_II_Day_11_Recursion_Backtracking #Udemy_Backtracking/Recursion

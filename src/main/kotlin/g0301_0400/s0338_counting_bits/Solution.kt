@@ -1,4 +1,4 @@
-package g0301_0400.s0338_counting_bits;
+package g0301_0400.s0338_counting_bits
 
 // #Easy #Top_100_Liked_Questions #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
 // #Big_O_Time_O(num)_Space_O(num)

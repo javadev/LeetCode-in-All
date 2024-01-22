@@ -1,4 +1,4 @@
-package g0001_0100.s0078_subsets;
+package g0001_0100.s0078_subsets
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Bit_Manipulation #Backtracking
 // #Algorithm_II_Day_9_Recursion_Backtracking #Udemy_Backtracking/Recursion

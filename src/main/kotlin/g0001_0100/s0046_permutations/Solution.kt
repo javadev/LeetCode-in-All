@@ -1,4 +1,4 @@
-package g0001_0100.s0046_permutations;
+package g0001_0100.s0046_permutations
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Backtracking
 // #Algorithm_I_Day_11_Recursion_Backtracking #Level_2_Day_20_Brute_Force/Backtracking

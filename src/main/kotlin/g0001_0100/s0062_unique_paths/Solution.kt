@@ -1,4 +1,4 @@
-package g0001_0100.s0062_unique_paths;
+package g0001_0100.s0062_unique_paths
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Dynamic_Programming #Math
 // #Combinatorics #Algorithm_II_Day_13_Dynamic_Programming #Dynamic_Programming_I_Day_15

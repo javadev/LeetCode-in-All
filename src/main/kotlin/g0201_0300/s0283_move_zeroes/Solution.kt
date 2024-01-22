@@ -1,4 +1,4 @@
-package g0201_0300.s0283_move_zeroes;
+package g0201_0300.s0283_move_zeroes
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Two_Pointers
 // #Algorithm_I_Day_3_Two_Pointers #Programming_Skills_I_Day_6_Array #Udemy_Arrays

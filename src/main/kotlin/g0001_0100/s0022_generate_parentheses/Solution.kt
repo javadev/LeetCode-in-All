@@ -1,4 +1,4 @@
-package g0001_0100.s0022_generate_parentheses;
+package g0001_0100.s0022_generate_parentheses
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
 // #Backtracking #Algorithm_II_Day_11_Recursion_Backtracking #Udemy_Backtracking/Recursion

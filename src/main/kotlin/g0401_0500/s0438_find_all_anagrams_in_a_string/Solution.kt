@@ -1,4 +1,4 @@
-package g0401_0500.s0438_find_all_anagrams_in_a_string;
+package g0401_0500.s0438_find_all_anagrams_in_a_string
 
 // #Medium #Top_100_Liked_Questions #String #Hash_Table #Sliding_Window
 // #Algorithm_II_Day_5_Sliding_Window #Programming_Skills_II_Day_12

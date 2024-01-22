@@ -1,4 +1,4 @@
-package g0101_0200.s0160_intersection_of_two_linked_lists;
+package g0101_0200.s0160_intersection_of_two_linked_lists
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Two_Pointers #Linked_List
 // #Data_Structure_II_Day_11_Linked_List #Udemy_Linked_List #Big_O_Time_O(M+N)_Space_O(1)

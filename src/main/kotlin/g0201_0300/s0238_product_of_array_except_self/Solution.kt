@@ -1,4 +1,4 @@
-package g0201_0300.s0238_product_of_array_except_self;
+package g0201_0300.s0238_product_of_array_except_self
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Prefix_Sum
 // #Data_Structure_II_Day_5_Array #Udemy_Arrays #Big_O_Time_O(n^2)_Space_O(n)

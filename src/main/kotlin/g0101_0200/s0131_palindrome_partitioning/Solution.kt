@@ -1,4 +1,4 @@
-package g0101_0200.s0131_palindrome_partitioning;
+package g0101_0200.s0131_palindrome_partitioning
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
 // #Backtracking #Big_O_Time_O(N*2^N)_Space_O(2^N*N)

@@ -1,4 +1,4 @@
-package g0101_0200.s0155_min_stack;
+package g0101_0200.s0155_min_stack
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
 // #Data_Structure_II_Day_14_Stack_Queue #Programming_Skills_II_Day_18 #Level_2_Day_16_Design

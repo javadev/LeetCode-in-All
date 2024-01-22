@@ -1,4 +1,4 @@
-package g0101_0200.s0139_word_break;
+package g0101_0200.s0139_word_break
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table
 // #Dynamic_Programming #Trie #Memoization #Algorithm_II_Day_15_Dynamic_Programming

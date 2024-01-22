@@ -1,4 +1,4 @@
-package g0301_0400.s0347_top_k_frequent_elements;
+package g0301_0400.s0347_top_k_frequent_elements
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Sorting
 // #Heap_Priority_Queue #Counting #Divide_and_Conquer #Quickselect #Bucket_Sort

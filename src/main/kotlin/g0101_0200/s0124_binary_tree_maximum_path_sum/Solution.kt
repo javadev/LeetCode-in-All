@@ -1,4 +1,4 @@
-package g0101_0200.s0124_binary_tree_maximum_path_sum;
+package g0101_0200.s0124_binary_tree_maximum_path_sum
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Dynamic_Programming #Depth_First_Search
 // #Tree #Binary_Tree #Udemy_Tree_Stack_Queue #Big_O_Time_O(N)_Space_O(N)

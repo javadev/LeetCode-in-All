@@ -1,4 +1,4 @@
-package g0001_0100.s0035_search_insert_position;
+package g0001_0100.s0035_search_insert_position
 
 // #Easy #Top_100_Liked_Questions #Array #Binary_Search #Algorithm_I_Day_1_Binary_Search
 // #Binary_Search_I_Day_2 #Big_O_Time_O(log_n)_Space_O(1)

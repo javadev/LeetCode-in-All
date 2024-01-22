@@ -1,4 +1,4 @@
-package g0001_0100.s0051_n_queens;
+package g0001_0100.s0051_n_queens
 
 // #Hard #Top_100_Liked_Questions #Array #Backtracking #Big_O_Time_O(N!)_Space_O(N)
 

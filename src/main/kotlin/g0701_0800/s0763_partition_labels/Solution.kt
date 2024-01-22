@@ -1,4 +1,4 @@
-package g0701_0800.s0763_partition_labels;
+package g0701_0800.s0763_partition_labels
 
 // #Medium #Top_100_Liked_Questions #String #Hash_Table #Greedy #Two_Pointers
 // #Data_Structure_II_Day_7_String #Big_O_Time_O(n)_Space_O(1)

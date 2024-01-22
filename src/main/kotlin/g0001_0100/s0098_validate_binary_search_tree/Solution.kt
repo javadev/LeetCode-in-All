@@ -1,4 +1,4 @@
-package g0001_0100.s0098_validate_binary_search_tree;
+package g0001_0100.s0098_validate_binary_search_tree
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search #Tree #Binary_Tree
 // #Binary_Search_Tree #Data_Structure_I_Day_14_Tree #Level_1_Day_8_Binary_Search_Tree
