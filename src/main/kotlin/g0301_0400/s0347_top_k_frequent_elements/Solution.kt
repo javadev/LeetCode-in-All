@@ -1,0 +1,34 @@
+package g0301_0400.s0347_top_k_frequent_elements;
+
+// #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Sorting
+// #Heap_Priority_Queue #Counting #Divide_and_Conquer #Quickselect #Bucket_Sort
+// #Data_Structure_II_Day_20_Heap_Priority_Queue #Big_O_Time_O(n*log(n))_Space_O(k)
+
+import java.util.PriorityQueue
+import java.util.Queue
+
+@Suppress("kotlin:S6518")
+class Solution {
+    fun topKFrequent(nums: IntArray, k: Int): IntArray {
+        nums.sort()
+        // Min heap of <number, frequency>
+        val queue: Queue<IntArray> = PriorityQueue(k + 1) { a: IntArray, b: IntArray -> a[1] - b[1] }
+        // Filter with min heap
+        var j = 0
+        for (i in 0..nums.size) {
+            if (i == nums.size || nums[i] != nums[j]) {
+                queue.offer(intArrayOf(nums[j], i - j))
+                if (queue.size > k) {
+                    queue.poll()
+                }
+                j = i
+            }
+        }
+        // Convert to int array
+        val result = IntArray(k)
+        for (i in k - 1 downTo 0) {
+            result[i] = queue.poll().get(0)
+        }
+        return result
+    }
+}

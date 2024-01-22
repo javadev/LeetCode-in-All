@@ -1,0 +1,38 @@
+package g0101_0200.s0124_binary_tree_maximum_path_sum;
+
+// #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Dynamic_Programming #Depth_First_Search
+// #Tree #Binary_Tree #Udemy_Tree_Stack_Queue #Big_O_Time_O(N)_Space_O(N)
+
+import com_github_leetcode.TreeNode
+
+/*
+ * Example:
+ * var ti = TreeNode(5)
+ * var v = ti.`val`
+ * Definition for a binary tree node.
+ * class TreeNode(var `val`: Int) {
+ *     var left: TreeNode? = null
+ *     var right: TreeNode? = null
+ * }
+ */
+class Solution {
+    private var max = Int.MIN_VALUE
+    private fun helper(root: TreeNode?): Int {
+        if (root == null) {
+            return 0
+        }
+        // to avoid the -ve values in left side we will compare them with 0
+        val left = Math.max(0, helper(root.left))
+        val right = Math.max(0, helper(root.right))
+        val current: Int = root.`val` + left + right
+        if (current > max) {
+            max = current
+        }
+        return root.`val` + Math.max(left, right)
+    }
+
+    fun maxPathSum(root: TreeNode?): Int {
+        helper(root)
+        return max
+    }
+}
