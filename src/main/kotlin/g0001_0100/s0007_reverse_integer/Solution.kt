@@ -1,6 +1,7 @@
 package g0001_0100.s0007_reverse_integer
 
 // #Medium #Top_Interview_Questions #Math #Udemy_Integers
+// #2023_07_03_Time_149_ms_(77.89%)_Space_33.5_MB_(84.42%)
 
 class Solution {
     fun reverse(x: Int): Int {
