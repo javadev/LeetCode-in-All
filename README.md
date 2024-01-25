@@ -2,7 +2,7 @@
 
 [![Java CI](https://github.com/javadev/LeetCode-in-All/actions/workflows/maven.yml/badge.svg)](https://github.com/javadev/LeetCode-in-All/actions/workflows/maven.yml)
 [![CodeQL](https://github.com/javadev/LeetCode-in-All/actions/workflows/codeql.yml/badge.svg)](https://github.com/javadev/LeetCode-in-All/actions/workflows/codeql.yml)
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/javadev/LeetCode-in-Net/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/javadev/LeetCode-in-All/blob/main/LICENSE)
 
 104 LeetCode algorithm problem solutions.
 
