@@ -9,7 +9,6 @@
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Dynamic Programming I](#dynamic-programming-i)
 * [Programming Skills I](#programming-skills-i)
 * [Programming Skills II](#programming-skills-ii)
 * [Graph Theory I](#graph-theory-i)
@@ -23,131 +22,7 @@
 * [Algorithm II](#algorithm-ii)
 * [Binary Search I](#binary-search-i)
 * [Binary Search II](#binary-search-ii)
-
-### Dynamic Programming I
-
-#### Day 1
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 2
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0070 |Climbing Stairs| [Java](src/main/java/g0001_0100/s0070_climbing_stairs/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0070_climbing_stairs/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0070_climbing_stairs/solution.ts) [Scala](src/main/scala/g0001_0100/s0070_climbing_stairs/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0070_climbing_stairs/solution.rb) [PHP](src/main/php/g0001_0100/s0070_climbing_stairs/Solution.php) [C#](src/main/csharp/G0001_0100/S0070_climbing_stairs/Solution.cs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 44 | 94.58
-
-#### Day 3
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0198 |House Robber| [Java](src/main/java/g0101_0200/s0198_house_robber/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0198_house_robber/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0198_house_robber/solution.ts) [Scala](src/main/scala/g0101_0200/s0198_house_robber/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0198_house_robber/solution.rb) [PHP](src/main/php/g0101_0200/s0198_house_robber/Solution.php) [C#](src/main/csharp/G0101_0200/S0198_house_robber/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 51 | 77.29
-
-#### Day 4
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0055 |Jump Game| [Java](src/main/java/g0001_0100/s0055_jump_game/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0055_jump_game/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0055_jump_game/solution.ts) [Scala](src/main/scala/g0001_0100/s0055_jump_game/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0055_jump_game/solution.rb) [PHP](src/main/php/g0001_0100/s0055_jump_game/Solution.php) [C#](src/main/csharp/G0001_0100/S0055_jump_game/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 58 | 91.95
-| 0045 |Jump Game II| [Java](src/main/java/g0001_0100/s0045_jump_game_ii/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0045_jump_game_ii/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0045_jump_game_ii/solution.ts) [Scala](src/main/scala/g0001_0100/s0045_jump_game_ii/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0045_jump_game_ii/solution.rb) [PHP](src/main/php/g0001_0100/s0045_jump_game_ii/Solution.php) [C#](src/main/csharp/G0001_0100/S0045_jump_game_ii/Solution.cs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 50 | 95.93
-
-#### Day 5
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0053 |Maximum Subarray| [Java](src/main/java/g0001_0100/s0053_maximum_subarray/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0053_maximum_subarray/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0053_maximum_subarray/solution.ts) [Scala](src/main/scala/g0001_0100/s0053_maximum_subarray/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0053_maximum_subarray/solution.rb) [PHP](src/main/php/g0001_0100/s0053_maximum_subarray/Solution.php) [C#](src/main/csharp/G0001_0100/S0053_maximum_subarray/Solution.cs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 66 | 90.36
-
-#### Day 6
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0152 |Maximum Product Subarray| [Java](src/main/java/g0101_0200/s0152_maximum_product_subarray/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0152_maximum_product_subarray/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0152_maximum_product_subarray/solution.ts) [Scala](src/main/scala/g0101_0200/s0152_maximum_product_subarray/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0152_maximum_product_subarray/solution.rb) [PHP](src/main/php/g0101_0200/s0152_maximum_product_subarray/Solution.php) [C#](src/main/csharp/G0101_0200/S0152_maximum_product_subarray/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 53 | 87.50
-
-#### Day 7
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0121 |Best Time to Buy and Sell Stock| [Java](src/main/java/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.ts) [Scala](src/main/scala/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.rb) [PHP](src/main/php/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.php) [C#](src/main/csharp/G0101_0200/S0121_best_time_to_buy_and_sell_stock/Solution.cs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 56 | 99.56
-
-#### Day 8
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0139 |Word Break| [Java](src/main/java/g0101_0200/s0139_word_break/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0139_word_break/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0139_word_break/solution.ts) [Scala](src/main/scala/g0101_0200/s0139_word_break/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0139_word_break/solution.rb) [PHP](src/main/php/g0101_0200/s0139_word_break/Solution.php) [C#](src/main/csharp/G0101_0200/S0139_word_break/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 56 | 88.44
-| 0042 |Trapping Rain Water| [Java](src/main/java/g0001_0100/s0042_trapping_rain_water/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0042_trapping_rain_water/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0042_trapping_rain_water/solution.ts) [Scala](src/main/scala/g0001_0100/s0042_trapping_rain_water/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0042_trapping_rain_water/solution.rb) [PHP](src/main/php/g0001_0100/s0042_trapping_rain_water/Solution.php) [C#](src/main/csharp/G0001_0100/S0042_trapping_rain_water/Solution.cs)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 46 | 99.52
-
-#### Day 10
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 11
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0096 |Unique Binary Search Trees| [Java](src/main/java/g0001_0100/s0096_unique_binary_search_trees/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0096_unique_binary_search_trees/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0096_unique_binary_search_trees/solution.ts) [Scala](src/main/scala/g0001_0100/s0096_unique_binary_search_trees/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0096_unique_binary_search_trees/solution.rb) [PHP](src/main/php/g0001_0100/s0096_unique_binary_search_trees/Solution.php) [C#](src/main/csharp/G0001_0100/S0096_unique_binary_search_trees/Solution.cs)| Medium | Top_100_Liked_Questions, Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 45 | 96.00
-
-#### Day 12
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 13
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 14
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 15
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0062 |Unique Paths| [Java](src/main/java/g0001_0100/s0062_unique_paths/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0062_unique_paths/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0062_unique_paths/solution.ts) [Scala](src/main/scala/g0001_0100/s0062_unique_paths/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0062_unique_paths/solution.rb) [PHP](src/main/php/g0001_0100/s0062_unique_paths/Solution.php) [C#](src/main/csharp/G0001_0100/S0062_unique_paths/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 40 | 98.97
-
-#### Day 16
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0064 |Minimum Path Sum| [Java](src/main/java/g0001_0100/s0064_minimum_path_sum/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0064_minimum_path_sum/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0064_minimum_path_sum/solution.ts) [Scala](src/main/scala/g0001_0100/s0064_minimum_path_sum/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0064_minimum_path_sum/solution.rb) [PHP](src/main/php/g0001_0100/s0064_minimum_path_sum/Solution.php) [C#](src/main/csharp/G0001_0100/S0064_minimum_path_sum/Solution.cs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 48 | 99.67
-| 0221 |Maximal Square| [Java](src/main/java/g0201_0300/s0221_maximal_square/Solution.java) [Kotlin](src/main/kotlin/g0201_0300/s0221_maximal_square/Solution.kt) [TypeScript](src/main/ts/g0201_0300/s0221_maximal_square/solution.ts) [Scala](src/main/scala/g0201_0300/s0221_maximal_square/Solution.scala) [Ruby](src/main/ruby/g0201_0300/s0221_maximal_square/solution.rb) [PHP](src/main/php/g0201_0300/s0221_maximal_square/Solution.php) [C#](src/main/csharp/G0201_0300/S0221_maximal_square/Solution.cs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 83 | 79.70
-
-#### Day 17
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0005 |Longest Palindromic Substring| [Java](src/main/java/g0001_0100/s0005_longest_palindromic_substring/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0005_longest_palindromic_substring/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0005_longest_palindromic_substring/solution.ts) [Scala](src/main/scala/g0001_0100/s0005_longest_palindromic_substring/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0005_longest_palindromic_substring/solution.rb) [PHP](src/main/php/g0001_0100/s0005_longest_palindromic_substring/Solution.php) [C#](src/main/csharp/G0001_0100/S0005_longest_palindromic_substring/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 68 | 95.34
-
-#### Day 18
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0300 |Longest Increasing Subsequence| [Java](src/main/java/g0201_0300/s0300_longest_increasing_subsequence/Solution.java) [Kotlin](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt) [TypeScript](src/main/ts/g0201_0300/s0300_longest_increasing_subsequence/solution.ts) [Scala](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence/Solution.scala) [Ruby](src/main/ruby/g0201_0300/s0300_longest_increasing_subsequence/solution.rb) [PHP](src/main/php/g0201_0300/s0300_longest_increasing_subsequence/Solution.php) [C#](src/main/csharp/G0201_0300/S0300_longest_increasing_subsequence/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 57 | 93.75
-
-#### Day 19
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 1143 |Longest Common Subsequence| [Java](src/main/java/g1101_1200/s1143_longest_common_subsequence/Solution.java) [Kotlin](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence/Solution.kt) [TypeScript](src/main/ts/g1101_1200/s1143_longest_common_subsequence/solution.ts) [Scala](src/main/scala/g1101_1200/s1143_longest_common_subsequence/Solution.scala) [Ruby](src/main/ruby/g1101_1200/s1143_longest_common_subsequence/solution.rb) [PHP](src/main/php/g1101_1200/s1143_longest_common_subsequence/Solution.php) [C#](src/main/csharp/G1101_1200/S1143_longest_common_subsequence/Solution.cs)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 94 | 80.56
-| 0072 |Edit Distance| [Java](src/main/java/g0001_0100/s0072_edit_distance/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0072_edit_distance/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0072_edit_distance/solution.ts) [Scala](src/main/scala/g0001_0100/s0072_edit_distance/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0072_edit_distance/solution.rb) [PHP](src/main/php/g0001_0100/s0072_edit_distance/Solution.php) [C#](src/main/csharp/G0001_0100/S0072_edit_distance/Solution.cs)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 68 | 95.20
-
-#### Day 20
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0322 |Coin Change| [Java](src/main/java/g0301_0400/s0322_coin_change/Solution.java) [Kotlin](src/main/kotlin/g0301_0400/s0322_coin_change/Solution.kt) [TypeScript](src/main/ts/g0301_0400/s0322_coin_change/solution.ts) [Scala](src/main/scala/g0301_0400/s0322_coin_change/Solution.scala) [Ruby](src/main/ruby/g0301_0400/s0322_coin_change/solution.rb) [PHP](src/main/php/g0301_0400/s0322_coin_change/Solution.php) [C#](src/main/csharp/G0301_0400/S0322_coin_change/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 85 | 86.14
-
-#### Day 21
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
+* [Dynamic Programming I](#dynamic-programming-i)
 
 ### Programming Skills I
 
@@ -1401,6 +1276,131 @@
 |-|-|-|-|-|-|-
 
 #### Day 20
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+### Dynamic Programming I
+
+#### Day 1
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 2
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0070 |Climbing Stairs| [Java](src/main/java/g0001_0100/s0070_climbing_stairs/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0070_climbing_stairs/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0070_climbing_stairs/solution.ts) [Scala](src/main/scala/g0001_0100/s0070_climbing_stairs/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0070_climbing_stairs/solution.rb) [PHP](src/main/php/g0001_0100/s0070_climbing_stairs/Solution.php) [C#](src/main/csharp/G0001_0100/S0070_climbing_stairs/Solution.cs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 44 | 94.58
+
+#### Day 3
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0198 |House Robber| [Java](src/main/java/g0101_0200/s0198_house_robber/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0198_house_robber/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0198_house_robber/solution.ts) [Scala](src/main/scala/g0101_0200/s0198_house_robber/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0198_house_robber/solution.rb) [PHP](src/main/php/g0101_0200/s0198_house_robber/Solution.php) [C#](src/main/csharp/G0101_0200/S0198_house_robber/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 51 | 77.29
+
+#### Day 4
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0055 |Jump Game| [Java](src/main/java/g0001_0100/s0055_jump_game/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0055_jump_game/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0055_jump_game/solution.ts) [Scala](src/main/scala/g0001_0100/s0055_jump_game/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0055_jump_game/solution.rb) [PHP](src/main/php/g0001_0100/s0055_jump_game/Solution.php) [C#](src/main/csharp/G0001_0100/S0055_jump_game/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 58 | 91.95
+| 0045 |Jump Game II| [Java](src/main/java/g0001_0100/s0045_jump_game_ii/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0045_jump_game_ii/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0045_jump_game_ii/solution.ts) [Scala](src/main/scala/g0001_0100/s0045_jump_game_ii/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0045_jump_game_ii/solution.rb) [PHP](src/main/php/g0001_0100/s0045_jump_game_ii/Solution.php) [C#](src/main/csharp/G0001_0100/S0045_jump_game_ii/Solution.cs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 50 | 95.93
+
+#### Day 5
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0053 |Maximum Subarray| [Java](src/main/java/g0001_0100/s0053_maximum_subarray/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0053_maximum_subarray/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0053_maximum_subarray/solution.ts) [Scala](src/main/scala/g0001_0100/s0053_maximum_subarray/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0053_maximum_subarray/solution.rb) [PHP](src/main/php/g0001_0100/s0053_maximum_subarray/Solution.php) [C#](src/main/csharp/G0001_0100/S0053_maximum_subarray/Solution.cs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 66 | 90.36
+
+#### Day 6
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0152 |Maximum Product Subarray| [Java](src/main/java/g0101_0200/s0152_maximum_product_subarray/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0152_maximum_product_subarray/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0152_maximum_product_subarray/solution.ts) [Scala](src/main/scala/g0101_0200/s0152_maximum_product_subarray/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0152_maximum_product_subarray/solution.rb) [PHP](src/main/php/g0101_0200/s0152_maximum_product_subarray/Solution.php) [C#](src/main/csharp/G0101_0200/S0152_maximum_product_subarray/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 53 | 87.50
+
+#### Day 7
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0121 |Best Time to Buy and Sell Stock| [Java](src/main/java/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.ts) [Scala](src/main/scala/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock/solution.rb) [PHP](src/main/php/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.php) [C#](src/main/csharp/G0101_0200/S0121_best_time_to_buy_and_sell_stock/Solution.cs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 56 | 99.56
+
+#### Day 8
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0139 |Word Break| [Java](src/main/java/g0101_0200/s0139_word_break/Solution.java) [Kotlin](src/main/kotlin/g0101_0200/s0139_word_break/Solution.kt) [TypeScript](src/main/ts/g0101_0200/s0139_word_break/solution.ts) [Scala](src/main/scala/g0101_0200/s0139_word_break/Solution.scala) [Ruby](src/main/ruby/g0101_0200/s0139_word_break/solution.rb) [PHP](src/main/php/g0101_0200/s0139_word_break/Solution.php) [C#](src/main/csharp/G0101_0200/S0139_word_break/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 56 | 88.44
+| 0042 |Trapping Rain Water| [Java](src/main/java/g0001_0100/s0042_trapping_rain_water/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0042_trapping_rain_water/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0042_trapping_rain_water/solution.ts) [Scala](src/main/scala/g0001_0100/s0042_trapping_rain_water/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0042_trapping_rain_water/solution.rb) [PHP](src/main/php/g0001_0100/s0042_trapping_rain_water/Solution.php) [C#](src/main/csharp/G0001_0100/S0042_trapping_rain_water/Solution.cs)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 46 | 99.52
+
+#### Day 10
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 11
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0096 |Unique Binary Search Trees| [Java](src/main/java/g0001_0100/s0096_unique_binary_search_trees/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0096_unique_binary_search_trees/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0096_unique_binary_search_trees/solution.ts) [Scala](src/main/scala/g0001_0100/s0096_unique_binary_search_trees/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0096_unique_binary_search_trees/solution.rb) [PHP](src/main/php/g0001_0100/s0096_unique_binary_search_trees/Solution.php) [C#](src/main/csharp/G0001_0100/S0096_unique_binary_search_trees/Solution.cs)| Medium | Top_100_Liked_Questions, Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 45 | 96.00
+
+#### Day 12
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 13
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 14
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 15
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0062 |Unique Paths| [Java](src/main/java/g0001_0100/s0062_unique_paths/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0062_unique_paths/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0062_unique_paths/solution.ts) [Scala](src/main/scala/g0001_0100/s0062_unique_paths/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0062_unique_paths/solution.rb) [PHP](src/main/php/g0001_0100/s0062_unique_paths/Solution.php) [C#](src/main/csharp/G0001_0100/S0062_unique_paths/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 40 | 98.97
+
+#### Day 16
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0064 |Minimum Path Sum| [Java](src/main/java/g0001_0100/s0064_minimum_path_sum/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0064_minimum_path_sum/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0064_minimum_path_sum/solution.ts) [Scala](src/main/scala/g0001_0100/s0064_minimum_path_sum/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0064_minimum_path_sum/solution.rb) [PHP](src/main/php/g0001_0100/s0064_minimum_path_sum/Solution.php) [C#](src/main/csharp/G0001_0100/S0064_minimum_path_sum/Solution.cs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 48 | 99.67
+| 0221 |Maximal Square| [Java](src/main/java/g0201_0300/s0221_maximal_square/Solution.java) [Kotlin](src/main/kotlin/g0201_0300/s0221_maximal_square/Solution.kt) [TypeScript](src/main/ts/g0201_0300/s0221_maximal_square/solution.ts) [Scala](src/main/scala/g0201_0300/s0221_maximal_square/Solution.scala) [Ruby](src/main/ruby/g0201_0300/s0221_maximal_square/solution.rb) [PHP](src/main/php/g0201_0300/s0221_maximal_square/Solution.php) [C#](src/main/csharp/G0201_0300/S0221_maximal_square/Solution.cs)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 83 | 79.70
+
+#### Day 17
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0005 |Longest Palindromic Substring| [Java](src/main/java/g0001_0100/s0005_longest_palindromic_substring/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0005_longest_palindromic_substring/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0005_longest_palindromic_substring/solution.ts) [Scala](src/main/scala/g0001_0100/s0005_longest_palindromic_substring/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0005_longest_palindromic_substring/solution.rb) [PHP](src/main/php/g0001_0100/s0005_longest_palindromic_substring/Solution.php) [C#](src/main/csharp/G0001_0100/S0005_longest_palindromic_substring/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 68 | 95.34
+
+#### Day 18
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0300 |Longest Increasing Subsequence| [Java](src/main/java/g0201_0300/s0300_longest_increasing_subsequence/Solution.java) [Kotlin](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence/Solution.kt) [TypeScript](src/main/ts/g0201_0300/s0300_longest_increasing_subsequence/solution.ts) [Scala](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence/Solution.scala) [Ruby](src/main/ruby/g0201_0300/s0300_longest_increasing_subsequence/solution.rb) [PHP](src/main/php/g0201_0300/s0300_longest_increasing_subsequence/Solution.php) [C#](src/main/csharp/G0201_0300/S0300_longest_increasing_subsequence/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 57 | 93.75
+
+#### Day 19
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 1143 |Longest Common Subsequence| [Java](src/main/java/g1101_1200/s1143_longest_common_subsequence/Solution.java) [Kotlin](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence/Solution.kt) [TypeScript](src/main/ts/g1101_1200/s1143_longest_common_subsequence/solution.ts) [Scala](src/main/scala/g1101_1200/s1143_longest_common_subsequence/Solution.scala) [Ruby](src/main/ruby/g1101_1200/s1143_longest_common_subsequence/solution.rb) [PHP](src/main/php/g1101_1200/s1143_longest_common_subsequence/Solution.php) [C#](src/main/csharp/G1101_1200/S1143_longest_common_subsequence/Solution.cs)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 94 | 80.56
+| 0072 |Edit Distance| [Java](src/main/java/g0001_0100/s0072_edit_distance/Solution.java) [Kotlin](src/main/kotlin/g0001_0100/s0072_edit_distance/Solution.kt) [TypeScript](src/main/ts/g0001_0100/s0072_edit_distance/solution.ts) [Scala](src/main/scala/g0001_0100/s0072_edit_distance/Solution.scala) [Ruby](src/main/ruby/g0001_0100/s0072_edit_distance/solution.rb) [PHP](src/main/php/g0001_0100/s0072_edit_distance/Solution.php) [C#](src/main/csharp/G0001_0100/S0072_edit_distance/Solution.cs)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 68 | 95.20
+
+#### Day 20
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0322 |Coin Change| [Java](src/main/java/g0301_0400/s0322_coin_change/Solution.java) [Kotlin](src/main/kotlin/g0301_0400/s0322_coin_change/Solution.kt) [TypeScript](src/main/ts/g0301_0400/s0322_coin_change/solution.ts) [Scala](src/main/scala/g0301_0400/s0322_coin_change/Solution.scala) [Ruby](src/main/ruby/g0301_0400/s0322_coin_change/solution.rb) [PHP](src/main/php/g0301_0400/s0322_coin_change/Solution.php) [C#](src/main/csharp/G0301_0400/S0322_coin_change/Solution.cs)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 85 | 86.14
+
+#### Day 21
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-|-
