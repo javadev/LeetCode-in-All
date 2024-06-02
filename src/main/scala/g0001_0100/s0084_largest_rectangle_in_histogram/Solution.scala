@@ -1,7 +1,9 @@
 package g0001_0100.s0084_largest_rectangle_in_histogram
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Stack #Monotonic_Stack
-// #Big_O_Time_O(n_log_n)_Space_O(log_n) #2023_11_02_Time_904_ms_(71.43%)_Space_77.5_MB_(35.71%)
+// #Big_O_Time_O(n_log_n)_Space_O(log_n) #2024_06_02_Time_1092_ms_(71.43%)_Space_76.1_MB_(64.29%)
+
+import scala.util.control.Breaks.{break, breakable}
 
 object Solution {
     def largestRectangleArea(heights: Array[Int]): Int = {
@@ -54,12 +56,16 @@ object Solution {
     }
 
     private def checkIfSorted(a: Array[Int], start: Int, limit: Int): Boolean = {
-        for (i <- start + 1 until limit) {
-            if (a(i) < a(i - 1)) {
-                return false
+        var sorted = true
+        breakable {
+            for (i <- start + 1 until limit) {
+                if (a(i) < a(i - 1)) {
+                    sorted = false
+                    break
+                }
             }
         }
-        true
+        sorted
     }
 
     private def maxOfThreeNums(a: Int, b: Int, c: Int): Int = {
