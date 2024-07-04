@@ -45,4 +45,3 @@ public class Solution {
         return String(s[s.index(s.startIndex, offsetBy: start)..<s.index(s.startIndex, offsetBy: end)])
     }
 }
-

@@ -47,7 +47,7 @@ To solve the "Swap Nodes in Pairs" problem in Swift with a `Solution` class, we 
 Here's the implementation:
 
 ```swift
-/*
+/**
  * Definition for singly-linked list.
  * public class ListNode {
  *     public var val: Int
