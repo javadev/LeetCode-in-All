@@ -3,19 +3,18 @@
 
 class Solution {
     func subarraySum(_ nums: [Int], _ k: Int) -> Int {
-       var result = 0
-    var dict = [Int: Int]()
-    dict[0] = 1
+        var result = 0
+        var dict = [Int: Int]()
+        dict[0] = 1
     
-    var sum = 0
-    for num in nums {
-        sum += num
-        if let val = dict[sum - k] {
-            result += val
+        var sum = 0
+        for num in nums {
+            sum += num
+            if let val = dict[sum - k] {
+                result += val
+            }
+            dict[sum, default: 0] += 1
         }
-        dict[sum, default: 0] += 1
-        }
-
-     return result 
+        return result 
     }
 }

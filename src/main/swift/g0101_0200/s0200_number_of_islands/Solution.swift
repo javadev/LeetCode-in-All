@@ -1,35 +1,36 @@
-// #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Linked_List #Recursion
-// #Data_Structure_I_Day_8_Linked_List #Algorithm_I_Day_10_Recursion_Backtracking
-// #Level_1_Day_3_Linked_List #Udemy_Linked_List #Big_O_Time_O(N)_Space_O(1)
-// #2024_06_28_Time_4_ms_(89.47%)_Space_16_MB_(24.52%)
+// #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Depth_First_Search
+// #Breadth_First_Search #Matrix #Union_Find
+// #Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search
+// #Graph_Theory_I_Day_1_Matrix_Related_Problems #Level_1_Day_9_Graph/BFS/DFS #Udemy_Graph
+// #Big_O_Time_O(M*N)_Space_O(M*N) #2024_07_04_Time_152_ms_(70.92%)_Space_19.2_MB_(44.62%)
 
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     public var val: Int
- *     public var next: ListNode?
- *     public init() { self.val = 0; self.next = nil; }
- *     public init(_ val: Int) { self.val = val; self.next = nil; }
- *     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
- * }
- */
 class Solution {
-    func reverseList(_ head: ListNode?) -> ListNode? {
-        var prev: ListNode? = nil
-        var curr = head
-        var next = head?.next
+    func numIslands(_ grid: [[Character]]) -> Int {
+        var grid = grid
+        var islands = 0
 
-        while curr != nil {
+        if !grid.isEmpty && !grid[0].isEmpty {
+            for i in 0..<grid.count {
+                for j in 0..<grid[0].count {
+                    if grid[i][j] == "1" {
+                        dfs(&grid, i, j)
+                        islands += 1
+                    }
+                }
+            }
+        }
+        return islands
+    }
 
-            // reverse the current nodes link
-            curr?.next = prev
-            
-            // update variables
-            prev = curr
-            curr = next
-            next = next?.next
+    private func dfs(_ grid: inout [[Character]], _ x: Int, _ y: Int) {
+        if x < 0 || x >= grid.count || y < 0 || y >= grid[0].count || grid[x][y] != "1" {
+            return
         }
 
-        return prev
+        grid[x][y] = "x"
+        dfs(&grid, x + 1, y)
+        dfs(&grid, x - 1, y)
+        dfs(&grid, x, y + 1)
+        dfs(&grid, x, y - 1)
     }
 }
