@@ -1,6 +1,6 @@
 # LeetCode-in-All
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.javadev/leetcode-in-all?style=flat-square)](https://central.sonatype.com/artifact/com.github.javadev/leetcode-in-all/1.0)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.javadev/leetcode-in-all?style=flat-square)](https://central.sonatype.com/artifact/com.github.javadev/leetcode-in-all/1.1)
 [![Java CI](https://github.com/javadev/LeetCode-in-All/actions/workflows/maven.yml/badge.svg)](https://github.com/javadev/LeetCode-in-All/actions/workflows/maven.yml)
 [![CodeQL](https://github.com/javadev/LeetCode-in-All/actions/workflows/codeql.yml/badge.svg)](https://github.com/javadev/LeetCode-in-All/actions/workflows/codeql.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/javadev/LeetCode-in-All/blob/main/LICENSE)
