@@ -49,46 +49,32 @@ Here's the implementation:
 
 ```swift
 class Solution {
-    func removeNthFromEnd(_ head: ListNode?, _ n: Int) -> ListNode? {
-        
-          guard ((head?.next) != nil), n > 0 else {return nil}
-        
+    func removeNthFromEnd(_ head: ListNode?, _ n: Int) -> ListNode? {        
+        guard ((head?.next) != nil), n > 0 else {return nil}        
         var count = 0
-        var current = head
-        
+        var current = head        
         while let currentNode = current{
             count += 1
             current = currentNode.next
-        }
-        
+        }        
         current = head
-        count = count - n + 1
-      
-        var prev: ListNode?
-        
-        while let currentNode = current{
-            
-            count -= 1
-            
-            if count == 0{
-            
-                if prev == nil{
+        count = count - n + 1      
+        var prev: ListNode?        
+        while let currentNode = current {            
+            count -= 1            
+            if count == 0 {            
+                if prev == nil {
                     current = current?.next
                     return current
-                }else{
+                } else {
                     prev?.next = current?.next
                 }
                 break
-            }
-            
+            }            
             prev = current
-            current = current?.next
-            
-        }
-        
-        return head
-
-        
+            current = current?.next            
+        }        
+        return head        
     }
 }
 ```
