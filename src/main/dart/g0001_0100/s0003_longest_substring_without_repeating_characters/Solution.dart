@@ -10,7 +10,8 @@ class Solution {
     int start = 0;
 
     for (int i = 0; i < s.length; i++) {
-      int cur = s.codeUnitAt(i); // Getting ASCII value of the character
+      // Getting ASCII value of the character
+      int cur = s.codeUnitAt(i);
       if (lastIndices[cur] < start) {
         lastIndices[cur] = i;
         curLen++;

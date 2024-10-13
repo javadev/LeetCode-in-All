@@ -12,7 +12,7 @@
  * }
  */
 class Solution {
-  int _max = -999999999; // Use a large negative value instead of -double.infinity.toInt()
+  int _max = -999999999;
 
   int _helper(TreeNode? root) {
     if (root == null) {

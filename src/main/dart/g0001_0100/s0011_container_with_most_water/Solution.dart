@@ -2,6 +2,8 @@
 // #Algorithm_II_Day_4_Two_Pointers #Big_O_Time_O(n)_Space_O(1)
 // #2024_09_30_Time_337_ms_(96.77%)_Space_172.5_MB_(64.52%)
 
+import 'dart:math';
+
 class Solution {
   int maxArea(List<int> height) {
     int maxArea = -1;
@@ -19,9 +21,5 @@ class Solution {
     }
 
     return maxArea;
-  }
-
-  int max(int a, int b) {
-    return (a > b) ? a : b;
   }
 }

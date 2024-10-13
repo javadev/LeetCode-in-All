@@ -31,16 +31,14 @@ class Solution {
     // read digits
     while (current < s.length && digits.containsKey(s[current])) {
       int digit = digits[s[current++]]!;
-      // check owerflow
+      // check overflow
       if (sign == -1 && res < (MIN + digit) / 10) {
         return MIN;
       } else if (res > (MAX - digit) / 10) {
         return MAX;
       }
-
       res = res * 10 + sign * digit;
     }
-
     return res;
   }
 }

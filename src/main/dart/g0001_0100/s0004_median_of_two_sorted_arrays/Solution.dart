@@ -15,8 +15,10 @@ class Solution {
     int low = 0;
     int high = n1;
 
-    int minValue = -pow(2, 31).toInt(); // substitute for Integer.MIN_VALUE
-    int maxValue = pow(2, 31).toInt() - 1; // substitute for Integer.MAX_VALUE
+    // substitute for Integer.MIN_VALUE
+    int minValue = -pow(2, 31).toInt();
+    // substitute for Integer.MAX_VALUE
+    int maxValue = pow(2, 31).toInt() - 1;
 
     while (low <= high) {
       int cut1 = (low + high) ~/ 2;
