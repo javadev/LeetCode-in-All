@@ -3,7 +3,7 @@
 // #Level_1_Day_3_Linked_List #Udemy_Linked_List #Big_O_Time_O(m+n)_Space_O(m+n)
 // #2024_12_04_Time_0_ms_(100.00%)_Space_52.3_MB_(20.64%)
 
-import { ListNode } from "../../com_github_leetcode/listnode";
+import { ListNode } from '../../com_github_leetcode/listnode';
 
 /**
  * Definition for singly-linked list.
