@@ -5,7 +5,7 @@
     <groupId>com.github.javadev</groupId>
     <artifactId>leetcode-in-all</artifactId>
     <packaging>jar</packaging>
-    <version>1.5</version>
+    <version>1.6</version>
     <name>leetcode-in-all</name>
     <description>104 LeetCode algorithm problem solutions</description>
     <url>https://github.com/javadev/LeetCode-in-All</url>
@@ -94,6 +94,7 @@
                                 <source>src/main/rust</source>
                                 <source>src/main/dart</source>
                                 <source>src/main/c</source>
+                                <source>src/main/js</source>
                             </sources>
                         </configuration>
                     </execution>
