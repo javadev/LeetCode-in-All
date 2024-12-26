@@ -8,42 +8,36 @@
  * @return {string}
  */
 var longestPalindrome = function (s) {
-    // Create the transformed string with '#' characters
     const newStr = new Array(s.length * 2 + 1).fill('#')
     for (let i = 0; i < s.length; i++) {
         newStr[2 * i + 1] = s[i]
     }
 
-    const dp = new Array(newStr.length).fill(0) // Array to store radius of palindromes
-    let friendCenter = 0 // Center of the current known palindrome
-    let friendRadius = 0 // Radius of the current known palindrome
-    let lpsCenter = 0 // Center of the longest palindrome
-    let lpsRadius = 0 // Radius of the longest palindrome
+    const dp = new Array(newStr.length).fill(0)
+    let friendCenter = 0
+    let friendRadius = 0
+    let lpsCenter = 0
+    let lpsRadius = 0
 
     for (let i = 0; i < newStr.length; i++) {
-        // Calculate initial radius
         dp[i] =
             friendCenter + friendRadius > i ? Math.min(dp[2 * friendCenter - i], friendCenter + friendRadius - i) : 1
 
-        // Expand the palindrome around the current center
         while (i + dp[i] < newStr.length && i - dp[i] >= 0 && newStr[i + dp[i]] === newStr[i - dp[i]]) {
             dp[i]++
         }
 
-        // Update the friend palindrome if needed
         if (friendCenter + friendRadius < i + dp[i]) {
             friendCenter = i
             friendRadius = dp[i]
         }
 
-        // Update the longest palindrome if needed
         if (lpsRadius < dp[i]) {
             lpsCenter = i
             lpsRadius = dp[i]
         }
     }
 
-    // Extract the longest palindrome substring
     const start = Math.floor((lpsCenter - lpsRadius + 1) / 2)
     const end = Math.floor((lpsCenter + lpsRadius - 1) / 2)
     return s.substring(start, end)

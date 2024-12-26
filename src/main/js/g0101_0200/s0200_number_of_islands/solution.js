@@ -36,12 +36,12 @@ const dfs = function(grid, x, y) {
         return
     }
 
-    grid[x][y] = 'x' // Mark as visited
+    grid[x][y] = 'x'
 
-    dfs(grid, x + 1, y) // Down
-    dfs(grid, x - 1, y) // Up
-    dfs(grid, x, y + 1) // Right
-    dfs(grid, x, y - 1) // Left
+    dfs(grid, x + 1, y)
+    dfs(grid, x - 1, y)
+    dfs(grid, x, y + 1)
+    dfs(grid, x, y - 1)
 };
 
 export { numIslands }

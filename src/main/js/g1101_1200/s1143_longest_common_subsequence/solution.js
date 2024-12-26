@@ -13,10 +13,10 @@ var longestCommonSubsequence = function(text1, text2) {
     const columns = text2.length
     let prevRow = new Array(text2.length + 1).fill(0)
 
-    for(let i = rows - 1; i >= 0; i--) {
+    for (let i = rows - 1; i >= 0; i--) {
         const curRow = new Array(text2.length + 1).fill(0)
-        for(let j = columns - 1; j >= 0; j--) {
-            if(text1[i] == text2[j]) {
+        for (let j = columns - 1; j >= 0; j--) {
+            if (text1[i] == text2[j]) {
                 curRow[j] = 1 + prevRow[j + 1]
             } else {
                 curRow[j] = Math.max(prevRow[j], curRow[j + 1])

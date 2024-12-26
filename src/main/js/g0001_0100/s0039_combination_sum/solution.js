@@ -14,7 +14,7 @@ var combinationSum = function(candidates, target) {
     const combinationSumRec = (n, candidates, target, subList, ans) => {
         if (target === 0 || n === 0) {
             if (target === 0) {
-                ans.push([...subList]) // Create a copy of subList
+                ans.push([...subList])
             }
             return
         }
@@ -22,7 +22,7 @@ var combinationSum = function(candidates, target) {
         if (target - candidates[n - 1] >= 0) {
             subList.push(candidates[n - 1])
             combinationSumRec(n, candidates, target - candidates[n - 1], subList, ans)
-            subList.pop() // Backtracking step
+            subList.pop()
         }
 
         combinationSumRec(n - 1, candidates, target, subList, ans)

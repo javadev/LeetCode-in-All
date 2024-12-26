@@ -11,7 +11,6 @@ var countBits = function(num) {
     let incrPos = 1
 
     for (let i = 1; i <= num; i++) {
-        // When we reach a power of 2, reset `borderPos` and `incrPos`
         if (incrPos === borderPos) {
             result[i] = 1
             incrPos = 1

@@ -12,7 +12,6 @@ var firstMissingPositive = function(nums) {
             nums[i] <= nums.length &&
             nums[nums[i] - 1] !== nums[i]
         ) {
-            // Swap nums[i] with nums[nums[i] - 1]
             let temp = nums[nums[i] - 1]
             nums[nums[i] - 1] = nums[i]
             nums[i] = temp

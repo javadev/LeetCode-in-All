@@ -10,7 +10,6 @@ var partitionLabels = function(s) {
     const result = []
     const position = new Array(26).fill(0)
 
-    // Record the last occurrence of each character
     for (let i = 0; i < letters.length; i++) {
         position[letters[i].charCodeAt(0) - 'a'.charCodeAt(0)] = i
     }

@@ -16,20 +16,13 @@ var trap = function(height) {
         let lVal = height[l]
         let rVal = height[r]
 
-        // Determine the lower wall
         if (lVal < rVal) {
-            // Update the lower wall based on the left pointer
             lowerWall = Math.max(lVal, lowerWall)
-            // Add water trapped at the current position
             res += lowerWall - lVal
-            // Move the left pointer
             l++
         } else {
-            // Update the lower wall based on the right pointer
             lowerWall = Math.max(rVal, lowerWall)
-            // Add water trapped at the current position
             res += lowerWall - rVal
-            // Move the right pointer
             r--
         }
     }

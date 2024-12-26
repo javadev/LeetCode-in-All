@@ -12,13 +12,11 @@ var nextPermutation = function(nums) {
 
     let i = nums.length - 2
 
-    // Find the first index `i` where nums[i] < nums[i + 1]
     while (i >= 0 && nums[i] >= nums[i + 1]) {
         i--
     }
 
     if (i >= 0) {
-        // Find the smallest number larger than nums[i] to swap with
         let j = nums.length - 1
         while (nums[j] <= nums[i]) {
             j--
@@ -26,7 +24,6 @@ var nextPermutation = function(nums) {
         swap(nums, i, j)
     }
 
-    // Reverse the portion of the array from index `i + 1` to the end
     reverse(nums, i + 1, nums.length - 1)
 };
 

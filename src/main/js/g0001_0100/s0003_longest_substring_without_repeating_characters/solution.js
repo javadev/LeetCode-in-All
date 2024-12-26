@@ -8,20 +8,18 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function (s) {
-    const lastIndices = new Array(256).fill(-1) // Array to store last indices of characters
-    let maxLen = 0 // Tracks maximum length of substring
-    let curLen = 0 // Current substring length
-    let start = 0 // Start index of the current substring
+    const lastIndices = new Array(256).fill(-1)
+    let maxLen = 0
+    let curLen = 0
+    let start = 0
 
     for (let i = 0; i < s.length; i++) {
-        const cur = s.charCodeAt(i) // Get ASCII code of the current character
+        const cur = s.charCodeAt(i)
 
         if (lastIndices[cur] < start) {
-            // If the character hasn't been seen in the current substring
             lastIndices[cur] = i
             curLen++
         } else {
-            // If the character was seen, update the start position
             const lastIndex = lastIndices[cur]
             start = lastIndex + 1
             curLen = i - start + 1

@@ -22,7 +22,6 @@ var copyRandomList = function(head) {
         return null
     }
 
-    // First pass: Clone each node and link it to the original node's next
     let curr = head
     while (curr !== null) {
         const clonedNode = new Node(curr.val)
@@ -31,7 +30,6 @@ var copyRandomList = function(head) {
         curr = clonedNode.next
     }
 
-    // Second pass: Set the random pointers for the cloned nodes
     curr = head
     while (curr !== null) {
         if (curr.random !== null) {
@@ -42,7 +40,6 @@ var copyRandomList = function(head) {
         curr = curr.next.next
     }
 
-    // Third pass: Restore the original list and extract the cloned list
     curr = head
     let newHead = head.next
     while (curr !== null) {

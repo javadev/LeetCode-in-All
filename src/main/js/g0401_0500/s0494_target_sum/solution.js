@@ -20,12 +20,11 @@ var findTargetSumWays = function(nums, target) {
 
     const targetSum = Math.floor(sum / 2)
 
-    // Helper function to solve the problem
     const solve = (nums, target) => {
         let prev = new Array(target + 1).fill(0)
 
         if (nums[0] === 0) {
-            prev[0] = 2 // Two ways to form sum 0: +0 and -0
+            prev[0] = 2
         } else {
             prev[0] = 1
         }

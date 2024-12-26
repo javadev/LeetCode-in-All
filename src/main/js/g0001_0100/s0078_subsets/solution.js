@@ -10,22 +10,16 @@ var subsets = function(nums) {
     const res = []
     
     const solve = (temp, start) => {
-        // Add a copy of the current subset
         res.push([...temp])
         
         for (let i = start; i < nums.length; i++) {
-            // Include nums[i] in the current subset
             temp.push(nums[i])
-            
-            // Recur for the next index
             solve(temp, i + 1)
-            
-            // Backtrack by removing the last added element
             temp.pop()
         }
     }
     
-    solve([], 0) // Start with an empty subset and index 0
+    solve([], 0)
     return res
 };
 

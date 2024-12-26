@@ -8,14 +8,12 @@
 var productExceptSelf = function(nums) {
     const res = new Array(nums.length).fill(1)
 
-    // Compute prefix product
     let prefixProduct = 1
     for (let i = 0; i < nums.length; i++) {
         res[i] = prefixProduct
         prefixProduct *= nums[i]
     }
 
-    // Compute suffix product and multiply with prefix product
     let suffixProduct = 1
     for (let i = nums.length - 1; i >= 0; i--) {
         res[i] *= suffixProduct

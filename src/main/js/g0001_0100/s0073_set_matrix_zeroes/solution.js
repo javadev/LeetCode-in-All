@@ -12,7 +12,6 @@ var setZeroes = function(matrix) {
     let row0 = false
     let col0 = false
 
-    // Check if the first column needs to be set to 0 in the future
     for (let i = 0; i < m; i++) {
         if (matrix[i][0] === 0) {
             col0 = true
@@ -20,7 +19,6 @@ var setZeroes = function(matrix) {
         }
     }
 
-    // Check if the first row needs to be set to 0 in the future
     for (let j = 0; j < n; j++) {
         if (matrix[0][j] === 0) {
             row0 = true
@@ -28,7 +26,6 @@ var setZeroes = function(matrix) {
         }
     }
 
-    // Store the signals in the first row and first column
     for (let i = 1; i < m; i++) {
         for (let j = 1; j < n; j++) {
             if (matrix[i][j] === 0) {
@@ -38,7 +35,6 @@ var setZeroes = function(matrix) {
         }
     }
 
-    // Mark cells as 0 based on the signals in the first row and column
     for (let i = 1; i < m; i++) {
         for (let j = 1; j < n; j++) {
             if (matrix[i][0] === 0 || matrix[0][j] === 0) {
@@ -47,14 +43,12 @@ var setZeroes = function(matrix) {
         }
     }
 
-    // Set the first column to 0 if needed
     if (col0) {
         for (let i = 0; i < m; i++) {
             matrix[i][0] = 0
         }
     }
 
-    // Set the first row to 0 if needed
     if (row0) {
         for (let j = 0; j < n; j++) {
             matrix[0][j] = 0

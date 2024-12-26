@@ -22,8 +22,8 @@ var countSubstrings = function(s) {
     const res = { count: 0 }
 
     for (let i = 0; i < a.length; i++) {
-        expand(a, i, i, res)       // Odd-length palindromes
-        expand(a, i, i + 1, res)   // Even-length palindromes
+        expand(a, i, i, res)
+        expand(a, i, i + 1, res)
     }
 
     return res.count

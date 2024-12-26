@@ -26,7 +26,7 @@ var levelOrder = function(root) {
     let level = []
 
     while (queue.length > 0) {
-        root = queue.shift() // Remove the first element
+        root = queue.shift()
         while (queue.length > 0 && root !== null) {
             level.push(root.val)
             if (root.left) {

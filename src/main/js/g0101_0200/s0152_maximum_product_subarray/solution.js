@@ -13,7 +13,6 @@ var maxProduct = function(nums) {
     let end = 1
 
     for (let i = 0; i < n; i++) {
-        // Reset `start` and `end` to 1 if they become 0
         if (start === 0) {
             start = 1
         }

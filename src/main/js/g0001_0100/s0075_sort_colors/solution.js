@@ -10,7 +10,6 @@ var sortColors = function(nums) {
     let zeroes = 0
     let ones = 0
 
-    // Count 0s and place them at the start
     for (let num of nums) {
         if (num === 0) {
             nums[zeroes++] = 0
@@ -19,12 +18,10 @@ var sortColors = function(nums) {
         }
     }
 
-    // Place 1s after the 0s
     for (let j = zeroes; j < zeroes + ones; j++) {
         nums[j] = 1
     }
 
-    // Place 2s after the 1s
     for (let k = zeroes + ones; k < nums.length; k++) {
         nums[k] = 2
     }

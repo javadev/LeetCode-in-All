@@ -18,15 +18,13 @@ import { TreeNode } from '../../com_github_leetcode/treenode';
  * @return {TreeNode}
  */
 var buildTree = function(preorder, inorder) {
-    let j = 0 // Tracks the index in the preorder array
-    const map = new Map() // Maps values to their indices in the inorder array
+    let j = 0
+    const map = new Map()
 
-    // Populate the map with indices of the inorder array
     for (let i = 0; i < inorder.length; i++) {
         map.set(inorder[i], i)
     }
 
-    // Helper function to construct the tree
     const build = (start, end) => {
         if (start > end || j >= preorder.length) {
             return null
@@ -36,7 +34,6 @@ var buildTree = function(preorder, inorder) {
         const index = map.get(value)
         const node = new TreeNode(value)
 
-        // Recursively build left and right subtrees
         node.left = build(start, index - 1)
         node.right = build(index + 1, end)
 

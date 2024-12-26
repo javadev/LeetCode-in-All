@@ -25,10 +25,8 @@ var findTail = function(root) {
     const right = root.right
     let tail
 
-    // Find the tail of the left subtree
     if (left !== null) {
         tail = findTail(left)
-        // Stitch the right subtree below the tail
         root.left = null
         root.right = left
         tail.right = right
@@ -36,7 +34,6 @@ var findTail = function(root) {
         tail = root
     }
 
-    // Find the tail of the right subtree
     if (tail.right === null) {
         return tail
     } else {

@@ -14,7 +14,7 @@ var partition = function(s) {
 
 const backtracking = (res, currArr, s, start) => {
     if (start === s.length) {
-        res.push([...currArr]) // Add a copy of the current array to the result
+        res.push([...currArr])
         return
     }
 
@@ -22,9 +22,9 @@ const backtracking = (res, currArr, s, start) => {
         if (!isPalindrome(s, start, end)) {
             continue
         }
-        currArr.push(s.substring(start, end + 1)) // Add the current substring
-        backtracking(res, currArr, s, end + 1) // Recurse to the next part
-        currArr.pop() // Remove the last element to backtrack
+        currArr.push(s.substring(start, end + 1))
+        backtracking(res, currArr, s, end + 1)
+        currArr.pop()
     }
 };
 

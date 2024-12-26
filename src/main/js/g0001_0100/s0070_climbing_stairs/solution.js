@@ -12,19 +12,15 @@ var climbStairs = function(n) {
         return n
     }
 
-    // Create a cache (DP array) to store results
     const cache = new Array(n)
 
-    // Initialize base cases
     cache[0] = 1
     cache[1] = 2
 
-    // Fill the cache using the recurrence relation
     for (let i = 2; i < n; i++) {
         cache[i] = cache[i - 1] + cache[i - 2]
     }
 
-    // Return the result for the nth step
     return cache[n - 1]
 };
 

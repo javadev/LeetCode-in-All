@@ -22,7 +22,6 @@ const reverseKGroup = function (head, k) {
     let len = head
     let count = 0
 
-    // Check if there are at least k nodes to reverse
     while (count < k) {
         if (len === null) {
             return head
@@ -31,7 +30,6 @@ const reverseKGroup = function (head, k) {
         count++
     }
 
-    // Reverse the first k nodes
     let current = head
     let next = null
     let prev = null
@@ -45,7 +43,6 @@ const reverseKGroup = function (head, k) {
         i++
     }
 
-    // Recursively reverse the next groups and connect the lists
     head.next = reverseKGroup(next, k)
 
     return prev

@@ -22,17 +22,12 @@ var maxPathSum = function(root) {
             return 0
         }
         
-        // Calculate max sum on the left and right subtrees, avoiding negatives
         const left = Math.max(0, helper(node.left))
         const right = Math.max(0, helper(node.right))
         
-        // Current path sum including the node
         const current = node.val + left + right
         
-        // Update the global max if the current path sum is greater
         max = Math.max(max, current)
-        
-        // Return the max sum of the path passing through the current node
         return node.val + Math.max(left, right)
     }
 

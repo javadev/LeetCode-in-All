@@ -20,17 +20,14 @@ var findAnagrams = function(s, p) {
 
     while (i < s.length) {
         const idx = s.charCodeAt(i) - 'a'.charCodeAt(0)
-        // Add the new character
         map[idx]--
 
-        // If the length is greater than the window's length, pop the left character
         if (i >= p.length) {
             map[s.charCodeAt(j++) - 'a'.charCodeAt(0)]++
         }
 
         let finish = true
         for (let k = 0; k < 26; k++) {
-            // If it's not an anagram of string p
             if (map[k] !== 0) {
                 finish = false
                 break

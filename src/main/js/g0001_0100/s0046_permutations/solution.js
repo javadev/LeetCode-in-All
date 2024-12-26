@@ -17,7 +17,7 @@ var permute = function(nums) {
 
     const permuteRecur = (nums, finalResult, currResult, used) => {
         if (currResult.length === nums.length) {
-            finalResult.push([...currResult]) // Create a copy of currResult
+            finalResult.push([...currResult])
             return
         }
         for (let i = 0; i < nums.length; i++) {
@@ -28,7 +28,7 @@ var permute = function(nums) {
             used[i] = true
             permuteRecur(nums, finalResult, currResult, used)
             used[i] = false
-            currResult.pop() // Backtrack
+            currResult.pop()
         }
     }
 

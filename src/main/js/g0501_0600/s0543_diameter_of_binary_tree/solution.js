@@ -25,10 +25,8 @@ var diameterOfBinaryTree = function(root) {
         const leftLength = node.left ? 1 + diameterOfBinaryTreeUtil(node.left) : 0
         const rightLength = node.right ? 1 + diameterOfBinaryTreeUtil(node.right) : 0
 
-        // Update the diameter
         diameter = Math.max(diameter, leftLength + rightLength)
 
-        // Return the longest path from this node
         return Math.max(leftLength, rightLength)
     }
 

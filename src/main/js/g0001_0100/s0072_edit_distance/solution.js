@@ -12,18 +12,15 @@ var minDistance = function(w1, w2) {
     const n1 = w1.length
     const n2 = w2.length
 
-    // Ensure the longer word is always w1
     if (n2 > n1) {
         return minDistance(w2, w1)
     }
 
-    // Initialize the dp array
     const dp = new Array(n2 + 1).fill(0)
     for (let j = 0; j <= n2; j++) {
         dp[j] = j
     }
 
-    // Compute minimum distance
     for (let i = 1; i <= n1; i++) {
         let pre = dp[0]
         dp[0] = i

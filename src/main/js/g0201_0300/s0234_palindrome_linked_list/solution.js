@@ -17,20 +17,17 @@ var isPalindrome = function(head) {
     let len = 0
     let right = head
 
-    // Calculate the length of the linked list
     while (right !== null) {
         right = right.next
         len++
     }
 
-    // Move to the start of the second half of the list
     len = Math.floor(len / 2)
     right = head
     for (let i = 0; i < len; i++) {
         right = right.next
     }
 
-    // Reverse the right half of the list
     let prev = null
     while (right !== null) {
         let next = right.next
@@ -39,7 +36,6 @@ var isPalindrome = function(head) {
         right = next
     }
 
-    // Compare the left half and the reversed right half
     for (let i = 0; i < len; i++) {
         if (prev !== null && head.val === prev.val) {
             head = head.next
