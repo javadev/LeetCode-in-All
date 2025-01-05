@@ -10,7 +10,6 @@
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Algorithm I](#algorithm-i)
 * [Algorithm II](#algorithm-ii)
 * [Binary Search I](#binary-search-i)
 * [Binary Search II](#binary-search-ii)
@@ -24,89 +23,7 @@
 * [Udemy](#udemy)
 * [Data Structure I](#data-structure-i)
 * [Data Structure II](#data-structure-ii)
-
-### Algorithm I
-
-#### Day 1 Binary Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0035 |Search Insert Position| [Java](src/main/java/g0001_0100/s0035_search_insert_position) [Kotlin](src/main/kotlin/g0001_0100/s0035_search_insert_position) [TypeScript](src/main/ts/g0001_0100/s0035_search_insert_position) [Scala](src/main/scala/g0001_0100/s0035_search_insert_position) [Ruby](src/main/ruby/g0001_0100/s0035_search_insert_position) [PHP](src/main/php/g0001_0100/s0035_search_insert_position) [C#](src/main/csharp/g0001_0100/s0035_search_insert_position) [Go](src/main/go/g0001_0100/s0035_search_insert_position) [Cpp](src/main/cpp/g0001_0100/s0035_search_insert_position) [Python](src/main/python/g0001_0100/s0035_search_insert_position) [Swift](src/main/swift/g0001_0100/s0035_search_insert_position) [Elixir](src/main/elixir/g0001_0100/s0035_search_insert_position) [Rust](src/main/rust/g0001_0100/s0035_search_insert_position) [Dart](src/main/dart/g0001_0100/s0035_search_insert_position) [C](src/main/c/g0001_0100/s0035_search_insert_position) [JavaScript](src/main/js/g0001_0100/s0035_search_insert_position)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-
-#### Day 2 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0189 |Rotate Array| [Java](src/main/java/g0101_0200/s0189_rotate_array) [Kotlin](src/main/kotlin/g0101_0200/s0189_rotate_array) [TypeScript](src/main/ts/g0101_0200/s0189_rotate_array) [Scala](src/main/scala/g0101_0200/s0189_rotate_array) [Ruby](src/main/ruby/g0101_0200/s0189_rotate_array) [PHP](src/main/php/g0101_0200/s0189_rotate_array) [C#](src/main/csharp/g0101_0200/s0189_rotate_array) [Go](src/main/go/g0101_0200/s0189_rotate_array) [Cpp](src/main/cpp/g0101_0200/s0189_rotate_array) [Python](src/main/python/g0101_0200/s0189_rotate_array) [Swift](src/main/swift/g0101_0200/s0189_rotate_array) [Elixir](src/main/elixir/g0101_0200/s0189_rotate_array) [Rust](src/main/rust/g0101_0200/s0189_rotate_array) [Dart](src/main/dart/g0101_0200/s0189_rotate_array) [C](src/main/c/g0101_0200/s0189_rotate_array) [JavaScript](src/main/js/g0101_0200/s0189_rotate_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-
-#### Day 3 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0283 |Move Zeroes| [Java](src/main/java/g0201_0300/s0283_move_zeroes) [Kotlin](src/main/kotlin/g0201_0300/s0283_move_zeroes) [TypeScript](src/main/ts/g0201_0300/s0283_move_zeroes) [Scala](src/main/scala/g0201_0300/s0283_move_zeroes) [Ruby](src/main/ruby/g0201_0300/s0283_move_zeroes) [PHP](src/main/php/g0201_0300/s0283_move_zeroes) [C#](src/main/csharp/g0201_0300/s0283_move_zeroes) [Go](src/main/go/g0201_0300/s0283_move_zeroes) [Cpp](src/main/cpp/g0201_0300/s0283_move_zeroes) [Python](src/main/python/g0201_0300/s0283_move_zeroes) [Swift](src/main/swift/g0201_0300/s0283_move_zeroes) [Elixir](src/main/elixir/g0201_0300/s0283_move_zeroes) [Rust](src/main/rust/g0201_0300/s0283_move_zeroes) [Dart](src/main/dart/g0201_0300/s0283_move_zeroes) [C](src/main/c/g0201_0300/s0283_move_zeroes) [JavaScript](src/main/js/g0201_0300/s0283_move_zeroes)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 2 | 83.99
-
-#### Day 4 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 5 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0019 |Remove Nth Node From End of List| [Java](src/main/java/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Kotlin](src/main/kotlin/g0001_0100/s0019_remove_nth_node_from_end_of_list) [TypeScript](src/main/ts/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Scala](src/main/scala/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Ruby](src/main/ruby/g0001_0100/s0019_remove_nth_node_from_end_of_list) [PHP](src/main/php/g0001_0100/s0019_remove_nth_node_from_end_of_list) [C#](src/main/csharp/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Go](src/main/go/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Cpp](src/main/cpp/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Python](src/main/python/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Swift](src/main/swift/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Elixir](src/main/elixir/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Rust](src/main/rust/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Dart](src/main/dart/g0001_0100/s0019_remove_nth_node_from_end_of_list) [C](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list) [JavaScript](src/main/js/g0001_0100/s0019_remove_nth_node_from_end_of_list)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
-
-#### Day 6 Sliding Window
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0003 |Longest Substring Without Repeating Characters| [Java](src/main/java/g0001_0100/s0003_longest_substring_without_repeating_characters) [Kotlin](src/main/kotlin/g0001_0100/s0003_longest_substring_without_repeating_characters) [TypeScript](src/main/ts/g0001_0100/s0003_longest_substring_without_repeating_characters) [Scala](src/main/scala/g0001_0100/s0003_longest_substring_without_repeating_characters) [Ruby](src/main/ruby/g0001_0100/s0003_longest_substring_without_repeating_characters) [PHP](src/main/php/g0001_0100/s0003_longest_substring_without_repeating_characters) [C#](src/main/csharp/g0001_0100/s0003_longest_substring_without_repeating_characters) [Go](src/main/go/g0001_0100/s0003_longest_substring_without_repeating_characters) [Cpp](src/main/cpp/g0001_0100/s0003_longest_substring_without_repeating_characters) [Python](src/main/python/g0001_0100/s0003_longest_substring_without_repeating_characters) [Swift](src/main/swift/g0001_0100/s0003_longest_substring_without_repeating_characters) [Elixir](src/main/elixir/g0001_0100/s0003_longest_substring_without_repeating_characters) [Rust](src/main/rust/g0001_0100/s0003_longest_substring_without_repeating_characters) [Dart](src/main/dart/g0001_0100/s0003_longest_substring_without_repeating_characters) [C](src/main/c/g0001_0100/s0003_longest_substring_without_repeating_characters) [JavaScript](src/main/js/g0001_0100/s0003_longest_substring_without_repeating_characters)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 2 | 98.59
-
-#### Day 7 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 8 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10 Recursion Backtracking
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0021 |Merge Two Sorted Lists| [Java](src/main/java/g0001_0100/s0021_merge_two_sorted_lists) [Kotlin](src/main/kotlin/g0001_0100/s0021_merge_two_sorted_lists) [TypeScript](src/main/ts/g0001_0100/s0021_merge_two_sorted_lists) [Scala](src/main/scala/g0001_0100/s0021_merge_two_sorted_lists) [Ruby](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists) [PHP](src/main/php/g0001_0100/s0021_merge_two_sorted_lists) [C#](src/main/csharp/g0001_0100/s0021_merge_two_sorted_lists) [Go](src/main/go/g0001_0100/s0021_merge_two_sorted_lists) [Cpp](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists) [Python](src/main/python/g0001_0100/s0021_merge_two_sorted_lists) [Swift](src/main/swift/g0001_0100/s0021_merge_two_sorted_lists) [Elixir](src/main/elixir/g0001_0100/s0021_merge_two_sorted_lists) [Rust](src/main/rust/g0001_0100/s0021_merge_two_sorted_lists) [Dart](src/main/dart/g0001_0100/s0021_merge_two_sorted_lists) [C](src/main/c/g0001_0100/s0021_merge_two_sorted_lists) [JavaScript](src/main/js/g0001_0100/s0021_merge_two_sorted_lists)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
-| 0206 |Reverse Linked List| [Java](src/main/java/g0201_0300/s0206_reverse_linked_list) [Kotlin](src/main/kotlin/g0201_0300/s0206_reverse_linked_list) [TypeScript](src/main/ts/g0201_0300/s0206_reverse_linked_list) [Scala](src/main/scala/g0201_0300/s0206_reverse_linked_list) [Ruby](src/main/ruby/g0201_0300/s0206_reverse_linked_list) [PHP](src/main/php/g0201_0300/s0206_reverse_linked_list) [C#](src/main/csharp/g0201_0300/s0206_reverse_linked_list) [Go](src/main/go/g0201_0300/s0206_reverse_linked_list) [Cpp](src/main/cpp/g0201_0300/s0206_reverse_linked_list) [Python](src/main/python/g0201_0300/s0206_reverse_linked_list) [Swift](src/main/swift/g0201_0300/s0206_reverse_linked_list) [Elixir](src/main/elixir/g0201_0300/s0206_reverse_linked_list) [Rust](src/main/rust/g0201_0300/s0206_reverse_linked_list) [Dart](src/main/dart/g0201_0300/s0206_reverse_linked_list) [C](src/main/c/g0201_0300/s0206_reverse_linked_list) [JavaScript](src/main/js/g0201_0300/s0206_reverse_linked_list)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
-
-#### Day 11 Recursion Backtracking
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0046 |Permutations| [Java](src/main/java/g0001_0100/s0046_permutations) [Kotlin](src/main/kotlin/g0001_0100/s0046_permutations) [TypeScript](src/main/ts/g0001_0100/s0046_permutations) [Scala](src/main/scala/g0001_0100/s0046_permutations) [Ruby](src/main/ruby/g0001_0100/s0046_permutations) [PHP](src/main/php/g0001_0100/s0046_permutations) [C#](src/main/csharp/g0001_0100/s0046_permutations) [Go](src/main/go/g0001_0100/s0046_permutations) [Cpp](src/main/cpp/g0001_0100/s0046_permutations) [Python](src/main/python/g0001_0100/s0046_permutations) [Swift](src/main/swift/g0001_0100/s0046_permutations) [Elixir](src/main/elixir/g0001_0100/s0046_permutations) [Rust](src/main/rust/g0001_0100/s0046_permutations) [Dart](src/main/dart/g0001_0100/s0046_permutations) [C](src/main/c/g0001_0100/s0046_permutations) [JavaScript](src/main/js/g0001_0100/s0046_permutations)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 1 | 94.08
-
-#### Day 12 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0070 |Climbing Stairs| [Java](src/main/java/g0001_0100/s0070_climbing_stairs) [Kotlin](src/main/kotlin/g0001_0100/s0070_climbing_stairs) [TypeScript](src/main/ts/g0001_0100/s0070_climbing_stairs) [Scala](src/main/scala/g0001_0100/s0070_climbing_stairs) [Ruby](src/main/ruby/g0001_0100/s0070_climbing_stairs) [PHP](src/main/php/g0001_0100/s0070_climbing_stairs) [C#](src/main/csharp/g0001_0100/s0070_climbing_stairs) [Go](src/main/go/g0001_0100/s0070_climbing_stairs) [Cpp](src/main/cpp/g0001_0100/s0070_climbing_stairs) [Python](src/main/python/g0001_0100/s0070_climbing_stairs) [Swift](src/main/swift/g0001_0100/s0070_climbing_stairs) [Elixir](src/main/elixir/g0001_0100/s0070_climbing_stairs) [Rust](src/main/rust/g0001_0100/s0070_climbing_stairs) [Dart](src/main/dart/g0001_0100/s0070_climbing_stairs) [C](src/main/c/g0001_0100/s0070_climbing_stairs) [JavaScript](src/main/js/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-| 0198 |House Robber| [Java](src/main/java/g0101_0200/s0198_house_robber) [Kotlin](src/main/kotlin/g0101_0200/s0198_house_robber) [TypeScript](src/main/ts/g0101_0200/s0198_house_robber) [Scala](src/main/scala/g0101_0200/s0198_house_robber) [Ruby](src/main/ruby/g0101_0200/s0198_house_robber) [PHP](src/main/php/g0101_0200/s0198_house_robber) [C#](src/main/csharp/g0101_0200/s0198_house_robber) [Go](src/main/go/g0101_0200/s0198_house_robber) [Cpp](src/main/cpp/g0101_0200/s0198_house_robber) [Python](src/main/python/g0101_0200/s0198_house_robber) [Swift](src/main/swift/g0101_0200/s0198_house_robber) [Elixir](src/main/elixir/g0101_0200/s0198_house_robber) [Rust](src/main/rust/g0101_0200/s0198_house_robber) [Dart](src/main/dart/g0101_0200/s0198_house_robber) [C](src/main/c/g0101_0200/s0198_house_robber) [JavaScript](src/main/js/g0101_0200/s0198_house_robber)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
-
-#### Day 13 Bit Manipulation
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 14 Bit Manipulation
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0136 |Single Number| [Java](src/main/java/g0101_0200/s0136_single_number) [Kotlin](src/main/kotlin/g0101_0200/s0136_single_number) [TypeScript](src/main/ts/g0101_0200/s0136_single_number) [Scala](src/main/scala/g0101_0200/s0136_single_number) [Ruby](src/main/ruby/g0101_0200/s0136_single_number) [PHP](src/main/php/g0101_0200/s0136_single_number) [C#](src/main/csharp/g0101_0200/s0136_single_number) [Go](src/main/go/g0101_0200/s0136_single_number) [Cpp](src/main/cpp/g0101_0200/s0136_single_number) [Python](src/main/python/g0101_0200/s0136_single_number) [Swift](src/main/swift/g0101_0200/s0136_single_number) [Elixir](src/main/elixir/g0101_0200/s0136_single_number) [Rust](src/main/rust/g0101_0200/s0136_single_number) [Dart](src/main/dart/g0101_0200/s0136_single_number) [C](src/main/c/g0101_0200/s0136_single_number) [JavaScript](src/main/js/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 1 | 99.86
+* [Algorithm I](#algorithm-i)
 
 ### Algorithm II
 
@@ -1405,6 +1322,89 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-|-
+
+### Algorithm I
+
+#### Day 1 Binary Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0035 |Search Insert Position| [Java](src/main/java/g0001_0100/s0035_search_insert_position) [Kotlin](src/main/kotlin/g0001_0100/s0035_search_insert_position) [TypeScript](src/main/ts/g0001_0100/s0035_search_insert_position) [Scala](src/main/scala/g0001_0100/s0035_search_insert_position) [Ruby](src/main/ruby/g0001_0100/s0035_search_insert_position) [PHP](src/main/php/g0001_0100/s0035_search_insert_position) [C#](src/main/csharp/g0001_0100/s0035_search_insert_position) [Go](src/main/go/g0001_0100/s0035_search_insert_position) [Cpp](src/main/cpp/g0001_0100/s0035_search_insert_position) [Python](src/main/python/g0001_0100/s0035_search_insert_position) [Swift](src/main/swift/g0001_0100/s0035_search_insert_position) [Elixir](src/main/elixir/g0001_0100/s0035_search_insert_position) [Rust](src/main/rust/g0001_0100/s0035_search_insert_position) [Dart](src/main/dart/g0001_0100/s0035_search_insert_position) [C](src/main/c/g0001_0100/s0035_search_insert_position) [JavaScript](src/main/js/g0001_0100/s0035_search_insert_position)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+
+#### Day 2 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0189 |Rotate Array| [Java](src/main/java/g0101_0200/s0189_rotate_array) [Kotlin](src/main/kotlin/g0101_0200/s0189_rotate_array) [TypeScript](src/main/ts/g0101_0200/s0189_rotate_array) [Scala](src/main/scala/g0101_0200/s0189_rotate_array) [Ruby](src/main/ruby/g0101_0200/s0189_rotate_array) [PHP](src/main/php/g0101_0200/s0189_rotate_array) [C#](src/main/csharp/g0101_0200/s0189_rotate_array) [Go](src/main/go/g0101_0200/s0189_rotate_array) [Cpp](src/main/cpp/g0101_0200/s0189_rotate_array) [Python](src/main/python/g0101_0200/s0189_rotate_array) [Swift](src/main/swift/g0101_0200/s0189_rotate_array) [Elixir](src/main/elixir/g0101_0200/s0189_rotate_array) [Rust](src/main/rust/g0101_0200/s0189_rotate_array) [Dart](src/main/dart/g0101_0200/s0189_rotate_array) [C](src/main/c/g0101_0200/s0189_rotate_array) [JavaScript](src/main/js/g0101_0200/s0189_rotate_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+
+#### Day 3 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0283 |Move Zeroes| [Java](src/main/java/g0201_0300/s0283_move_zeroes) [Kotlin](src/main/kotlin/g0201_0300/s0283_move_zeroes) [TypeScript](src/main/ts/g0201_0300/s0283_move_zeroes) [Scala](src/main/scala/g0201_0300/s0283_move_zeroes) [Ruby](src/main/ruby/g0201_0300/s0283_move_zeroes) [PHP](src/main/php/g0201_0300/s0283_move_zeroes) [C#](src/main/csharp/g0201_0300/s0283_move_zeroes) [Go](src/main/go/g0201_0300/s0283_move_zeroes) [Cpp](src/main/cpp/g0201_0300/s0283_move_zeroes) [Python](src/main/python/g0201_0300/s0283_move_zeroes) [Swift](src/main/swift/g0201_0300/s0283_move_zeroes) [Elixir](src/main/elixir/g0201_0300/s0283_move_zeroes) [Rust](src/main/rust/g0201_0300/s0283_move_zeroes) [Dart](src/main/dart/g0201_0300/s0283_move_zeroes) [C](src/main/c/g0201_0300/s0283_move_zeroes) [JavaScript](src/main/js/g0201_0300/s0283_move_zeroes)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 2 | 83.99
+
+#### Day 4 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 5 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0019 |Remove Nth Node From End of List| [Java](src/main/java/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Kotlin](src/main/kotlin/g0001_0100/s0019_remove_nth_node_from_end_of_list) [TypeScript](src/main/ts/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Scala](src/main/scala/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Ruby](src/main/ruby/g0001_0100/s0019_remove_nth_node_from_end_of_list) [PHP](src/main/php/g0001_0100/s0019_remove_nth_node_from_end_of_list) [C#](src/main/csharp/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Go](src/main/go/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Cpp](src/main/cpp/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Python](src/main/python/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Swift](src/main/swift/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Elixir](src/main/elixir/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Rust](src/main/rust/g0001_0100/s0019_remove_nth_node_from_end_of_list) [Dart](src/main/dart/g0001_0100/s0019_remove_nth_node_from_end_of_list) [C](src/main/c/g0001_0100/s0019_remove_nth_node_from_end_of_list) [JavaScript](src/main/js/g0001_0100/s0019_remove_nth_node_from_end_of_list)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 0 | 100.00
+
+#### Day 6 Sliding Window
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0003 |Longest Substring Without Repeating Characters| [Java](src/main/java/g0001_0100/s0003_longest_substring_without_repeating_characters) [Kotlin](src/main/kotlin/g0001_0100/s0003_longest_substring_without_repeating_characters) [TypeScript](src/main/ts/g0001_0100/s0003_longest_substring_without_repeating_characters) [Scala](src/main/scala/g0001_0100/s0003_longest_substring_without_repeating_characters) [Ruby](src/main/ruby/g0001_0100/s0003_longest_substring_without_repeating_characters) [PHP](src/main/php/g0001_0100/s0003_longest_substring_without_repeating_characters) [C#](src/main/csharp/g0001_0100/s0003_longest_substring_without_repeating_characters) [Go](src/main/go/g0001_0100/s0003_longest_substring_without_repeating_characters) [Cpp](src/main/cpp/g0001_0100/s0003_longest_substring_without_repeating_characters) [Python](src/main/python/g0001_0100/s0003_longest_substring_without_repeating_characters) [Swift](src/main/swift/g0001_0100/s0003_longest_substring_without_repeating_characters) [Elixir](src/main/elixir/g0001_0100/s0003_longest_substring_without_repeating_characters) [Rust](src/main/rust/g0001_0100/s0003_longest_substring_without_repeating_characters) [Dart](src/main/dart/g0001_0100/s0003_longest_substring_without_repeating_characters) [C](src/main/c/g0001_0100/s0003_longest_substring_without_repeating_characters) [JavaScript](src/main/js/g0001_0100/s0003_longest_substring_without_repeating_characters)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 2 | 98.59
+
+#### Day 7 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 8 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10 Recursion Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0021 |Merge Two Sorted Lists| [Java](src/main/java/g0001_0100/s0021_merge_two_sorted_lists) [Kotlin](src/main/kotlin/g0001_0100/s0021_merge_two_sorted_lists) [TypeScript](src/main/ts/g0001_0100/s0021_merge_two_sorted_lists) [Scala](src/main/scala/g0001_0100/s0021_merge_two_sorted_lists) [Ruby](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists) [PHP](src/main/php/g0001_0100/s0021_merge_two_sorted_lists) [C#](src/main/csharp/g0001_0100/s0021_merge_two_sorted_lists) [Go](src/main/go/g0001_0100/s0021_merge_two_sorted_lists) [Cpp](src/main/cpp/g0001_0100/s0021_merge_two_sorted_lists) [Python](src/main/python/g0001_0100/s0021_merge_two_sorted_lists) [Swift](src/main/swift/g0001_0100/s0021_merge_two_sorted_lists) [Elixir](src/main/elixir/g0001_0100/s0021_merge_two_sorted_lists) [Rust](src/main/rust/g0001_0100/s0021_merge_two_sorted_lists) [Dart](src/main/dart/g0001_0100/s0021_merge_two_sorted_lists) [C](src/main/c/g0001_0100/s0021_merge_two_sorted_lists) [JavaScript](src/main/js/g0001_0100/s0021_merge_two_sorted_lists)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 0 | 100.00
+| 0206 |Reverse Linked List| [Java](src/main/java/g0201_0300/s0206_reverse_linked_list) [Kotlin](src/main/kotlin/g0201_0300/s0206_reverse_linked_list) [TypeScript](src/main/ts/g0201_0300/s0206_reverse_linked_list) [Scala](src/main/scala/g0201_0300/s0206_reverse_linked_list) [Ruby](src/main/ruby/g0201_0300/s0206_reverse_linked_list) [PHP](src/main/php/g0201_0300/s0206_reverse_linked_list) [C#](src/main/csharp/g0201_0300/s0206_reverse_linked_list) [Go](src/main/go/g0201_0300/s0206_reverse_linked_list) [Cpp](src/main/cpp/g0201_0300/s0206_reverse_linked_list) [Python](src/main/python/g0201_0300/s0206_reverse_linked_list) [Swift](src/main/swift/g0201_0300/s0206_reverse_linked_list) [Elixir](src/main/elixir/g0201_0300/s0206_reverse_linked_list) [Rust](src/main/rust/g0201_0300/s0206_reverse_linked_list) [Dart](src/main/dart/g0201_0300/s0206_reverse_linked_list) [C](src/main/c/g0201_0300/s0206_reverse_linked_list) [JavaScript](src/main/js/g0201_0300/s0206_reverse_linked_list)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+
+#### Day 11 Recursion Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0046 |Permutations| [Java](src/main/java/g0001_0100/s0046_permutations) [Kotlin](src/main/kotlin/g0001_0100/s0046_permutations) [TypeScript](src/main/ts/g0001_0100/s0046_permutations) [Scala](src/main/scala/g0001_0100/s0046_permutations) [Ruby](src/main/ruby/g0001_0100/s0046_permutations) [PHP](src/main/php/g0001_0100/s0046_permutations) [C#](src/main/csharp/g0001_0100/s0046_permutations) [Go](src/main/go/g0001_0100/s0046_permutations) [Cpp](src/main/cpp/g0001_0100/s0046_permutations) [Python](src/main/python/g0001_0100/s0046_permutations) [Swift](src/main/swift/g0001_0100/s0046_permutations) [Elixir](src/main/elixir/g0001_0100/s0046_permutations) [Rust](src/main/rust/g0001_0100/s0046_permutations) [Dart](src/main/dart/g0001_0100/s0046_permutations) [C](src/main/c/g0001_0100/s0046_permutations) [JavaScript](src/main/js/g0001_0100/s0046_permutations)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 1 | 94.08
+
+#### Day 12 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0070 |Climbing Stairs| [Java](src/main/java/g0001_0100/s0070_climbing_stairs) [Kotlin](src/main/kotlin/g0001_0100/s0070_climbing_stairs) [TypeScript](src/main/ts/g0001_0100/s0070_climbing_stairs) [Scala](src/main/scala/g0001_0100/s0070_climbing_stairs) [Ruby](src/main/ruby/g0001_0100/s0070_climbing_stairs) [PHP](src/main/php/g0001_0100/s0070_climbing_stairs) [C#](src/main/csharp/g0001_0100/s0070_climbing_stairs) [Go](src/main/go/g0001_0100/s0070_climbing_stairs) [Cpp](src/main/cpp/g0001_0100/s0070_climbing_stairs) [Python](src/main/python/g0001_0100/s0070_climbing_stairs) [Swift](src/main/swift/g0001_0100/s0070_climbing_stairs) [Elixir](src/main/elixir/g0001_0100/s0070_climbing_stairs) [Rust](src/main/rust/g0001_0100/s0070_climbing_stairs) [Dart](src/main/dart/g0001_0100/s0070_climbing_stairs) [C](src/main/c/g0001_0100/s0070_climbing_stairs) [JavaScript](src/main/js/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0198 |House Robber| [Java](src/main/java/g0101_0200/s0198_house_robber) [Kotlin](src/main/kotlin/g0101_0200/s0198_house_robber) [TypeScript](src/main/ts/g0101_0200/s0198_house_robber) [Scala](src/main/scala/g0101_0200/s0198_house_robber) [Ruby](src/main/ruby/g0101_0200/s0198_house_robber) [PHP](src/main/php/g0101_0200/s0198_house_robber) [C#](src/main/csharp/g0101_0200/s0198_house_robber) [Go](src/main/go/g0101_0200/s0198_house_robber) [Cpp](src/main/cpp/g0101_0200/s0198_house_robber) [Python](src/main/python/g0101_0200/s0198_house_robber) [Swift](src/main/swift/g0101_0200/s0198_house_robber) [Elixir](src/main/elixir/g0101_0200/s0198_house_robber) [Rust](src/main/rust/g0101_0200/s0198_house_robber) [Dart](src/main/dart/g0101_0200/s0198_house_robber) [C](src/main/c/g0101_0200/s0198_house_robber) [JavaScript](src/main/js/g0101_0200/s0198_house_robber)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+
+#### Day 13 Bit Manipulation
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 14 Bit Manipulation
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0136 |Single Number| [Java](src/main/java/g0101_0200/s0136_single_number) [Kotlin](src/main/kotlin/g0101_0200/s0136_single_number) [TypeScript](src/main/ts/g0101_0200/s0136_single_number) [Scala](src/main/scala/g0101_0200/s0136_single_number) [Ruby](src/main/ruby/g0101_0200/s0136_single_number) [PHP](src/main/php/g0101_0200/s0136_single_number) [C#](src/main/csharp/g0101_0200/s0136_single_number) [Go](src/main/go/g0101_0200/s0136_single_number) [Cpp](src/main/cpp/g0101_0200/s0136_single_number) [Python](src/main/python/g0101_0200/s0136_single_number) [Swift](src/main/swift/g0101_0200/s0136_single_number) [Elixir](src/main/elixir/g0101_0200/s0136_single_number) [Rust](src/main/rust/g0101_0200/s0136_single_number) [Dart](src/main/dart/g0101_0200/s0136_single_number) [C](src/main/c/g0101_0200/s0136_single_number) [JavaScript](src/main/js/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 1 | 99.86
 
 ## Algorithms
 
