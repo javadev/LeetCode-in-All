@@ -95,6 +95,7 @@
                                 <source>src/main/dart</source>
                                 <source>src/main/c</source>
                                 <source>src/main/js</source>
+                                <source>src/main/erlang</source>
                             </sources>
                         </configuration>
                     </execution>
