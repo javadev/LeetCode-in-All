@@ -1,0 +1,20 @@
+; #Hard #Top_100_Liked_Questions #String #Dynamic_Programming #Stack #Big_O_Time_O(n)_Space_O(1)
+; #2025_02_03_Time_3_(100.00%)_Space_101.36_(100.00%)
+
+(define/contract (longest-valid-parentheses s)
+  (-> string? exact-integer?)
+  (let* ((n (string-length s)))
+    (define (scan direction)
+      (let loop ((i (if direction 0 (- n 1)))
+                 (left 0) (right 0) (max-val 0))
+        (if (or (< i 0) (>= i n))
+            max-val
+            (let* ((ch (string-ref s i))
+                   (left (if (char=? ch #\() (+ left 1) left))
+                   (right (if (char=? ch #\)) (+ right 1) right)))
+              (cond
+                ((and direction (> right left)) (loop (+ i 1) 0 0 max-val))
+                ((and (not direction) (> left right)) (loop (- i 1) 0 0 max-val))
+                ((= left right) (loop (+ (if direction 1 -1) i) left right (max max-val (+ left right))))
+                (else (loop (+ (if direction 1 -1) i) left right max-val)))))))
+    (max (scan #t) (scan #f))))

@@ -1,0 +1,23 @@
+; #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Udemy_Arrays
+; #Big_O_Time_O(n)_Space_O(n) #2025_02_03_Time_11_(100.00%)_Space_132.67_(100.00%)
+
+(define/contract (first-missing-positive nums)
+  (-> (listof exact-integer?) exact-integer?)
+  (let* ((len (length nums))
+         (vec (list->vector nums)))
+    (define (swap i j)
+      (let ((temp (vector-ref vec i)))
+        (vector-set! vec i (vector-ref vec j))
+        (vector-set! vec j temp)))
+    (for ([i (in-range len)])
+      (let loop ()
+        (let* ((num (vector-ref vec i))
+               (pos (- num 1)))
+          (when (and (> num 0) (<= num len) (not (= (vector-ref vec pos) num)))
+            (swap i pos)
+            (loop)))))
+    (let find-missing ((i 0))
+      (cond
+        ((= i len) (+ len 1))
+        ((not (= (vector-ref vec i) (+ i 1))) (+ i 1))
+        (else (find-missing (+ i 1)))))))
