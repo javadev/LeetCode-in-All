@@ -96,6 +96,7 @@
                                 <source>src/main/c</source>
                                 <source>src/main/js</source>
                                 <source>src/main/erlang</source>
+                                <source>src/main/racket</source>
                             </sources>
                         </configuration>
                     </execution>
