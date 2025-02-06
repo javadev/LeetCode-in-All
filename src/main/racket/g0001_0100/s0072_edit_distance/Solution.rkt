@@ -1,0 +1,25 @@
+; #Medium #Top_100_Liked_Questions #String #Dynamic_Programming
+; #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_19
+; #Udemy_Dynamic_Programming #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(n^2)_Space_O(n2)
+; #2025_02_04_Time_4_(100.00%)_Space_102.31_(100.00%)
+
+(define/contract (min-distance word1 word2)
+  (-> string? string? exact-integer?)
+  (let* ((n1 (string-length word1))
+         (n2 (string-length word2)))
+    (if (> n2 n1)
+        (min-distance word2 word1)
+        (let ((dp (make-vector (+ n2 1) 0)))
+          (for ([j (in-range (+ n2 1))])
+            (vector-set! dp j j))
+          (for ([i (in-range 1 (+ n1 1))])
+            (let ((pre (vector-ref dp 0)))
+              (vector-set! dp 0 i)
+              (for ([j (in-range 1 (+ n2 1))])
+                (let* ((tmp (vector-ref dp j))
+                       (cost (if (char=? (string-ref word1 (- i 1)) (string-ref word2 (- j 1)))
+                                 pre
+                                 (+ 1 (min pre (vector-ref dp j) (vector-ref dp (- j 1)))))))
+                  (vector-set! dp j cost)
+                  (set! pre tmp)))))
+          (vector-ref dp n2)))))

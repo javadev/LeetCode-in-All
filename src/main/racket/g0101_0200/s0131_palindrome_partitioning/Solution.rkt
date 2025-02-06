@@ -1,0 +1,21 @@
+; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
+; #Backtracking #Big_O_Time_O(N*2^N)_Space_O(2^N*N)
+; #2025_02_05_Time_43_(100.00%)_Space_142.17_(100.00%)
+
+(define/contract (partition s)
+  (-> string? (listof (listof string?)))
+  (define res '())
+  (define (backtracking currArr start)
+    (if (= start (string-length s))
+        (set! res (cons (reverse currArr) res))
+        (for ([end (in-range start (string-length s))])
+          (when (is-palindrome? s start end)
+            (backtracking (cons (substring s start (add1 end)) currArr) (add1 end))))))
+  (backtracking '() 0)
+  res)
+
+(define (is-palindrome? s start end)
+  (let loop ((i start) (j end))
+    (or (>= i j)
+        (and (char=? (string-ref s i) (string-ref s j))
+             (loop (add1 i) (sub1 j))))))
