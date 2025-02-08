@@ -1,6 +1,6 @@
 % #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Divide_and_Conquer
-% #Big_O_Time_O(log(min(N,M)))_Space_O(1) #AI_can_be_used_to_solve_the_task
-% #2025_01_08_Time_1_(100.00%)_Space_65.96_(100.00%)
+% #Top_Interview_150_Binary_Search #Big_O_Time_O(log(min(N,M)))_Space_O(1)
+% #AI_can_be_used_to_solve_the_task #2025_01_08_Time_1_(100.00%)_Space_65.96_(100.00%)
 
 -spec find_median_sorted_arrays(Nums1 :: [integer()], Nums2 :: [integer()]) -> float().
 find_median_sorted_arrays(Nums1, Nums2) -> 

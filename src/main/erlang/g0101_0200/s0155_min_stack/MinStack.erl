@@ -1,6 +1,7 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
 % #Data_Structure_II_Day_14_Stack_Queue #Programming_Skills_II_Day_18 #Level_2_Day_16_Design
-% #Udemy_Design #Big_O_Time_O(1)_Space_O(N) #2025_01_18_Time_16_(100.00%)_Space_78.65_(100.00%)
+% #Udemy_Design #Top_Interview_150_Stack #Big_O_Time_O(1)_Space_O(N)
+% #2025_01_18_Time_16_(100.00%)_Space_78.65_(100.00%)
 
 -spec min_stack_init_() -> any().
 min_stack_init_() ->

@@ -1,6 +1,6 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Design #Linked_List
-% #Doubly_Linked_List #Udemy_Linked_List #Big_O_Time_O(1)_Space_O(capacity)
-% #2025_01_18_Time_312_(100.00%)_Space_273.78_(100.00%)
+% #Doubly_Linked_List #Udemy_Linked_List #Top_Interview_150_Linked_List
+% #Big_O_Time_O(1)_Space_O(capacity) #2025_01_18_Time_312_(100.00%)_Space_273.78_(100.00%)
 
 %% Persistent Term Keys
 -define(CAPACITY_KEY, {lru_cache, capacity}).

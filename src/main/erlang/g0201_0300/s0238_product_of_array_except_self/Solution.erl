@@ -1,5 +1,6 @@
 % #Medium #Top_100_Liked_Questions #Array #Prefix_Sum #Data_Structure_II_Day_5_Array #Udemy_Arrays
-% #Big_O_Time_O(n^2)_Space_O(n) #2025_01_19_Time_22_(100.00%)_Space_112.22_(100.00%)
+% #Top_Interview_150_Array/String #Big_O_Time_O(n^2)_Space_O(n)
+% #2025_01_19_Time_22_(100.00%)_Space_112.22_(100.00%)
 
 -spec product_except_self(Nums :: [integer()]) -> [integer()].
 product_except_self(Nums) ->
