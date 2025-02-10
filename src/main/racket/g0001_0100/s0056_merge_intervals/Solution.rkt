@@ -1,7 +1,7 @@
 ; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting
 ; #Data_Structure_II_Day_2_Array #Level_2_Day_17_Interval #Udemy_2D_Arrays/Matrix
 ; #Top_Interview_150_Intervals #Big_O_Time_O(n_log_n)_Space_O(n)
-; #2025_02_03_Time_474_(100.00%)_Space_131.06_(_%)
+; #2025_02_03_Time_474_ms_(100.00%)_Space_131.06_MB_(_%)
 
 (define/contract (merge intervals)
   (-> (listof (listof exact-integer?)) (listof (listof exact-integer?)))

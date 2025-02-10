@@ -1,5 +1,5 @@
 ; #Hard #Top_Interview_Questions #String #Dynamic_Programming #Recursion #Udemy_Dynamic_Programming
-; #Big_O_Time_O(m*n)_Space_O(m*n) #2025_02_03_Time_11_(100.00%)_Space_101.36_(100.00%)
+; #Big_O_Time_O(m*n)_Space_O(m*n) #2025_02_03_Time_11_ms_(100.00%)_Space_101.36_MB_(100.00%)
 
 (define (regex-state s is-star)
   (list s (if is-star '* '1)))

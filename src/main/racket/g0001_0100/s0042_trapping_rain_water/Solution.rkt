@@ -1,7 +1,7 @@
 ; #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming #Two_Pointers
 ; #Stack #Monotonic_Stack #Dynamic_Programming_I_Day_9 #Udemy_Two_Pointers
 ; #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(1)
-; #2025_02_03_Time_0_(100.00%)_Space_129.13_(100.00%)
+; #2025_02_03_Time_0_ms_(100.00%)_Space_129.13_MB_(100.00%)
 
 (define (trap height)
     (define H (list->vector height))

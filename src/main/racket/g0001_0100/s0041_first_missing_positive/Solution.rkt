@@ -1,5 +1,5 @@
 ; #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Udemy_Arrays
-; #Big_O_Time_O(n)_Space_O(n) #2025_02_03_Time_11_(100.00%)_Space_132.67_(100.00%)
+; #Big_O_Time_O(n)_Space_O(n) #2025_02_03_Time_11_ms_(100.00%)_Space_132.67_MB_(100.00%)
 
 (define/contract (first-missing-positive nums)
   (-> (listof exact-integer?) exact-integer?)

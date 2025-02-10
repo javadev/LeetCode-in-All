@@ -1,7 +1,7 @@
 ; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table #Sliding_Window
 ; #Algorithm_I_Day_6_Sliding_Window #Level_2_Day_14_Sliding_Window/Two_Pointer #Udemy_Strings
 ; #Top_Interview_150_Sliding_Window #Big_O_Time_O(n)_Space_O(1) #AI_can_be_used_to_solve_the_task
-; #2025_02_06_Time_119_(71.43%)_Space_131.37_(28.57%)
+; #2025_02_06_Time_119_ms_(71.43%)_Space_131.37_MB_(28.57%)
 
 ; Helper function to get the sublist up to 'v' excluded.
 (define (take-till q v)

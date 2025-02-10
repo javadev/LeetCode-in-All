@@ -1,6 +1,6 @@
 ; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Matrix #Backtracking
 ; #Algorithm_II_Day_11_Recursion_Backtracking #Top_Interview_150_Backtracking
-; #Big_O_Time_O(4^(m*n))_Space_O(m*n) #2025_02_07_Time_2517_(100.00%)_Space_130.64_(_%)
+; #Big_O_Time_O(4^(m*n))_Space_O(m*n) #2025_02_07_Time_2517_ms_(100.00%)_Space_130.64_MB_(_%)
 
 (define/contract (exist board word)
   (-> (listof (listof char?)) string? boolean?)

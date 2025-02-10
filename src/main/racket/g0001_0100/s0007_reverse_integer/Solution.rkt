@@ -1,5 +1,5 @@
 ; #Medium #Top_Interview_Questions #Math #Udemy_Integers
-; #2025_02_03_Time_204_(100.00%)_Space_101.45_(100.00%)
+; #2025_02_03_Time_204_ms_(100.00%)_Space_101.45_MB_(100.00%)
 
 (define/contract (reverse x)
   (-> exact-integer? exact-integer?)

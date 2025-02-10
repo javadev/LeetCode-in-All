@@ -1,6 +1,6 @@
 ; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Greedy #Two_Pointers
 ; #Algorithm_II_Day_4_Two_Pointers #Top_Interview_150_Two_Pointers #Big_O_Time_O(n)_Space_O(1)
-; #2025_02_03_Time_32_(100.00%)_Space_130.58_(100.00%)
+; #2025_02_03_Time_32_ms_(100.00%)_Space_130.58_MB_(100.00%)
 
 (define/contract (max-area height)
   (-> (listof exact-integer?) exact-integer?)

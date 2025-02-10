@@ -1,6 +1,6 @@
 ; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming
 ; #Dynamic_Programming_I_Day_6 #Level_2_Day_13_Dynamic_Programming #Udemy_Dynamic_Programming
-; #Big_O_Time_O(N)_Space_O(1) #2025_02_08_Time_731_(100.00%)_Space_102.15_(_%)
+; #Big_O_Time_O(N)_Space_O(1) #2025_02_08_Time_731_ms_(100.00%)_Space_102.15_MB_(_%)
 
 (define/contract (max-product nums)
   (-> (listof exact-integer?) exact-integer?)

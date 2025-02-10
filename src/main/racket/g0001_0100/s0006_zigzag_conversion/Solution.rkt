@@ -1,5 +1,5 @@
 ; #Medium #String #Top_Interview_150_Array/String
-; #2025_02_03_Time_57_(100.00%)_Space_130.82_(60.00%)
+; #2025_02_03_Time_57_ms_(100.00%)_Space_130.82_MB_(60.00%)
 
 (define/contract (convert s numRows)
   (-> string? exact-integer? string?)

@@ -1,6 +1,6 @@
 ; #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Union_Find
 ; #Top_Interview_150_Hashmap #Big_O_Time_O(N_log_N)_Space_O(1)
-; #2025_02_05_Time_182_(100.00%)_Space_144.85_(100.00%)
+; #2025_02_05_Time_182_ms_(100.00%)_Space_144.85_MB_(100.00%)
 
 (define (longest-consecutive nums)
   (define uniq (list->set nums))

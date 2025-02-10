@@ -1,4 +1,5 @@
-; #Medium #Top_Interview_Questions #String #2025_02_03_Time_3_(100.00%)_Space_101.64_(100.00%)
+; #Medium #Top_Interview_Questions #String
+; #2025_02_03_Time_3_ms_(100.00%)_Space_101.64_MB_(100.00%)
 
 (define/contract (my-atoi s)
   (-> string? exact-integer?)
