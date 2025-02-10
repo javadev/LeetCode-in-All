@@ -1,5 +1,5 @@
 % #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-% #Big_O_Time_O(n)_Space_O(n) #2025_01_12_Time_94_(100.00%)_Space_125.36_(100.00%)
+% #Big_O_Time_O(n)_Space_O(n) #2025_01_12_Time_94_ms_(100.00%)_Space_125.36_MB_(100.00%)
 
 -spec daily_temperatures([integer()]) -> [integer()].
 daily_temperatures(Temp) ->

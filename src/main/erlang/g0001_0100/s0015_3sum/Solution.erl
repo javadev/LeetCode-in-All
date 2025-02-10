@@ -1,7 +1,7 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting #Two_Pointers
 % #Data_Structure_II_Day_1_Array #Algorithm_II_Day_3_Two_Pointers #Udemy_Two_Pointers
 % #Top_Interview_150_Two_Pointers #Big_O_Time_O(n*log(n))_Space_O(n^2)
-% #2025_01_09_Time_1387_(100.00%)_Space_527.05_(_%)
+% #2025_01_09_Time_1387_ms_(100.00%)_Space_527.05_MB_(_%)
 
 -spec three_sum(Nums :: [integer()]) -> [[integer()]].
 

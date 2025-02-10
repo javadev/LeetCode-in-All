@@ -1,6 +1,6 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search
 % #Breadth_First_Search #Graph #Topological_Sort #Top_Interview_150_Graph_General
-% #Big_O_Time_O(N)_Space_O(N) #2025_01_19_Time_220_(100.00%)_Space_67.41_(100.00%)
+% #Big_O_Time_O(N)_Space_O(N) #2025_01_19_Time_220_ms_(100.00%)_Space_67.41_MB_(100.00%)
 
 -define(WHITE, 0).
 -define(GRAY, 1).

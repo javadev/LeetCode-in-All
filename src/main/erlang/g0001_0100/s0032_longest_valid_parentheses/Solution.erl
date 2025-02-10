@@ -1,5 +1,5 @@
 % #Hard #Top_100_Liked_Questions #String #Dynamic_Programming #Stack #Big_O_Time_O(n)_Space_O(1)
-% #2025_01_12_Time_19_(100.00%)_Space_61.70_(100.00%)
+% #2025_01_12_Time_19_ms_(100.00%)_Space_61.70_MB_(100.00%)
 
 -spec longest_valid_parentheses(S :: unicode:unicode_binary()) -> integer().
 longest_valid_parentheses(S) ->

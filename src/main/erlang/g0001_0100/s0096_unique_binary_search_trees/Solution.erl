@@ -1,6 +1,6 @@
 % #Medium #Dynamic_Programming #Math #Tree #Binary_Tree #Binary_Search_Tree
 % #Dynamic_Programming_I_Day_11 #Big_O_Time_O(n)_Space_O(1)
-% #2025_01_14_Time_0_(100.00%)_Space_58.68_(100.00%)
+% #2025_01_14_Time_0_ms_(100.00%)_Space_58.68_MB_(100.00%)
 
 -spec num_trees(N :: integer()) -> integer().
 num_trees(N) ->

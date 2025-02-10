@@ -1,7 +1,7 @@
 % #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Greedy
 % #Algorithm_II_Day_13_Dynamic_Programming #Dynamic_Programming_I_Day_4
 % #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(1)
-% #2025_01_12_Time_488_(100.00%)_Space_66.60_(100.00%)
+% #2025_01_12_Time_488_ms_(100.00%)_Space_66.60_MB_(100.00%)
 
 -spec jump(Nums :: [integer()]) -> integer().
 jump(Nums) ->

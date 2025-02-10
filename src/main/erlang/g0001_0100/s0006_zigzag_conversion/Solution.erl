@@ -1,5 +1,5 @@
 % #Medium #String #Top_Interview_150_Array/String
-% #2025_01_08_Time_203_(100.00%)_Space_60.52_(100.00%)
+% #2025_01_08_Time_203_ms_(100.00%)_Space_60.52_MB_(100.00%)
 
 %% Define the function specification
 -spec convert(S :: unicode:unicode_binary(), NumRows :: integer()) -> unicode:unicode_binary().

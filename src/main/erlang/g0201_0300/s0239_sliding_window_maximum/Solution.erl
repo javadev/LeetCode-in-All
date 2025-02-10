@@ -1,6 +1,6 @@
 % #Hard #Top_100_Liked_Questions #Array #Heap_Priority_Queue #Sliding_Window #Queue
 % #Monotonic_Queue #Udemy_Arrays #Big_O_Time_O(n*k)_Space_O(n+k)
-% #2025_01_19_Time_422_(100.00%)_Space_151.54_(100.00%)
+% #2025_01_19_Time_422_ms_(100.00%)_Space_151.54_MB_(100.00%)
 
 -spec max_sliding_window(Nums :: [integer()], K :: integer()) -> [integer()].
 max_sliding_window(Nums, K) ->

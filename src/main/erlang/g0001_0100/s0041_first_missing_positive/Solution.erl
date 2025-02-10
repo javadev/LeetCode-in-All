@@ -1,5 +1,5 @@
 % #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Udemy_Arrays
-% #Big_O_Time_O(n)_Space_O(n) #2025_01_12_Time_151_(100.00%)_Space_149.20_(100.00%)
+% #Big_O_Time_O(n)_Space_O(n) #2025_01_12_Time_151_ms_(100.00%)_Space_149.20_MB_(100.00%)
 
 -spec first_missing_positive(Nums :: [integer()]) -> integer().
 first_missing_positive(Nums) ->

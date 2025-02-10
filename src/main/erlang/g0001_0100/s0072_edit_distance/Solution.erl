@@ -1,7 +1,7 @@
 % #Medium #Top_100_Liked_Questions #String #Dynamic_Programming
 % #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_19
 % #Udemy_Dynamic_Programming #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(n^2)_Space_O(n2)
-% #2025_01_13_Time_251_(100.00%)_Space_122.91_(100.00%)
+% #2025_01_13_Time_251_ms_(100.00%)_Space_122.91_MB_(100.00%)
 
 -spec min_distance(Word1 :: unicode:unicode_binary(), Word2 :: unicode:unicode_binary()) -> integer().
 min_distance(Word1, Word2) ->

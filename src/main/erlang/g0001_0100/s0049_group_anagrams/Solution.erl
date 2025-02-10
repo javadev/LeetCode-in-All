@@ -1,7 +1,7 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #String #Hash_Table #Sorting
 % #Data_Structure_II_Day_8_String #Programming_Skills_II_Day_11 #Udemy_Strings
 % #Top_Interview_150_Hashmap #Big_O_Time_O(n*k_log_k)_Space_O(n)
-% #2025_01_15_Time_13_(90.00%)_Space_73.34_(100.00%)
+% #2025_01_15_Time_13_ms_(90.00%)_Space_73.34_MB_(100.00%)
 
 -spec group_anagrams(Strs :: [unicode:unicode_binary()]) -> [[unicode:unicode_binary()]].
 group_anagrams(Strs) ->

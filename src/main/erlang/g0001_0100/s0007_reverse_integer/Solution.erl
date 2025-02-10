@@ -1,5 +1,5 @@
 % #Medium #Top_Interview_Questions #Math #Udemy_Integers
-% #2025_01_08_Time_244_(100.00%)_Space_58.56_(100.00%)
+% #2025_01_08_Time_244_ms_(100.00%)_Space_58.56_MB_(100.00%)
 
 -spec reverse(X :: integer()) -> integer().
 reverse(X) -> reverse(X, 0).

@@ -1,7 +1,7 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
 % #Backtracking #Algorithm_II_Day_11_Recursion_Backtracking #Udemy_Backtracking/Recursion
 % #Top_Interview_150_Backtracking #Big_O_Time_O(2^n)_Space_O(n)
-% #2025_01_11_Time_0_(100.00%)_Space_58.84_(100.00%)
+% #2025_01_11_Time_0_ms_(100.00%)_Space_58.84_MB_(100.00%)
 
 %% Generate all valid parenthesis combinations
 -spec generate_parenthesis(N :: integer()) -> [unicode:unicode_binary()].

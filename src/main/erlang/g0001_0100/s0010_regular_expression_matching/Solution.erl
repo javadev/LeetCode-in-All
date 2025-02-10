@@ -1,5 +1,5 @@
 % #Hard #Top_Interview_Questions #String #Dynamic_Programming #Recursion #Udemy_Dynamic_Programming
-% #Big_O_Time_O(m*n)_Space_O(m*n) #2025_01_09_Time_2019_(100.00%)_Space_58.37_(100.00%)
+% #Big_O_Time_O(m*n)_Space_O(m*n) #2025_01_09_Time_2019_ms_(100.00%)_Space_58.37_MB_(100.00%)
 
 -spec is_match(S :: unicode:unicode_binary(), P :: unicode:unicode_binary()) -> boolean().
 is_match(S, P) ->

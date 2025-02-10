@@ -1,7 +1,7 @@
 % #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Sorting #Counting
 % #Divide_and_Conquer #Data_Structure_II_Day_1_Array #Udemy_Famous_Algorithm
 % #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(1)
-% #2025_01_18_Time_2_(100.00%)_Space_76.02_(100.00%)
+% #2025_01_18_Time_2_ms_(100.00%)_Space_76.02_MB_(100.00%)
 
 -spec majority_element(Nums :: [integer()]) -> integer().
 majority_element(Nums) ->

@@ -1,5 +1,5 @@
 % #Medium #Array #Dynamic_Programming #Backtracking #Big_O_Time_O(n*(sum+s))_Space_O(n*(sum+s))
-% #2025_01_22_Time_377_(100.00%)_Space_60.11_(100.00%)
+% #2025_01_22_Time_377_ms_(100.00%)_Space_60.11_MB_(100.00%)
 
 -spec find_target_sum_ways(Nums :: [integer()], Target :: integer()) -> integer().
 find_target_sum_ways(Nums, Target) ->

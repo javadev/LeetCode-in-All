@@ -1,6 +1,6 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Matrix #Backtracking
 % #Algorithm_II_Day_11_Recursion_Backtracking #Top_Interview_150_Backtracking
-% #Big_O_Time_O(4^(m*n))_Space_O(m*n) #2025_01_14_Time_7_(100.00%)_Space_62.90_(100.00%)
+% #Big_O_Time_O(4^(m*n))_Space_O(m*n) #2025_01_14_Time_7_ms_(100.00%)_Space_62.90_MB_(100.00%)
 
 -spec exist(Board :: [[char()]], Word :: unicode:unicode_binary()) -> boolean().
 

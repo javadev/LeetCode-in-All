@@ -1,5 +1,5 @@
 % #Medium #String #Hash_Table #Greedy #Two_Pointers #Data_Structure_II_Day_7_String
-% #Big_O_Time_O(n)_Space_O(1) #2025_01_15_Time_5_(100.00%)_Space_59.70_(100.00%)
+% #Big_O_Time_O(n)_Space_O(1) #2025_01_15_Time_5_ms_(100.00%)_Space_59.70_MB_(100.00%)
 
 -spec partition_labels(binary()) -> [integer()].
 partition_labels(S) when is_binary(S) ->

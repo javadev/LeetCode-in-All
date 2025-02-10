@@ -1,7 +1,7 @@
 % #Medium #Top_100_Liked_Questions #String #Dynamic_Programming
 % #Algorithm_II_Day_17_Dynamic_Programming #Dynamic_Programming_I_Day_19
 % #Udemy_Dynamic_Programming #Big_O_Time_O(n*m)_Space_O(n*m)
-% #2025_01_22_Time_2600_(100.00%)_Space_412.75_(100.00%)
+% #2025_01_22_Time_2600_ms_(100.00%)_Space_412.75_MB_(100.00%)
 
 -spec longest_common_subsequence(Text1 :: unicode:unicode_binary(), Text2 :: unicode:unicode_binary()) -> integer().
 longest_common_subsequence(Text1, Text2) ->

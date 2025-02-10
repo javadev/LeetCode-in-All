@@ -1,6 +1,6 @@
 % #Easy #Top_100_Liked_Questions #Top_Interview_Questions #String #Stack
 % #Data_Structure_I_Day_9_Stack_Queue #Udemy_Strings #Top_Interview_150_Stack
-% #Big_O_Time_O(n)_Space_O(n) #2025_01_11_Time_0_(100.00%)_Space_60.53_(_%)
+% #Big_O_Time_O(n)_Space_O(n) #2025_01_11_Time_0_ms_(100.00%)_Space_60.53_MB_(_%)
 
 %% Check if binary has valid parentheses
 -spec is_valid(S :: unicode:unicode_binary()) -> boolean().

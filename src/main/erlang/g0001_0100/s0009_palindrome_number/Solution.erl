@@ -1,5 +1,5 @@
 % #Easy #Math #Udemy_Integers #Top_Interview_150_Math
-% #2025_01_09_Time_1_(100.00%)_Space_58.73_(70.00%)
+% #2025_01_09_Time_1_ms_(100.00%)_Space_58.73_MB_(70.00%)
 
 -spec is_palindrome(X :: integer()) -> boolean().
 is_palindrome(X) when X < 0 ->

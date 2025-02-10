@@ -1,7 +1,7 @@
 % #Medium #Top_100_Liked_Questions #String #Hash_Table #Sliding_Window
 % #Algorithm_II_Day_5_Sliding_Window #Programming_Skills_II_Day_12
 % #Level_1_Day_12_Sliding_Window/Two_Pointer #Big_O_Time_O(n+m)_Space_O(1)
-% #2025_01_22_Time_43_(100.00%)_Space_63.56_(100.00%)
+% #2025_01_22_Time_43_ms_(100.00%)_Space_63.56_MB_(100.00%)
 
 -spec find_anagrams(S :: unicode:unicode_binary(), P :: unicode:unicode_binary()) -> [integer()].
 find_anagrams(S, P) ->

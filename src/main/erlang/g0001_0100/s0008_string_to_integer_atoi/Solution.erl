@@ -1,4 +1,4 @@
-% #Medium #Top_Interview_Questions #String #2025_01_09_Time_0_(100.00%)_Space_58.90_(100.00%)
+% #Medium #Top_Interview_Questions #String #2025_01_09_Time_0_ms_(100.00%)_Space_58.90_MB_(100.00%)
 
 %% Define the function specification
 -spec my_atoi(S :: binary()) -> integer().

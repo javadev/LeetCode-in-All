@@ -1,5 +1,5 @@
 % #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Level_2_Day_13_Dynamic_Programming
-% #Big_O_Time_O(n*sums)_Space_O(n*sums) #2025_01_22_Time_585_(100.00%)_Space_63.47_(100.00%)
+% #Big_O_Time_O(n*sums)_Space_O(n*sums) #2025_01_22_Time_585_ms_(100.00%)_Space_63.47_MB_(100.00%)
 
 -spec can_partition(Nums :: [integer()]) -> boolean().
 can_partition(Nums) ->

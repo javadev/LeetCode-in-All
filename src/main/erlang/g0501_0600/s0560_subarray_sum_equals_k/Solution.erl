@@ -1,5 +1,5 @@
 % #Medium #Top_100_Liked_Questions #Array #Hash_Table #Prefix_Sum #Data_Structure_II_Day_5_Array
-% #Big_O_Time_O(n)_Space_O(n) #2025_01_08_Time_47_(100.00%)_Space_79.35_(_%)
+% #Big_O_Time_O(n)_Space_O(n) #2025_01_08_Time_47_ms_(100.00%)_Space_79.35_MB_(_%)
 
 -spec subarray_sum(Nums :: [integer()], K :: integer()) -> integer().
 subarray_sum(Nums, K) ->

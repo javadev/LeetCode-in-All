@@ -1,6 +1,6 @@
 % #Medium #Array #Dynamic_Programming #Matrix #Dynamic_Programming_I_Day_16
 % #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(m*n)_Space_O(m*n)
-% #2025_01_19_Time_3221_(100.00%)_Space_127.48_(100.00%)
+% #2025_01_19_Time_3221_ms_(100.00%)_Space_127.48_MB_(100.00%)
 
 -spec maximal_square(Matrix :: [[char()]]) -> integer().
 maximal_square([]) -> 0;

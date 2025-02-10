@@ -1,5 +1,5 @@
 % #Medium #String #Dynamic_Programming #Big_O_Time_O(n^2)_Space_O(n)
-% #2025_01_11_Time_17_(100.00%)_Space_59.16_(100.00%)
+% #2025_01_11_Time_17_ms_(100.00%)_Space_59.16_MB_(100.00%)
 
 -spec count_substrings(S :: binary()) -> integer().
 count_substrings(S) ->
