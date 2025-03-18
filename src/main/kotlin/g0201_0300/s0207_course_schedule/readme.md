@@ -14,7 +14,7 @@ Return `true` if you can finish all courses. Otherwise, return `false`.
 
 **Output:** true
 
-**Explanation:** There are a total of 2 courses to take. To take course 1 you should have finished course 0. So it is possible. 
+**Explanation:** There are a total of 2 courses to take. To take course 1 you should have finished course 0. So it is possible.
 
 **Example 2:**
 
@@ -22,11 +22,11 @@ Return `true` if you can finish all courses. Otherwise, return `false`.
 
 **Output:** false
 
-**Explanation:** There are a total of 2 courses to take. To take course 1 you should have finished course 0, and to take course 0 you should also have finished course 1. So it is impossible. 
+**Explanation:** There are a total of 2 courses to take. To take course 1 you should have finished course 0, and to take course 0 you should also have finished course 1. So it is impossible.
 
 **Constraints:**
 
-*   <code>1 <= numCourses <= 10<sup>5</sup></code>
+*   `1 <= numCourses <= 2000`
 *   `0 <= prerequisites.length <= 5000`
 *   `prerequisites[i].length == 2`
 *   <code>0 <= a<sub>i</sub>, b<sub>i</sub> < numCourses</code>

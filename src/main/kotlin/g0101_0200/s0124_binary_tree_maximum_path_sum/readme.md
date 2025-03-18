@@ -16,7 +16,7 @@ Given the `root` of a binary tree, return _the maximum **path sum** of any **non
 
 **Output:** 6
 
-**Explanation:** The optimal path is 2 -> 1 -> 3 with a path sum of 2 + 1 + 3 = 6. 
+**Explanation:** The optimal path is 2 -> 1 -> 3 with a path sum of 2 + 1 + 3 = 6.
 
 **Example 2:**
 
@@ -26,7 +26,7 @@ Given the `root` of a binary tree, return _the maximum **path sum** of any **non
 
 **Output:** 42
 
-**Explanation:** The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 42. 
+**Explanation:** The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 42.
 
 **Constraints:**
 

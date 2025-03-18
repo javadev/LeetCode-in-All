@@ -12,10 +12,11 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 
 **Output:** [0,6]
 
-**Explanation:**
+**Explanation:** 
 
-    The substring with start index = 0 is "cba", which is an anagram of "abc".
-    The substring with start index = 6 is "bac", which is an anagram of "abc". 
+The substring with start index = 0 is "cba", which is an anagram of "abc". 
+
+The substring with start index = 6 is "bac", which is an anagram of "abc".
 
 **Example 2:**
 
@@ -23,11 +24,13 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 
 **Output:** [0,1,2]
 
-**Explanation:**
+**Explanation:** 
 
-    The substring with start index = 0 is "ab", which is an anagram of "ab".
-    The substring with start index = 1 is "ba", which is an anagram of "ab".
-    The substring with start index = 2 is "ab", which is an anagram of "ab". 
+The substring with start index = 0 is "ab", which is an anagram of "ab". 
+
+The substring with start index = 1 is "ba", which is an anagram of "ab". 
+
+The substring with start index = 2 is "ab", which is an anagram of "ab".
 
 **Constraints:**
 

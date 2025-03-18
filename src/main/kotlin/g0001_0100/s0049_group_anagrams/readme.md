@@ -10,19 +10,19 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a differ
 
 **Input:** strs = ["eat","tea","tan","ate","nat","bat"]
 
-**Output:** [["bat"],["nat","tan"],["ate","eat","tea"]] 
+**Output:** [["bat"],["nat","tan"],["ate","eat","tea"]]
 
 **Example 2:**
 
 **Input:** strs = [""]
 
-**Output:** [[""]] 
+**Output:** [[""]]
 
 **Example 3:**
 
 **Input:** strs = ["a"]
 
-**Output:** [["a"]] 
+**Output:** [["a"]]
 
 **Constraints:**
 

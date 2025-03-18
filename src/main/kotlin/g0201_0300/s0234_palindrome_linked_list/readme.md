@@ -2,7 +2,7 @@
 
 Easy
 
-Given the `head` of a singly linked list, return `true` if it is a palindrome.
+Given the `head` of a singly linked list, return `true` _if it is a palindrome or_ `false` _otherwise_.
 
 **Example 1:**
 
@@ -10,7 +10,7 @@ Given the `head` of a singly linked list, return `true` if it is a palindrome.
 
 **Input:** head = [1,2,2,1]
 
-**Output:** true 
+**Output:** true
 
 **Example 2:**
 
@@ -18,7 +18,7 @@ Given the `head` of a singly linked list, return `true` if it is a palindrome.
 
 **Input:** head = [1,2]
 
-**Output:** false 
+**Output:** false
 
 **Constraints:**
 

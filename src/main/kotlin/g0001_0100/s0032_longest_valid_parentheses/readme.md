@@ -10,7 +10,7 @@ Given a string containing just the characters `'('` and `')'`, find the length o
 
 **Output:** 2
 
-**Explanation:** The longest valid parentheses substring is "()". 
+**Explanation:** The longest valid parentheses substring is "()".
 
 **Example 2:**
 
@@ -18,13 +18,13 @@ Given a string containing just the characters `'('` and `')'`, find the length o
 
 **Output:** 4
 
-**Explanation:** The longest valid parentheses substring is "()()". 
+**Explanation:** The longest valid parentheses substring is "()()".
 
 **Example 3:**
 
 **Input:** s = ""
 
-**Output:** 0 
+**Output:** 0
 
 **Constraints:**
 

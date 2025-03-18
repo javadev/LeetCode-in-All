@@ -16,13 +16,13 @@ Each solution contains a distinct board configuration of the n-queens' placement
 
 **Output:** [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 
-**Explanation:** There exist two distinct solutions to the 4-queens puzzle as shown above 
+**Explanation:** There exist two distinct solutions to the 4-queens puzzle as shown above
 
 **Example 2:**
 
 **Input:** n = 1
 
-**Output:** [["Q"]] 
+**Output:** [["Q"]]
 
 **Constraints:**
 

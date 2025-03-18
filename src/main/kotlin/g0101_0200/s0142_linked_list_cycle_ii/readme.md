@@ -16,7 +16,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
 **Output:** tail connects to node index 1
 
-**Explanation:** There is a cycle in the linked list, where tail connects to the second node. 
+**Explanation:** There is a cycle in the linked list, where tail connects to the second node.
 
 **Example 2:**
 
@@ -26,7 +26,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
 **Output:** tail connects to node index 0
 
-**Explanation:** There is a cycle in the linked list, where tail connects to the first node. 
+**Explanation:** There is a cycle in the linked list, where tail connects to the first node.
 
 **Example 3:**
 
@@ -36,7 +36,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
 **Output:** no cycle
 
-**Explanation:** There is no cycle in the linked list. 
+**Explanation:** There is no cycle in the linked list.
 
 **Constraints:**
 

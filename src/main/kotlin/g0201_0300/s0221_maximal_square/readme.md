@@ -10,7 +10,7 @@ Given an `m x n` binary `matrix` filled with `0`'s and `1`'s, _find the largest 
 
 **Input:** matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
 
-**Output:** 4 
+**Output:** 4
 
 **Example 2:**
 
@@ -18,13 +18,13 @@ Given an `m x n` binary `matrix` filled with `0`'s and `1`'s, _find the largest 
 
 **Input:** matrix = [["0","1"],["1","0"]]
 
-**Output:** 1 
+**Output:** 1
 
 **Example 3:**
 
 **Input:** matrix = [["0"]]
 
-**Output:** 0 
+**Output:** 0
 
 **Constraints:**
 

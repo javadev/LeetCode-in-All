@@ -12,7 +12,7 @@ The word can be constructed from letters of sequentially adjacent cells, where a
 
 **Input:** board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
 
-**Output:** true 
+**Output:** true
 
 **Example 2:**
 
@@ -20,7 +20,7 @@ The word can be constructed from letters of sequentially adjacent cells, where a
 
 **Input:** board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "SEE"
 
-**Output:** true 
+**Output:** true
 
 **Example 3:**
 
@@ -28,7 +28,7 @@ The word can be constructed from letters of sequentially adjacent cells, where a
 
 **Input:** board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCB"
 
-**Output:** false 
+**Output:** false
 
 **Constraints:**
 

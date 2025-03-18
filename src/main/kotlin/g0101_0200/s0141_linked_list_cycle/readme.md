@@ -16,7 +16,7 @@ Return `true` _if there is a cycle in the linked list_. Otherwise, return `false
 
 **Output:** true
 
-**Explanation:** There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed). 
+**Explanation:** There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
 
 **Example 2:**
 
@@ -26,7 +26,7 @@ Return `true` _if there is a cycle in the linked list_. Otherwise, return `false
 
 **Output:** true
 
-**Explanation:** There is a cycle in the linked list, where the tail connects to the 0th node. 
+**Explanation:** There is a cycle in the linked list, where the tail connects to the 0th node.
 
 **Example 3:**
 
@@ -36,7 +36,7 @@ Return `true` _if there is a cycle in the linked list_. Otherwise, return `false
 
 **Output:** false
 
-**Explanation:** There is no cycle in the linked list. 
+**Explanation:** There is no cycle in the linked list.
 
 **Constraints:**
 

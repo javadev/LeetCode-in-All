@@ -16,20 +16,23 @@ Return the number of different **expressions** that you can build, which evaluat
 
 **Output:** 5
 
-**Explanation:**
+**Explanation:** There are 5 ways to assign symbols to make the sum of nums be target 3. 
 
-    There are 5 ways to assign symbols to make the sum of nums be target 3.
-    -1 + 1 + 1 + 1 + 1 = 3
-    +1 - 1 + 1 + 1 + 1 = 3
-    +1 + 1 - 1 + 1 + 1 = 3
-    +1 + 1 + 1 - 1 + 1 = 3
-    +1 + 1 + 1 + 1 - 1 = 3 
+-1 + 1 + 1 + 1 + 1 = 3 
+
++1 - 1 + 1 + 1 + 1 = 3 
+
++1 + 1 - 1 + 1 + 1 = 3 
+
++1 + 1 + 1 - 1 + 1 = 3 
+
+    +1 + 1 + 1 + 1 - 1 = 3
 
 **Example 2:**
 
 **Input:** nums = [1], target = 1
 
-**Output:** 1 
+**Output:** 1
 
 **Constraints:**
 

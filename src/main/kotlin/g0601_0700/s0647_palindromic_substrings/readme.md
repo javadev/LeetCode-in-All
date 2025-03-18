@@ -14,7 +14,7 @@ A **substring** is a contiguous sequence of characters within the string.
 
 **Output:** 3
 
-**Explanation:** Three palindromic strings: "a", "b", "c". 
+**Explanation:** Three palindromic strings: "a", "b", "c".
 
 **Example 2:**
 
@@ -22,7 +22,7 @@ A **substring** is a contiguous sequence of characters within the string.
 
 **Output:** 6
 
-**Explanation:** Six palindromic strings: "a", "a", "a", "aa", "aa", "aaa". 
+**Explanation:** Six palindromic strings: "a", "a", "a", "aa", "aa", "aaa".
 
 **Constraints:**
 

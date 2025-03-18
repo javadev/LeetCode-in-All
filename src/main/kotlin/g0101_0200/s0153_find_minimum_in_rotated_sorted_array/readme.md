@@ -19,7 +19,7 @@ You must write an algorithm that runs in `O(log n) time.`
 
 **Output:** 1
 
-**Explanation:** The original array was [1,2,3,4,5] rotated 3 times. 
+**Explanation:** The original array was [1,2,3,4,5] rotated 3 times.
 
 **Example 2:**
 
@@ -27,7 +27,7 @@ You must write an algorithm that runs in `O(log n) time.`
 
 **Output:** 0
 
-**Explanation:** The original array was [0,1,2,4,5,6,7] and it was rotated 4 times. 
+**Explanation:** The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
 
 **Example 3:**
 
@@ -35,7 +35,7 @@ You must write an algorithm that runs in `O(log n) time.`
 
 **Output:** 11
 
-**Explanation:** The original array was [11,13,15,17] and it was rotated 4 times. 
+**Explanation:** The original array was [11,13,15,17] and it was rotated 4 times.
 
 **Constraints:**
 

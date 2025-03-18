@@ -4,7 +4,7 @@ Medium
 
 Given an integer array `nums`, find a contiguous non-empty subarray within the array that has the largest product, and return _the product_.
 
-It is **guaranteed** that the answer will fit in a **32-bit** integer.
+The test cases are generated so that the answer will fit in a **32-bit** integer.
 
 A **subarray** is a contiguous subsequence of the array.
 
@@ -14,7 +14,7 @@ A **subarray** is a contiguous subsequence of the array.
 
 **Output:** 6
 
-**Explanation:** [2,3] has the largest product 6. 
+**Explanation:** [2,3] has the largest product 6.
 
 **Example 2:**
 
@@ -22,7 +22,7 @@ A **subarray** is a contiguous subsequence of the array.
 
 **Output:** 0
 
-**Explanation:** The result cannot be 2, because [-2,-1] is not a subarray. 
+**Explanation:** The result cannot be 2, because [-2,-1] is not a subarray.
 
 **Constraints:**
 

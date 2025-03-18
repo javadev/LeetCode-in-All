@@ -10,7 +10,7 @@ Given the `root` of a binary tree, _check whether it is a mirror of itself_ (i.e
 
 **Input:** root = [1,2,2,3,4,4,3]
 
-**Output:** true 
+**Output:** true
 
 **Example 2:**
 
@@ -18,7 +18,7 @@ Given the `root` of a binary tree, _check whether it is a mirror of itself_ (i.e
 
 **Input:** root = [1,2,2,null,3,null,3]
 
-**Output:** false 
+**Output:** false
 
 **Constraints:**
 

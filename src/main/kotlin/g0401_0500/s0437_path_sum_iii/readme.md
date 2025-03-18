@@ -14,13 +14,13 @@ The path does not need to start or end at the root or a leaf, but it must go dow
 
 **Output:** 3
 
-**Explanation:** The paths that sum to 8 are shown. 
+**Explanation:** The paths that sum to 8 are shown.
 
 **Example 2:**
 
 **Input:** root = [5,4,8,11,null,13,4,7,2,null,null,5,1], targetSum = 22
 
-**Output:** 3 
+**Output:** 3
 
 **Constraints:**
 

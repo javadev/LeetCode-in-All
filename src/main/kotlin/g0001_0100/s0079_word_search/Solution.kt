@@ -1,8 +1,8 @@
 package g0001_0100.s0079_word_search
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Matrix #Backtracking
-// #Algorithm_II_Day_11_Recursion_Backtracking #Big_O_Time_O(4^(m*n))_Space_O(m*n)
-// #2023_07_10_Time_392_ms_(72.92%)_Space_34.7_MB_(83.33%)
+// #Algorithm_II_Day_11_Recursion_Backtracking #Top_Interview_150_Backtracking
+// #Big_O_Time_O(4^(m*n))_Space_O(m*n) #2023_07_10_Time_392_ms_(72.92%)_Space_34.7_MB_(83.33%)
 
 class Solution {
     private fun backtrace(
@@ -11,7 +11,7 @@ class Solution {
         word: String,
         index: Int,
         x: Int,
-        y: Int
+        y: Int,
     ): Boolean {
         if (index == word.length) {
             return true
@@ -40,7 +40,7 @@ class Solution {
     fun exist(board: Array<CharArray>, word: String): Boolean {
         val visited = Array(board.size) {
             BooleanArray(
-                board[0].size
+                board[0].size,
             )
         }
         for (i in board.indices) {

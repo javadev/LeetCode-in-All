@@ -10,19 +10,19 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
 
 **Input:** head = [1,2,3,4]
 
-**Output:** [2,1,4,3] 
+**Output:** [2,1,4,3]
 
 **Example 2:**
 
 **Input:** head = []
 
-**Output:** [] 
+**Output:** []
 
 **Example 3:**
 
 **Input:** head = [1]
 
-**Output:** [1] 
+**Output:** [1]
 
 **Constraints:**
 

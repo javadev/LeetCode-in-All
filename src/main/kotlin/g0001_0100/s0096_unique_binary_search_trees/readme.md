@@ -10,13 +10,13 @@ Given an integer `n`, return _the number of structurally unique **BST'**s (binar
 
 **Input:** n = 3
 
-**Output:** 5 
+**Output:** 5
 
 **Example 2:**
 
 **Input:** n = 1
 
-**Output:** 1 
+**Output:** 1
 
 **Constraints:**
 

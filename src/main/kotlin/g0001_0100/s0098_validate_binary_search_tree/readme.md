@@ -16,7 +16,7 @@ A **valid BST** is defined as follows:
 
 **Input:** root = [2,1,3]
 
-**Output:** true 
+**Output:** true
 
 **Example 2:**
 
@@ -26,7 +26,7 @@ A **valid BST** is defined as follows:
 
 **Output:** false
 
-**Explanation:** The root node's value is 5 but its right child's value is 4. 
+**Explanation:** The root node's value is 5 but its right child's value is 4.
 
 **Constraints:**
 

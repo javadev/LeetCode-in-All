@@ -10,7 +10,7 @@ Given a **non-empty** array `nums` containing **only positive integers**, find i
 
 **Output:** true
 
-**Explanation:** The array can be partitioned as [1, 5, 5] and [11]. 
+**Explanation:** The array can be partitioned as [1, 5, 5] and [11].
 
 **Example 2:**
 
@@ -18,7 +18,7 @@ Given a **non-empty** array `nums` containing **only positive integers**, find i
 
 **Output:** false
 
-**Explanation:** The array cannot be partitioned into equal sum subsets. 
+**Explanation:** The array cannot be partitioned into equal sum subsets.
 
 **Constraints:**
 

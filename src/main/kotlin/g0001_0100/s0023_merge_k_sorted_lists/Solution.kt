@@ -1,7 +1,8 @@
 package g0001_0100.s0023_merge_k_sorted_lists
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Heap_Priority_Queue #Linked_List
-// #Divide_and_Conquer #Merge_Sort #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
+// #Divide_and_Conquer #Merge_Sort #Top_Interview_150_Divide_and_Conquer
+// #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
 // #2023_07_03_Time_198_ms_(93.77%)_Space_37.6_MB_(97.03%)
 
 import com_github_leetcode.ListNode
@@ -19,7 +20,9 @@ class Solution {
     fun mergeKLists(lists: Array<ListNode>): ListNode? {
         return if (lists.isEmpty()) {
             null
-        } else mergeKLists(lists, 0, lists.size)
+        } else {
+            mergeKLists(lists, 0, lists.size)
+        }
     }
 
     private fun mergeKLists(lists: Array<ListNode>, leftIndex: Int, rightIndex: Int): ListNode? {
