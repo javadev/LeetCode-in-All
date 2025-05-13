@@ -10,8 +10,6 @@
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Algorithm II](#algorithm-ii)
-* [Binary Search I](#binary-search-i)
 * [Binary Search II](#binary-search-ii)
 * [Dynamic Programming I](#dynamic-programming-i)
 * [Programming Skills I](#programming-skills-i)
@@ -25,202 +23,8 @@
 * [Data Structure I](#data-structure-i)
 * [Data Structure II](#data-structure-ii)
 * [Algorithm I](#algorithm-i)
-
-### Algorithm II
-
-#### Day 1 Binary Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0034 |Find First and Last Position of Element in Sorted Array| [Java](src/main/java/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Scala](src/main/scala/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [PHP](src/main/php/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C#](src/main/csharp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Go](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Python](src/main/python/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Swift](src/main/swift/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Rust](src/main/rust/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Dart](src/main/dart/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C](src/main/c/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [JavaScript](src/main/js/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Racket](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-| 0033 |Search in Rotated Sorted Array| [Java](src/main/java/g0001_0100/s0033_search_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0033_search_in_rotated_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0033_search_in_rotated_sorted_array) [Scala](src/main/scala/g0001_0100/s0033_search_in_rotated_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array) [PHP](src/main/php/g0001_0100/s0033_search_in_rotated_sorted_array) [C#](src/main/csharp/g0001_0100/s0033_search_in_rotated_sorted_array) [Go](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array) [Python](src/main/python/g0001_0100/s0033_search_in_rotated_sorted_array) [Swift](src/main/swift/g0001_0100/s0033_search_in_rotated_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0033_search_in_rotated_sorted_array) [Rust](src/main/rust/g0001_0100/s0033_search_in_rotated_sorted_array) [Dart](src/main/dart/g0001_0100/s0033_search_in_rotated_sorted_array) [C](src/main/c/g0001_0100/s0033_search_in_rotated_sorted_array) [JavaScript](src/main/js/g0001_0100/s0033_search_in_rotated_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array) [Racket](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-| 0074 |Search a 2D Matrix| [Java](src/main/java/g0001_0100/s0074_search_a_2d_matrix) [Kotlin](src/main/kotlin/g0001_0100/s0074_search_a_2d_matrix) [TypeScript](src/main/ts/g0001_0100/s0074_search_a_2d_matrix) [Scala](src/main/scala/g0001_0100/s0074_search_a_2d_matrix) [Ruby](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix) [PHP](src/main/php/g0001_0100/s0074_search_a_2d_matrix) [C#](src/main/csharp/g0001_0100/s0074_search_a_2d_matrix) [Go](src/main/go/g0001_0100/s0074_search_a_2d_matrix) [Cpp](src/main/cpp/g0001_0100/s0074_search_a_2d_matrix) [Python](src/main/python/g0001_0100/s0074_search_a_2d_matrix) [Swift](src/main/swift/g0001_0100/s0074_search_a_2d_matrix) [Elixir](src/main/elixir/g0001_0100/s0074_search_a_2d_matrix) [Rust](src/main/rust/g0001_0100/s0074_search_a_2d_matrix) [Dart](src/main/dart/g0001_0100/s0074_search_a_2d_matrix) [C](src/main/c/g0001_0100/s0074_search_a_2d_matrix) [JavaScript](src/main/js/g0001_0100/s0074_search_a_2d_matrix) [Erlang](src/main/erlang/g0001_0100/s0074_search_a_2d_matrix) [Racket](src/main/racket/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 0 | 100.00
-
-#### Day 2 Binary Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0153 |Find Minimum in Rotated Sorted Array| [Java](src/main/java/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [TypeScript](src/main/ts/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Scala](src/main/scala/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Ruby](src/main/ruby/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [PHP](src/main/php/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C#](src/main/csharp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Go](src/main/go/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Cpp](src/main/cpp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Python](src/main/python/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Swift](src/main/swift/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Elixir](src/main/elixir/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Rust](src/main/rust/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Dart](src/main/dart/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [JavaScript](src/main/js/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Erlang](src/main/erlang/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Racket](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
-
-#### Day 3 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0015 |3Sum| [Java](src/main/java/g0001_0100/s0015_3sum) [Kotlin](src/main/kotlin/g0001_0100/s0015_3sum) [TypeScript](src/main/ts/g0001_0100/s0015_3sum) [Scala](src/main/scala/g0001_0100/s0015_3sum) [Ruby](src/main/ruby/g0001_0100/s0015_3sum) [PHP](src/main/php/g0001_0100/s0015_3sum) [C#](src/main/csharp/g0001_0100/s0015_3sum) [Go](src/main/go/g0001_0100/s0015_3sum) [Cpp](src/main/cpp/g0001_0100/s0015_3sum) [Python](src/main/python/g0001_0100/s0015_3sum) [Swift](src/main/swift/g0001_0100/s0015_3sum) [Elixir](src/main/elixir/g0001_0100/s0015_3sum) [Rust](src/main/rust/g0001_0100/s0015_3sum) [Dart](src/main/dart/g0001_0100/s0015_3sum) [C](src/main/c/g0001_0100/s0015_3sum) [JavaScript](src/main/js/g0001_0100/s0015_3sum) [Erlang](src/main/erlang/g0001_0100/s0015_3sum) [Racket](src/main/racket/g0001_0100/s0015_3sum)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 29 | 72.02
-
-#### Day 4 Two Pointers
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0011 |Container With Most Water| [Java](src/main/java/g0001_0100/s0011_container_with_most_water) [Kotlin](src/main/kotlin/g0001_0100/s0011_container_with_most_water) [TypeScript](src/main/ts/g0001_0100/s0011_container_with_most_water) [Scala](src/main/scala/g0001_0100/s0011_container_with_most_water) [Ruby](src/main/ruby/g0001_0100/s0011_container_with_most_water) [PHP](src/main/php/g0001_0100/s0011_container_with_most_water) [C#](src/main/csharp/g0001_0100/s0011_container_with_most_water) [Go](src/main/go/g0001_0100/s0011_container_with_most_water) [Cpp](src/main/cpp/g0001_0100/s0011_container_with_most_water) [Python](src/main/python/g0001_0100/s0011_container_with_most_water) [Swift](src/main/swift/g0001_0100/s0011_container_with_most_water) [Elixir](src/main/elixir/g0001_0100/s0011_container_with_most_water) [Rust](src/main/rust/g0001_0100/s0011_container_with_most_water) [Dart](src/main/dart/g0001_0100/s0011_container_with_most_water) [C](src/main/c/g0001_0100/s0011_container_with_most_water) [JavaScript](src/main/js/g0001_0100/s0011_container_with_most_water) [Erlang](src/main/erlang/g0001_0100/s0011_container_with_most_water) [Racket](src/main/racket/g0001_0100/s0011_container_with_most_water)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 3 | 96.01
-
-#### Day 5 Sliding Window
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0438 |Find All Anagrams in a String| [Java](src/main/java/g0401_0500/s0438_find_all_anagrams_in_a_string) [Kotlin](src/main/kotlin/g0401_0500/s0438_find_all_anagrams_in_a_string) [TypeScript](src/main/ts/g0401_0500/s0438_find_all_anagrams_in_a_string) [Scala](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string) [Ruby](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string) [PHP](src/main/php/g0401_0500/s0438_find_all_anagrams_in_a_string) [C#](src/main/csharp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Go](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string) [Cpp](src/main/cpp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Python](src/main/python/g0401_0500/s0438_find_all_anagrams_in_a_string) [Swift](src/main/swift/g0401_0500/s0438_find_all_anagrams_in_a_string) [Elixir](src/main/elixir/g0401_0500/s0438_find_all_anagrams_in_a_string) [Rust](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string) [Dart](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string) [C](src/main/c/g0401_0500/s0438_find_all_anagrams_in_a_string) [JavaScript](src/main/js/g0401_0500/s0438_find_all_anagrams_in_a_string) [Erlang](src/main/erlang/g0401_0500/s0438_find_all_anagrams_in_a_string) [Racket](src/main/racket/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 3 | 99.83
-
-#### Day 6 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0200 |Number of Islands| [Java](src/main/java/g0101_0200/s0200_number_of_islands) [Kotlin](src/main/kotlin/g0101_0200/s0200_number_of_islands) [TypeScript](src/main/ts/g0101_0200/s0200_number_of_islands) [Scala](src/main/scala/g0101_0200/s0200_number_of_islands) [Ruby](src/main/ruby/g0101_0200/s0200_number_of_islands) [PHP](src/main/php/g0101_0200/s0200_number_of_islands) [C#](src/main/csharp/g0101_0200/s0200_number_of_islands) [Go](src/main/go/g0101_0200/s0200_number_of_islands) [Cpp](src/main/cpp/g0101_0200/s0200_number_of_islands) [Python](src/main/python/g0101_0200/s0200_number_of_islands) [Swift](src/main/swift/g0101_0200/s0200_number_of_islands) [Elixir](src/main/elixir/g0101_0200/s0200_number_of_islands) [Rust](src/main/rust/g0101_0200/s0200_number_of_islands) [Dart](src/main/dart/g0101_0200/s0200_number_of_islands) [C](src/main/c/g0101_0200/s0200_number_of_islands) [JavaScript](src/main/js/g0101_0200/s0200_number_of_islands) [Erlang](src/main/erlang/g0101_0200/s0200_number_of_islands) [Racket](src/main/racket/g0101_0200/s0200_number_of_islands)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 3 | 87.24
-
-#### Day 7 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 8 Breadth First Search Depth First Search
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9 Recursion Backtracking
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0078 |Subsets| [Java](src/main/java/g0001_0100/s0078_subsets) [Kotlin](src/main/kotlin/g0001_0100/s0078_subsets) [TypeScript](src/main/ts/g0001_0100/s0078_subsets) [Scala](src/main/scala/g0001_0100/s0078_subsets) [Ruby](src/main/ruby/g0001_0100/s0078_subsets) [PHP](src/main/php/g0001_0100/s0078_subsets) [C#](src/main/csharp/g0001_0100/s0078_subsets) [Go](src/main/go/g0001_0100/s0078_subsets) [Cpp](src/main/cpp/g0001_0100/s0078_subsets) [Python](src/main/python/g0001_0100/s0078_subsets) [Swift](src/main/swift/g0001_0100/s0078_subsets) [Elixir](src/main/elixir/g0001_0100/s0078_subsets) [Rust](src/main/rust/g0001_0100/s0078_subsets) [Dart](src/main/dart/g0001_0100/s0078_subsets) [C](src/main/c/g0001_0100/s0078_subsets) [JavaScript](src/main/js/g0001_0100/s0078_subsets) [Erlang](src/main/erlang/g0001_0100/s0078_subsets) [Racket](src/main/racket/g0001_0100/s0078_subsets)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 0 | 100.00
-
-#### Day 10 Recursion Backtracking
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0039 |Combination Sum| [Java](src/main/java/g0001_0100/s0039_combination_sum) [Kotlin](src/main/kotlin/g0001_0100/s0039_combination_sum) [TypeScript](src/main/ts/g0001_0100/s0039_combination_sum) [Scala](src/main/scala/g0001_0100/s0039_combination_sum) [Ruby](src/main/ruby/g0001_0100/s0039_combination_sum) [PHP](src/main/php/g0001_0100/s0039_combination_sum) [C#](src/main/csharp/g0001_0100/s0039_combination_sum) [Go](src/main/go/g0001_0100/s0039_combination_sum) [Cpp](src/main/cpp/g0001_0100/s0039_combination_sum) [Python](src/main/python/g0001_0100/s0039_combination_sum) [Swift](src/main/swift/g0001_0100/s0039_combination_sum) [Elixir](src/main/elixir/g0001_0100/s0039_combination_sum) [Rust](src/main/rust/g0001_0100/s0039_combination_sum) [Dart](src/main/dart/g0001_0100/s0039_combination_sum) [C](src/main/c/g0001_0100/s0039_combination_sum) [JavaScript](src/main/js/g0001_0100/s0039_combination_sum) [Erlang](src/main/erlang/g0001_0100/s0039_combination_sum) [Racket](src/main/racket/g0001_0100/s0039_combination_sum)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 1 | 99.99
-
-#### Day 11 Recursion Backtracking
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0017 |Letter Combinations of a Phone Number| [Java](src/main/java/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Kotlin](src/main/kotlin/g0001_0100/s0017_letter_combinations_of_a_phone_number) [TypeScript](src/main/ts/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Scala](src/main/scala/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Ruby](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number) [PHP](src/main/php/g0001_0100/s0017_letter_combinations_of_a_phone_number) [C#](src/main/csharp/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Go](src/main/go/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Cpp](src/main/cpp/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Python](src/main/python/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Swift](src/main/swift/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Elixir](src/main/elixir/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Rust](src/main/rust/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Dart](src/main/dart/g0001_0100/s0017_letter_combinations_of_a_phone_number) [C](src/main/c/g0001_0100/s0017_letter_combinations_of_a_phone_number) [JavaScript](src/main/js/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Erlang](src/main/erlang/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Racket](src/main/racket/g0001_0100/s0017_letter_combinations_of_a_phone_number)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
-| 0022 |Generate Parentheses| [Java](src/main/java/g0001_0100/s0022_generate_parentheses) [Kotlin](src/main/kotlin/g0001_0100/s0022_generate_parentheses) [TypeScript](src/main/ts/g0001_0100/s0022_generate_parentheses) [Scala](src/main/scala/g0001_0100/s0022_generate_parentheses) [Ruby](src/main/ruby/g0001_0100/s0022_generate_parentheses) [PHP](src/main/php/g0001_0100/s0022_generate_parentheses) [C#](src/main/csharp/g0001_0100/s0022_generate_parentheses) [Go](src/main/go/g0001_0100/s0022_generate_parentheses) [Cpp](src/main/cpp/g0001_0100/s0022_generate_parentheses) [Python](src/main/python/g0001_0100/s0022_generate_parentheses) [Swift](src/main/swift/g0001_0100/s0022_generate_parentheses) [Elixir](src/main/elixir/g0001_0100/s0022_generate_parentheses) [Rust](src/main/rust/g0001_0100/s0022_generate_parentheses) [Dart](src/main/dart/g0001_0100/s0022_generate_parentheses) [C](src/main/c/g0001_0100/s0022_generate_parentheses) [JavaScript](src/main/js/g0001_0100/s0022_generate_parentheses) [Erlang](src/main/erlang/g0001_0100/s0022_generate_parentheses) [Racket](src/main/racket/g0001_0100/s0022_generate_parentheses)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
-| 0079 |Word Search| [Java](src/main/java/g0001_0100/s0079_word_search) [Kotlin](src/main/kotlin/g0001_0100/s0079_word_search) [TypeScript](src/main/ts/g0001_0100/s0079_word_search) [Scala](src/main/scala/g0001_0100/s0079_word_search) [Ruby](src/main/ruby/g0001_0100/s0079_word_search) [PHP](src/main/php/g0001_0100/s0079_word_search) [C#](src/main/csharp/g0001_0100/s0079_word_search) [Go](src/main/go/g0001_0100/s0079_word_search) [Cpp](src/main/cpp/g0001_0100/s0079_word_search) [Python](src/main/python/g0001_0100/s0079_word_search) [Swift](src/main/swift/g0001_0100/s0079_word_search) [Elixir](src/main/elixir/g0001_0100/s0079_word_search) [Rust](src/main/rust/g0001_0100/s0079_word_search) [Dart](src/main/dart/g0001_0100/s0079_word_search) [C](src/main/c/g0001_0100/s0079_word_search) [JavaScript](src/main/js/g0001_0100/s0079_word_search) [Erlang](src/main/erlang/g0001_0100/s0079_word_search) [Racket](src/main/racket/g0001_0100/s0079_word_search)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 64 | 98.51
-
-#### Day 12 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0055 |Jump Game| [Java](src/main/java/g0001_0100/s0055_jump_game) [Kotlin](src/main/kotlin/g0001_0100/s0055_jump_game) [TypeScript](src/main/ts/g0001_0100/s0055_jump_game) [Scala](src/main/scala/g0001_0100/s0055_jump_game) [Ruby](src/main/ruby/g0001_0100/s0055_jump_game) [PHP](src/main/php/g0001_0100/s0055_jump_game) [C#](src/main/csharp/g0001_0100/s0055_jump_game) [Go](src/main/go/g0001_0100/s0055_jump_game) [Cpp](src/main/cpp/g0001_0100/s0055_jump_game) [Python](src/main/python/g0001_0100/s0055_jump_game) [Swift](src/main/swift/g0001_0100/s0055_jump_game) [Elixir](src/main/elixir/g0001_0100/s0055_jump_game) [Rust](src/main/rust/g0001_0100/s0055_jump_game) [Dart](src/main/dart/g0001_0100/s0055_jump_game) [C](src/main/c/g0001_0100/s0055_jump_game) [JavaScript](src/main/js/g0001_0100/s0055_jump_game) [Erlang](src/main/erlang/g0001_0100/s0055_jump_game) [Racket](src/main/racket/g0001_0100/s0055_jump_game)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 1 | 100.00
-
-#### Day 13 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0045 |Jump Game II| [Java](src/main/java/g0001_0100/s0045_jump_game_ii) [Kotlin](src/main/kotlin/g0001_0100/s0045_jump_game_ii) [TypeScript](src/main/ts/g0001_0100/s0045_jump_game_ii) [Scala](src/main/scala/g0001_0100/s0045_jump_game_ii) [Ruby](src/main/ruby/g0001_0100/s0045_jump_game_ii) [PHP](src/main/php/g0001_0100/s0045_jump_game_ii) [C#](src/main/csharp/g0001_0100/s0045_jump_game_ii) [Go](src/main/go/g0001_0100/s0045_jump_game_ii) [Cpp](src/main/cpp/g0001_0100/s0045_jump_game_ii) [Python](src/main/python/g0001_0100/s0045_jump_game_ii) [Swift](src/main/swift/g0001_0100/s0045_jump_game_ii) [Elixir](src/main/elixir/g0001_0100/s0045_jump_game_ii) [Rust](src/main/rust/g0001_0100/s0045_jump_game_ii) [Dart](src/main/dart/g0001_0100/s0045_jump_game_ii) [C](src/main/c/g0001_0100/s0045_jump_game_ii) [JavaScript](src/main/js/g0001_0100/s0045_jump_game_ii) [Erlang](src/main/erlang/g0001_0100/s0045_jump_game_ii) [Racket](src/main/racket/g0001_0100/s0045_jump_game_ii)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
-| 0062 |Unique Paths| [Java](src/main/java/g0001_0100/s0062_unique_paths) [Kotlin](src/main/kotlin/g0001_0100/s0062_unique_paths) [TypeScript](src/main/ts/g0001_0100/s0062_unique_paths) [Scala](src/main/scala/g0001_0100/s0062_unique_paths) [Ruby](src/main/ruby/g0001_0100/s0062_unique_paths) [PHP](src/main/php/g0001_0100/s0062_unique_paths) [C#](src/main/csharp/g0001_0100/s0062_unique_paths) [Go](src/main/go/g0001_0100/s0062_unique_paths) [Cpp](src/main/cpp/g0001_0100/s0062_unique_paths) [Python](src/main/python/g0001_0100/s0062_unique_paths) [Swift](src/main/swift/g0001_0100/s0062_unique_paths) [Elixir](src/main/elixir/g0001_0100/s0062_unique_paths) [Rust](src/main/rust/g0001_0100/s0062_unique_paths) [Dart](src/main/dart/g0001_0100/s0062_unique_paths) [C](src/main/c/g0001_0100/s0062_unique_paths) [JavaScript](src/main/js/g0001_0100/s0062_unique_paths) [Erlang](src/main/erlang/g0001_0100/s0062_unique_paths) [Racket](src/main/racket/g0001_0100/s0062_unique_paths)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
-
-#### Day 14 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0005 |Longest Palindromic Substring| [Java](src/main/java/g0001_0100/s0005_longest_palindromic_substring) [Kotlin](src/main/kotlin/g0001_0100/s0005_longest_palindromic_substring) [TypeScript](src/main/ts/g0001_0100/s0005_longest_palindromic_substring) [Scala](src/main/scala/g0001_0100/s0005_longest_palindromic_substring) [Ruby](src/main/ruby/g0001_0100/s0005_longest_palindromic_substring) [PHP](src/main/php/g0001_0100/s0005_longest_palindromic_substring) [C#](src/main/csharp/g0001_0100/s0005_longest_palindromic_substring) [Go](src/main/go/g0001_0100/s0005_longest_palindromic_substring) [Cpp](src/main/cpp/g0001_0100/s0005_longest_palindromic_substring) [Python](src/main/python/g0001_0100/s0005_longest_palindromic_substring) [Swift](src/main/swift/g0001_0100/s0005_longest_palindromic_substring) [Elixir](src/main/elixir/g0001_0100/s0005_longest_palindromic_substring) [Rust](src/main/rust/g0001_0100/s0005_longest_palindromic_substring) [Dart](src/main/dart/g0001_0100/s0005_longest_palindromic_substring) [C](src/main/c/g0001_0100/s0005_longest_palindromic_substring) [JavaScript](src/main/js/g0001_0100/s0005_longest_palindromic_substring) [Erlang](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring) [Racket](src/main/racket/g0001_0100/s0005_longest_palindromic_substring)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 7 | 97.82
-
-#### Day 15 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0139 |Word Break| [Java](src/main/java/g0101_0200/s0139_word_break) [Kotlin](src/main/kotlin/g0101_0200/s0139_word_break) [TypeScript](src/main/ts/g0101_0200/s0139_word_break) [Scala](src/main/scala/g0101_0200/s0139_word_break) [Ruby](src/main/ruby/g0101_0200/s0139_word_break) [PHP](src/main/php/g0101_0200/s0139_word_break) [C#](src/main/csharp/g0101_0200/s0139_word_break) [Go](src/main/go/g0101_0200/s0139_word_break) [Cpp](src/main/cpp/g0101_0200/s0139_word_break) [Python](src/main/python/g0101_0200/s0139_word_break) [Swift](src/main/swift/g0101_0200/s0139_word_break) [Elixir](src/main/elixir/g0101_0200/s0139_word_break) [Rust](src/main/rust/g0101_0200/s0139_word_break) [Dart](src/main/dart/g0101_0200/s0139_word_break) [C](src/main/c/g0101_0200/s0139_word_break) [JavaScript](src/main/js/g0101_0200/s0139_word_break) [Erlang](src/main/erlang/g0101_0200/s0139_word_break) [Racket](src/main/racket/g0101_0200/s0139_word_break)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 1 | 99.42
-
-#### Day 16 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0300 |Longest Increasing Subsequence| [Java](src/main/java/g0201_0300/s0300_longest_increasing_subsequence) [Kotlin](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence) [TypeScript](src/main/ts/g0201_0300/s0300_longest_increasing_subsequence) [Scala](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence) [Ruby](src/main/ruby/g0201_0300/s0300_longest_increasing_subsequence) [PHP](src/main/php/g0201_0300/s0300_longest_increasing_subsequence) [C#](src/main/csharp/g0201_0300/s0300_longest_increasing_subsequence) [Go](src/main/go/g0201_0300/s0300_longest_increasing_subsequence) [Cpp](src/main/cpp/g0201_0300/s0300_longest_increasing_subsequence) [Python](src/main/python/g0201_0300/s0300_longest_increasing_subsequence) [Swift](src/main/swift/g0201_0300/s0300_longest_increasing_subsequence) [Elixir](src/main/elixir/g0201_0300/s0300_longest_increasing_subsequence) [Rust](src/main/rust/g0201_0300/s0300_longest_increasing_subsequence) [Dart](src/main/dart/g0201_0300/s0300_longest_increasing_subsequence) [C](src/main/c/g0201_0300/s0300_longest_increasing_subsequence) [JavaScript](src/main/js/g0201_0300/s0300_longest_increasing_subsequence) [Erlang](src/main/erlang/g0201_0300/s0300_longest_increasing_subsequence) [Racket](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 95.75
-
-#### Day 17 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 1143 |Longest Common Subsequence| [Java](src/main/java/g1101_1200/s1143_longest_common_subsequence) [Kotlin](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence) [TypeScript](src/main/ts/g1101_1200/s1143_longest_common_subsequence) [Scala](src/main/scala/g1101_1200/s1143_longest_common_subsequence) [Ruby](src/main/ruby/g1101_1200/s1143_longest_common_subsequence) [PHP](src/main/php/g1101_1200/s1143_longest_common_subsequence) [C#](src/main/csharp/g1101_1200/s1143_longest_common_subsequence) [Go](src/main/go/g1101_1200/s1143_longest_common_subsequence) [Cpp](src/main/cpp/g1101_1200/s1143_longest_common_subsequence) [Python](src/main/python/g1101_1200/s1143_longest_common_subsequence) [Swift](src/main/swift/g1101_1200/s1143_longest_common_subsequence) [Elixir](src/main/elixir/g1101_1200/s1143_longest_common_subsequence) [Rust](src/main/rust/g1101_1200/s1143_longest_common_subsequence) [Dart](src/main/dart/g1101_1200/s1143_longest_common_subsequence) [C](src/main/c/g1101_1200/s1143_longest_common_subsequence) [JavaScript](src/main/js/g1101_1200/s1143_longest_common_subsequence) [Erlang](src/main/erlang/g1101_1200/s1143_longest_common_subsequence) [Racket](src/main/racket/g1101_1200/s1143_longest_common_subsequence)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 19 | 89.05
-
-#### Day 18 Dynamic Programming
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0072 |Edit Distance| [Java](src/main/java/g0001_0100/s0072_edit_distance) [Kotlin](src/main/kotlin/g0001_0100/s0072_edit_distance) [TypeScript](src/main/ts/g0001_0100/s0072_edit_distance) [Scala](src/main/scala/g0001_0100/s0072_edit_distance) [Ruby](src/main/ruby/g0001_0100/s0072_edit_distance) [PHP](src/main/php/g0001_0100/s0072_edit_distance) [C#](src/main/csharp/g0001_0100/s0072_edit_distance) [Go](src/main/go/g0001_0100/s0072_edit_distance) [Cpp](src/main/cpp/g0001_0100/s0072_edit_distance) [Python](src/main/python/g0001_0100/s0072_edit_distance) [Swift](src/main/swift/g0001_0100/s0072_edit_distance) [Elixir](src/main/elixir/g0001_0100/s0072_edit_distance) [Rust](src/main/rust/g0001_0100/s0072_edit_distance) [Dart](src/main/dart/g0001_0100/s0072_edit_distance) [C](src/main/c/g0001_0100/s0072_edit_distance) [JavaScript](src/main/js/g0001_0100/s0072_edit_distance) [Erlang](src/main/erlang/g0001_0100/s0072_edit_distance) [Racket](src/main/racket/g0001_0100/s0072_edit_distance)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 3 | 97.19
-| 0322 |Coin Change| [Java](src/main/java/g0301_0400/s0322_coin_change) [Kotlin](src/main/kotlin/g0301_0400/s0322_coin_change) [TypeScript](src/main/ts/g0301_0400/s0322_coin_change) [Scala](src/main/scala/g0301_0400/s0322_coin_change) [Ruby](src/main/ruby/g0301_0400/s0322_coin_change) [PHP](src/main/php/g0301_0400/s0322_coin_change) [C#](src/main/csharp/g0301_0400/s0322_coin_change) [Go](src/main/go/g0301_0400/s0322_coin_change) [Cpp](src/main/cpp/g0301_0400/s0322_coin_change) [Python](src/main/python/g0301_0400/s0322_coin_change) [Swift](src/main/swift/g0301_0400/s0322_coin_change) [Elixir](src/main/elixir/g0301_0400/s0322_coin_change) [Rust](src/main/rust/g0301_0400/s0322_coin_change) [Dart](src/main/dart/g0301_0400/s0322_coin_change) [C](src/main/c/g0301_0400/s0322_coin_change) [JavaScript](src/main/js/g0301_0400/s0322_coin_change) [Erlang](src/main/erlang/g0301_0400/s0322_coin_change) [Racket](src/main/racket/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 12 | 92.59
-
-#### Day 19 Bit Manipulation
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 20 Others
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 21 Others
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-### Binary Search I
-
-#### Day 1
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 2
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0035 |Search Insert Position| [Java](src/main/java/g0001_0100/s0035_search_insert_position) [Kotlin](src/main/kotlin/g0001_0100/s0035_search_insert_position) [TypeScript](src/main/ts/g0001_0100/s0035_search_insert_position) [Scala](src/main/scala/g0001_0100/s0035_search_insert_position) [Ruby](src/main/ruby/g0001_0100/s0035_search_insert_position) [PHP](src/main/php/g0001_0100/s0035_search_insert_position) [C#](src/main/csharp/g0001_0100/s0035_search_insert_position) [Go](src/main/go/g0001_0100/s0035_search_insert_position) [Cpp](src/main/cpp/g0001_0100/s0035_search_insert_position) [Python](src/main/python/g0001_0100/s0035_search_insert_position) [Swift](src/main/swift/g0001_0100/s0035_search_insert_position) [Elixir](src/main/elixir/g0001_0100/s0035_search_insert_position) [Rust](src/main/rust/g0001_0100/s0035_search_insert_position) [Dart](src/main/dart/g0001_0100/s0035_search_insert_position) [C](src/main/c/g0001_0100/s0035_search_insert_position) [JavaScript](src/main/js/g0001_0100/s0035_search_insert_position) [Erlang](src/main/erlang/g0001_0100/s0035_search_insert_position) [Racket](src/main/racket/g0001_0100/s0035_search_insert_position)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-
-#### Day 3
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 4
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 5
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0034 |Find First and Last Position of Element in Sorted Array| [Java](src/main/java/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Scala](src/main/scala/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [PHP](src/main/php/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C#](src/main/csharp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Go](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Python](src/main/python/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Swift](src/main/swift/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Rust](src/main/rust/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Dart](src/main/dart/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C](src/main/c/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [JavaScript](src/main/js/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Racket](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-
-#### Day 6
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 7
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 8
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0074 |Search a 2D Matrix| [Java](src/main/java/g0001_0100/s0074_search_a_2d_matrix) [Kotlin](src/main/kotlin/g0001_0100/s0074_search_a_2d_matrix) [TypeScript](src/main/ts/g0001_0100/s0074_search_a_2d_matrix) [Scala](src/main/scala/g0001_0100/s0074_search_a_2d_matrix) [Ruby](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix) [PHP](src/main/php/g0001_0100/s0074_search_a_2d_matrix) [C#](src/main/csharp/g0001_0100/s0074_search_a_2d_matrix) [Go](src/main/go/g0001_0100/s0074_search_a_2d_matrix) [Cpp](src/main/cpp/g0001_0100/s0074_search_a_2d_matrix) [Python](src/main/python/g0001_0100/s0074_search_a_2d_matrix) [Swift](src/main/swift/g0001_0100/s0074_search_a_2d_matrix) [Elixir](src/main/elixir/g0001_0100/s0074_search_a_2d_matrix) [Rust](src/main/rust/g0001_0100/s0074_search_a_2d_matrix) [Dart](src/main/dart/g0001_0100/s0074_search_a_2d_matrix) [C](src/main/c/g0001_0100/s0074_search_a_2d_matrix) [JavaScript](src/main/js/g0001_0100/s0074_search_a_2d_matrix) [Erlang](src/main/erlang/g0001_0100/s0074_search_a_2d_matrix) [Racket](src/main/racket/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 0 | 100.00
-
-#### Day 9
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 11
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0033 |Search in Rotated Sorted Array| [Java](src/main/java/g0001_0100/s0033_search_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0033_search_in_rotated_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0033_search_in_rotated_sorted_array) [Scala](src/main/scala/g0001_0100/s0033_search_in_rotated_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array) [PHP](src/main/php/g0001_0100/s0033_search_in_rotated_sorted_array) [C#](src/main/csharp/g0001_0100/s0033_search_in_rotated_sorted_array) [Go](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array) [Python](src/main/python/g0001_0100/s0033_search_in_rotated_sorted_array) [Swift](src/main/swift/g0001_0100/s0033_search_in_rotated_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0033_search_in_rotated_sorted_array) [Rust](src/main/rust/g0001_0100/s0033_search_in_rotated_sorted_array) [Dart](src/main/dart/g0001_0100/s0033_search_in_rotated_sorted_array) [C](src/main/c/g0001_0100/s0033_search_in_rotated_sorted_array) [JavaScript](src/main/js/g0001_0100/s0033_search_in_rotated_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array) [Racket](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
-
-#### Day 12
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0153 |Find Minimum in Rotated Sorted Array| [Java](src/main/java/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [TypeScript](src/main/ts/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Scala](src/main/scala/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Ruby](src/main/ruby/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [PHP](src/main/php/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C#](src/main/csharp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Go](src/main/go/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Cpp](src/main/cpp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Python](src/main/python/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Swift](src/main/swift/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Elixir](src/main/elixir/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Rust](src/main/rust/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Dart](src/main/dart/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [JavaScript](src/main/js/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Erlang](src/main/erlang/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Racket](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
+* [Algorithm II](#algorithm-ii)
+* [Binary Search I](#binary-search-i)
 
 ### Binary Search II
 
@@ -1590,6 +1394,202 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-|-
 | 0136 |Single Number| [Java](src/main/java/g0101_0200/s0136_single_number) [Kotlin](src/main/kotlin/g0101_0200/s0136_single_number) [TypeScript](src/main/ts/g0101_0200/s0136_single_number) [Scala](src/main/scala/g0101_0200/s0136_single_number) [Ruby](src/main/ruby/g0101_0200/s0136_single_number) [PHP](src/main/php/g0101_0200/s0136_single_number) [C#](src/main/csharp/g0101_0200/s0136_single_number) [Go](src/main/go/g0101_0200/s0136_single_number) [Cpp](src/main/cpp/g0101_0200/s0136_single_number) [Python](src/main/python/g0101_0200/s0136_single_number) [Swift](src/main/swift/g0101_0200/s0136_single_number) [Elixir](src/main/elixir/g0101_0200/s0136_single_number) [Rust](src/main/rust/g0101_0200/s0136_single_number) [Dart](src/main/dart/g0101_0200/s0136_single_number) [C](src/main/c/g0101_0200/s0136_single_number) [JavaScript](src/main/js/g0101_0200/s0136_single_number) [Erlang](src/main/erlang/g0101_0200/s0136_single_number) [Racket](src/main/racket/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 1 | 99.86
+
+### Algorithm II
+
+#### Day 1 Binary Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0034 |Find First and Last Position of Element in Sorted Array| [Java](src/main/java/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Scala](src/main/scala/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [PHP](src/main/php/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C#](src/main/csharp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Go](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Python](src/main/python/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Swift](src/main/swift/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Rust](src/main/rust/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Dart](src/main/dart/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C](src/main/c/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [JavaScript](src/main/js/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Racket](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0033 |Search in Rotated Sorted Array| [Java](src/main/java/g0001_0100/s0033_search_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0033_search_in_rotated_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0033_search_in_rotated_sorted_array) [Scala](src/main/scala/g0001_0100/s0033_search_in_rotated_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array) [PHP](src/main/php/g0001_0100/s0033_search_in_rotated_sorted_array) [C#](src/main/csharp/g0001_0100/s0033_search_in_rotated_sorted_array) [Go](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array) [Python](src/main/python/g0001_0100/s0033_search_in_rotated_sorted_array) [Swift](src/main/swift/g0001_0100/s0033_search_in_rotated_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0033_search_in_rotated_sorted_array) [Rust](src/main/rust/g0001_0100/s0033_search_in_rotated_sorted_array) [Dart](src/main/dart/g0001_0100/s0033_search_in_rotated_sorted_array) [C](src/main/c/g0001_0100/s0033_search_in_rotated_sorted_array) [JavaScript](src/main/js/g0001_0100/s0033_search_in_rotated_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array) [Racket](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+| 0074 |Search a 2D Matrix| [Java](src/main/java/g0001_0100/s0074_search_a_2d_matrix) [Kotlin](src/main/kotlin/g0001_0100/s0074_search_a_2d_matrix) [TypeScript](src/main/ts/g0001_0100/s0074_search_a_2d_matrix) [Scala](src/main/scala/g0001_0100/s0074_search_a_2d_matrix) [Ruby](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix) [PHP](src/main/php/g0001_0100/s0074_search_a_2d_matrix) [C#](src/main/csharp/g0001_0100/s0074_search_a_2d_matrix) [Go](src/main/go/g0001_0100/s0074_search_a_2d_matrix) [Cpp](src/main/cpp/g0001_0100/s0074_search_a_2d_matrix) [Python](src/main/python/g0001_0100/s0074_search_a_2d_matrix) [Swift](src/main/swift/g0001_0100/s0074_search_a_2d_matrix) [Elixir](src/main/elixir/g0001_0100/s0074_search_a_2d_matrix) [Rust](src/main/rust/g0001_0100/s0074_search_a_2d_matrix) [Dart](src/main/dart/g0001_0100/s0074_search_a_2d_matrix) [C](src/main/c/g0001_0100/s0074_search_a_2d_matrix) [JavaScript](src/main/js/g0001_0100/s0074_search_a_2d_matrix) [Erlang](src/main/erlang/g0001_0100/s0074_search_a_2d_matrix) [Racket](src/main/racket/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 0 | 100.00
+
+#### Day 2 Binary Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0153 |Find Minimum in Rotated Sorted Array| [Java](src/main/java/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [TypeScript](src/main/ts/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Scala](src/main/scala/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Ruby](src/main/ruby/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [PHP](src/main/php/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C#](src/main/csharp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Go](src/main/go/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Cpp](src/main/cpp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Python](src/main/python/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Swift](src/main/swift/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Elixir](src/main/elixir/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Rust](src/main/rust/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Dart](src/main/dart/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [JavaScript](src/main/js/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Erlang](src/main/erlang/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Racket](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
+
+#### Day 3 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0015 |3Sum| [Java](src/main/java/g0001_0100/s0015_3sum) [Kotlin](src/main/kotlin/g0001_0100/s0015_3sum) [TypeScript](src/main/ts/g0001_0100/s0015_3sum) [Scala](src/main/scala/g0001_0100/s0015_3sum) [Ruby](src/main/ruby/g0001_0100/s0015_3sum) [PHP](src/main/php/g0001_0100/s0015_3sum) [C#](src/main/csharp/g0001_0100/s0015_3sum) [Go](src/main/go/g0001_0100/s0015_3sum) [Cpp](src/main/cpp/g0001_0100/s0015_3sum) [Python](src/main/python/g0001_0100/s0015_3sum) [Swift](src/main/swift/g0001_0100/s0015_3sum) [Elixir](src/main/elixir/g0001_0100/s0015_3sum) [Rust](src/main/rust/g0001_0100/s0015_3sum) [Dart](src/main/dart/g0001_0100/s0015_3sum) [C](src/main/c/g0001_0100/s0015_3sum) [JavaScript](src/main/js/g0001_0100/s0015_3sum) [Erlang](src/main/erlang/g0001_0100/s0015_3sum) [Racket](src/main/racket/g0001_0100/s0015_3sum)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 29 | 72.02
+
+#### Day 4 Two Pointers
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0011 |Container With Most Water| [Java](src/main/java/g0001_0100/s0011_container_with_most_water) [Kotlin](src/main/kotlin/g0001_0100/s0011_container_with_most_water) [TypeScript](src/main/ts/g0001_0100/s0011_container_with_most_water) [Scala](src/main/scala/g0001_0100/s0011_container_with_most_water) [Ruby](src/main/ruby/g0001_0100/s0011_container_with_most_water) [PHP](src/main/php/g0001_0100/s0011_container_with_most_water) [C#](src/main/csharp/g0001_0100/s0011_container_with_most_water) [Go](src/main/go/g0001_0100/s0011_container_with_most_water) [Cpp](src/main/cpp/g0001_0100/s0011_container_with_most_water) [Python](src/main/python/g0001_0100/s0011_container_with_most_water) [Swift](src/main/swift/g0001_0100/s0011_container_with_most_water) [Elixir](src/main/elixir/g0001_0100/s0011_container_with_most_water) [Rust](src/main/rust/g0001_0100/s0011_container_with_most_water) [Dart](src/main/dart/g0001_0100/s0011_container_with_most_water) [C](src/main/c/g0001_0100/s0011_container_with_most_water) [JavaScript](src/main/js/g0001_0100/s0011_container_with_most_water) [Erlang](src/main/erlang/g0001_0100/s0011_container_with_most_water) [Racket](src/main/racket/g0001_0100/s0011_container_with_most_water)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 3 | 96.01
+
+#### Day 5 Sliding Window
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0438 |Find All Anagrams in a String| [Java](src/main/java/g0401_0500/s0438_find_all_anagrams_in_a_string) [Kotlin](src/main/kotlin/g0401_0500/s0438_find_all_anagrams_in_a_string) [TypeScript](src/main/ts/g0401_0500/s0438_find_all_anagrams_in_a_string) [Scala](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string) [Ruby](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string) [PHP](src/main/php/g0401_0500/s0438_find_all_anagrams_in_a_string) [C#](src/main/csharp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Go](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string) [Cpp](src/main/cpp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Python](src/main/python/g0401_0500/s0438_find_all_anagrams_in_a_string) [Swift](src/main/swift/g0401_0500/s0438_find_all_anagrams_in_a_string) [Elixir](src/main/elixir/g0401_0500/s0438_find_all_anagrams_in_a_string) [Rust](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string) [Dart](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string) [C](src/main/c/g0401_0500/s0438_find_all_anagrams_in_a_string) [JavaScript](src/main/js/g0401_0500/s0438_find_all_anagrams_in_a_string) [Erlang](src/main/erlang/g0401_0500/s0438_find_all_anagrams_in_a_string) [Racket](src/main/racket/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 3 | 99.83
+
+#### Day 6 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0200 |Number of Islands| [Java](src/main/java/g0101_0200/s0200_number_of_islands) [Kotlin](src/main/kotlin/g0101_0200/s0200_number_of_islands) [TypeScript](src/main/ts/g0101_0200/s0200_number_of_islands) [Scala](src/main/scala/g0101_0200/s0200_number_of_islands) [Ruby](src/main/ruby/g0101_0200/s0200_number_of_islands) [PHP](src/main/php/g0101_0200/s0200_number_of_islands) [C#](src/main/csharp/g0101_0200/s0200_number_of_islands) [Go](src/main/go/g0101_0200/s0200_number_of_islands) [Cpp](src/main/cpp/g0101_0200/s0200_number_of_islands) [Python](src/main/python/g0101_0200/s0200_number_of_islands) [Swift](src/main/swift/g0101_0200/s0200_number_of_islands) [Elixir](src/main/elixir/g0101_0200/s0200_number_of_islands) [Rust](src/main/rust/g0101_0200/s0200_number_of_islands) [Dart](src/main/dart/g0101_0200/s0200_number_of_islands) [C](src/main/c/g0101_0200/s0200_number_of_islands) [JavaScript](src/main/js/g0101_0200/s0200_number_of_islands) [Erlang](src/main/erlang/g0101_0200/s0200_number_of_islands) [Racket](src/main/racket/g0101_0200/s0200_number_of_islands)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Big_O_Time_O(M\*N)_Space_O(M\*N) | 3 | 87.24
+
+#### Day 7 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 8 Breadth First Search Depth First Search
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9 Recursion Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0078 |Subsets| [Java](src/main/java/g0001_0100/s0078_subsets) [Kotlin](src/main/kotlin/g0001_0100/s0078_subsets) [TypeScript](src/main/ts/g0001_0100/s0078_subsets) [Scala](src/main/scala/g0001_0100/s0078_subsets) [Ruby](src/main/ruby/g0001_0100/s0078_subsets) [PHP](src/main/php/g0001_0100/s0078_subsets) [C#](src/main/csharp/g0001_0100/s0078_subsets) [Go](src/main/go/g0001_0100/s0078_subsets) [Cpp](src/main/cpp/g0001_0100/s0078_subsets) [Python](src/main/python/g0001_0100/s0078_subsets) [Swift](src/main/swift/g0001_0100/s0078_subsets) [Elixir](src/main/elixir/g0001_0100/s0078_subsets) [Rust](src/main/rust/g0001_0100/s0078_subsets) [Dart](src/main/dart/g0001_0100/s0078_subsets) [C](src/main/c/g0001_0100/s0078_subsets) [JavaScript](src/main/js/g0001_0100/s0078_subsets) [Erlang](src/main/erlang/g0001_0100/s0078_subsets) [Racket](src/main/racket/g0001_0100/s0078_subsets)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 0 | 100.00
+
+#### Day 10 Recursion Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0039 |Combination Sum| [Java](src/main/java/g0001_0100/s0039_combination_sum) [Kotlin](src/main/kotlin/g0001_0100/s0039_combination_sum) [TypeScript](src/main/ts/g0001_0100/s0039_combination_sum) [Scala](src/main/scala/g0001_0100/s0039_combination_sum) [Ruby](src/main/ruby/g0001_0100/s0039_combination_sum) [PHP](src/main/php/g0001_0100/s0039_combination_sum) [C#](src/main/csharp/g0001_0100/s0039_combination_sum) [Go](src/main/go/g0001_0100/s0039_combination_sum) [Cpp](src/main/cpp/g0001_0100/s0039_combination_sum) [Python](src/main/python/g0001_0100/s0039_combination_sum) [Swift](src/main/swift/g0001_0100/s0039_combination_sum) [Elixir](src/main/elixir/g0001_0100/s0039_combination_sum) [Rust](src/main/rust/g0001_0100/s0039_combination_sum) [Dart](src/main/dart/g0001_0100/s0039_combination_sum) [C](src/main/c/g0001_0100/s0039_combination_sum) [JavaScript](src/main/js/g0001_0100/s0039_combination_sum) [Erlang](src/main/erlang/g0001_0100/s0039_combination_sum) [Racket](src/main/racket/g0001_0100/s0039_combination_sum)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 1 | 99.99
+
+#### Day 11 Recursion Backtracking
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0017 |Letter Combinations of a Phone Number| [Java](src/main/java/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Kotlin](src/main/kotlin/g0001_0100/s0017_letter_combinations_of_a_phone_number) [TypeScript](src/main/ts/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Scala](src/main/scala/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Ruby](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number) [PHP](src/main/php/g0001_0100/s0017_letter_combinations_of_a_phone_number) [C#](src/main/csharp/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Go](src/main/go/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Cpp](src/main/cpp/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Python](src/main/python/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Swift](src/main/swift/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Elixir](src/main/elixir/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Rust](src/main/rust/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Dart](src/main/dart/g0001_0100/s0017_letter_combinations_of_a_phone_number) [C](src/main/c/g0001_0100/s0017_letter_combinations_of_a_phone_number) [JavaScript](src/main/js/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Erlang](src/main/erlang/g0001_0100/s0017_letter_combinations_of_a_phone_number) [Racket](src/main/racket/g0001_0100/s0017_letter_combinations_of_a_phone_number)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 0 | 100.00
+| 0022 |Generate Parentheses| [Java](src/main/java/g0001_0100/s0022_generate_parentheses) [Kotlin](src/main/kotlin/g0001_0100/s0022_generate_parentheses) [TypeScript](src/main/ts/g0001_0100/s0022_generate_parentheses) [Scala](src/main/scala/g0001_0100/s0022_generate_parentheses) [Ruby](src/main/ruby/g0001_0100/s0022_generate_parentheses) [PHP](src/main/php/g0001_0100/s0022_generate_parentheses) [C#](src/main/csharp/g0001_0100/s0022_generate_parentheses) [Go](src/main/go/g0001_0100/s0022_generate_parentheses) [Cpp](src/main/cpp/g0001_0100/s0022_generate_parentheses) [Python](src/main/python/g0001_0100/s0022_generate_parentheses) [Swift](src/main/swift/g0001_0100/s0022_generate_parentheses) [Elixir](src/main/elixir/g0001_0100/s0022_generate_parentheses) [Rust](src/main/rust/g0001_0100/s0022_generate_parentheses) [Dart](src/main/dart/g0001_0100/s0022_generate_parentheses) [C](src/main/c/g0001_0100/s0022_generate_parentheses) [JavaScript](src/main/js/g0001_0100/s0022_generate_parentheses) [Erlang](src/main/erlang/g0001_0100/s0022_generate_parentheses) [Racket](src/main/racket/g0001_0100/s0022_generate_parentheses)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 0 | 100.00
+| 0079 |Word Search| [Java](src/main/java/g0001_0100/s0079_word_search) [Kotlin](src/main/kotlin/g0001_0100/s0079_word_search) [TypeScript](src/main/ts/g0001_0100/s0079_word_search) [Scala](src/main/scala/g0001_0100/s0079_word_search) [Ruby](src/main/ruby/g0001_0100/s0079_word_search) [PHP](src/main/php/g0001_0100/s0079_word_search) [C#](src/main/csharp/g0001_0100/s0079_word_search) [Go](src/main/go/g0001_0100/s0079_word_search) [Cpp](src/main/cpp/g0001_0100/s0079_word_search) [Python](src/main/python/g0001_0100/s0079_word_search) [Swift](src/main/swift/g0001_0100/s0079_word_search) [Elixir](src/main/elixir/g0001_0100/s0079_word_search) [Rust](src/main/rust/g0001_0100/s0079_word_search) [Dart](src/main/dart/g0001_0100/s0079_word_search) [C](src/main/c/g0001_0100/s0079_word_search) [JavaScript](src/main/js/g0001_0100/s0079_word_search) [Erlang](src/main/erlang/g0001_0100/s0079_word_search) [Racket](src/main/racket/g0001_0100/s0079_word_search)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 64 | 98.51
+
+#### Day 12 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0055 |Jump Game| [Java](src/main/java/g0001_0100/s0055_jump_game) [Kotlin](src/main/kotlin/g0001_0100/s0055_jump_game) [TypeScript](src/main/ts/g0001_0100/s0055_jump_game) [Scala](src/main/scala/g0001_0100/s0055_jump_game) [Ruby](src/main/ruby/g0001_0100/s0055_jump_game) [PHP](src/main/php/g0001_0100/s0055_jump_game) [C#](src/main/csharp/g0001_0100/s0055_jump_game) [Go](src/main/go/g0001_0100/s0055_jump_game) [Cpp](src/main/cpp/g0001_0100/s0055_jump_game) [Python](src/main/python/g0001_0100/s0055_jump_game) [Swift](src/main/swift/g0001_0100/s0055_jump_game) [Elixir](src/main/elixir/g0001_0100/s0055_jump_game) [Rust](src/main/rust/g0001_0100/s0055_jump_game) [Dart](src/main/dart/g0001_0100/s0055_jump_game) [C](src/main/c/g0001_0100/s0055_jump_game) [JavaScript](src/main/js/g0001_0100/s0055_jump_game) [Erlang](src/main/erlang/g0001_0100/s0055_jump_game) [Racket](src/main/racket/g0001_0100/s0055_jump_game)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 1 | 100.00
+
+#### Day 13 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0045 |Jump Game II| [Java](src/main/java/g0001_0100/s0045_jump_game_ii) [Kotlin](src/main/kotlin/g0001_0100/s0045_jump_game_ii) [TypeScript](src/main/ts/g0001_0100/s0045_jump_game_ii) [Scala](src/main/scala/g0001_0100/s0045_jump_game_ii) [Ruby](src/main/ruby/g0001_0100/s0045_jump_game_ii) [PHP](src/main/php/g0001_0100/s0045_jump_game_ii) [C#](src/main/csharp/g0001_0100/s0045_jump_game_ii) [Go](src/main/go/g0001_0100/s0045_jump_game_ii) [Cpp](src/main/cpp/g0001_0100/s0045_jump_game_ii) [Python](src/main/python/g0001_0100/s0045_jump_game_ii) [Swift](src/main/swift/g0001_0100/s0045_jump_game_ii) [Elixir](src/main/elixir/g0001_0100/s0045_jump_game_ii) [Rust](src/main/rust/g0001_0100/s0045_jump_game_ii) [Dart](src/main/dart/g0001_0100/s0045_jump_game_ii) [C](src/main/c/g0001_0100/s0045_jump_game_ii) [JavaScript](src/main/js/g0001_0100/s0045_jump_game_ii) [Erlang](src/main/erlang/g0001_0100/s0045_jump_game_ii) [Racket](src/main/racket/g0001_0100/s0045_jump_game_ii)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
+| 0062 |Unique Paths| [Java](src/main/java/g0001_0100/s0062_unique_paths) [Kotlin](src/main/kotlin/g0001_0100/s0062_unique_paths) [TypeScript](src/main/ts/g0001_0100/s0062_unique_paths) [Scala](src/main/scala/g0001_0100/s0062_unique_paths) [Ruby](src/main/ruby/g0001_0100/s0062_unique_paths) [PHP](src/main/php/g0001_0100/s0062_unique_paths) [C#](src/main/csharp/g0001_0100/s0062_unique_paths) [Go](src/main/go/g0001_0100/s0062_unique_paths) [Cpp](src/main/cpp/g0001_0100/s0062_unique_paths) [Python](src/main/python/g0001_0100/s0062_unique_paths) [Swift](src/main/swift/g0001_0100/s0062_unique_paths) [Elixir](src/main/elixir/g0001_0100/s0062_unique_paths) [Rust](src/main/rust/g0001_0100/s0062_unique_paths) [Dart](src/main/dart/g0001_0100/s0062_unique_paths) [C](src/main/c/g0001_0100/s0062_unique_paths) [JavaScript](src/main/js/g0001_0100/s0062_unique_paths) [Erlang](src/main/erlang/g0001_0100/s0062_unique_paths) [Racket](src/main/racket/g0001_0100/s0062_unique_paths)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 0 | 100.00
+
+#### Day 14 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0005 |Longest Palindromic Substring| [Java](src/main/java/g0001_0100/s0005_longest_palindromic_substring) [Kotlin](src/main/kotlin/g0001_0100/s0005_longest_palindromic_substring) [TypeScript](src/main/ts/g0001_0100/s0005_longest_palindromic_substring) [Scala](src/main/scala/g0001_0100/s0005_longest_palindromic_substring) [Ruby](src/main/ruby/g0001_0100/s0005_longest_palindromic_substring) [PHP](src/main/php/g0001_0100/s0005_longest_palindromic_substring) [C#](src/main/csharp/g0001_0100/s0005_longest_palindromic_substring) [Go](src/main/go/g0001_0100/s0005_longest_palindromic_substring) [Cpp](src/main/cpp/g0001_0100/s0005_longest_palindromic_substring) [Python](src/main/python/g0001_0100/s0005_longest_palindromic_substring) [Swift](src/main/swift/g0001_0100/s0005_longest_palindromic_substring) [Elixir](src/main/elixir/g0001_0100/s0005_longest_palindromic_substring) [Rust](src/main/rust/g0001_0100/s0005_longest_palindromic_substring) [Dart](src/main/dart/g0001_0100/s0005_longest_palindromic_substring) [C](src/main/c/g0001_0100/s0005_longest_palindromic_substring) [JavaScript](src/main/js/g0001_0100/s0005_longest_palindromic_substring) [Erlang](src/main/erlang/g0001_0100/s0005_longest_palindromic_substring) [Racket](src/main/racket/g0001_0100/s0005_longest_palindromic_substring)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 7 | 97.82
+
+#### Day 15 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0139 |Word Break| [Java](src/main/java/g0101_0200/s0139_word_break) [Kotlin](src/main/kotlin/g0101_0200/s0139_word_break) [TypeScript](src/main/ts/g0101_0200/s0139_word_break) [Scala](src/main/scala/g0101_0200/s0139_word_break) [Ruby](src/main/ruby/g0101_0200/s0139_word_break) [PHP](src/main/php/g0101_0200/s0139_word_break) [C#](src/main/csharp/g0101_0200/s0139_word_break) [Go](src/main/go/g0101_0200/s0139_word_break) [Cpp](src/main/cpp/g0101_0200/s0139_word_break) [Python](src/main/python/g0101_0200/s0139_word_break) [Swift](src/main/swift/g0101_0200/s0139_word_break) [Elixir](src/main/elixir/g0101_0200/s0139_word_break) [Rust](src/main/rust/g0101_0200/s0139_word_break) [Dart](src/main/dart/g0101_0200/s0139_word_break) [C](src/main/c/g0101_0200/s0139_word_break) [JavaScript](src/main/js/g0101_0200/s0139_word_break) [Erlang](src/main/erlang/g0101_0200/s0139_word_break) [Racket](src/main/racket/g0101_0200/s0139_word_break)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 1 | 99.42
+
+#### Day 16 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0300 |Longest Increasing Subsequence| [Java](src/main/java/g0201_0300/s0300_longest_increasing_subsequence) [Kotlin](src/main/kotlin/g0201_0300/s0300_longest_increasing_subsequence) [TypeScript](src/main/ts/g0201_0300/s0300_longest_increasing_subsequence) [Scala](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence) [Ruby](src/main/ruby/g0201_0300/s0300_longest_increasing_subsequence) [PHP](src/main/php/g0201_0300/s0300_longest_increasing_subsequence) [C#](src/main/csharp/g0201_0300/s0300_longest_increasing_subsequence) [Go](src/main/go/g0201_0300/s0300_longest_increasing_subsequence) [Cpp](src/main/cpp/g0201_0300/s0300_longest_increasing_subsequence) [Python](src/main/python/g0201_0300/s0300_longest_increasing_subsequence) [Swift](src/main/swift/g0201_0300/s0300_longest_increasing_subsequence) [Elixir](src/main/elixir/g0201_0300/s0300_longest_increasing_subsequence) [Rust](src/main/rust/g0201_0300/s0300_longest_increasing_subsequence) [Dart](src/main/dart/g0201_0300/s0300_longest_increasing_subsequence) [C](src/main/c/g0201_0300/s0300_longest_increasing_subsequence) [JavaScript](src/main/js/g0201_0300/s0300_longest_increasing_subsequence) [Erlang](src/main/erlang/g0201_0300/s0300_longest_increasing_subsequence) [Racket](src/main/racket/g0201_0300/s0300_longest_increasing_subsequence)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 3 | 95.75
+
+#### Day 17 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 1143 |Longest Common Subsequence| [Java](src/main/java/g1101_1200/s1143_longest_common_subsequence) [Kotlin](src/main/kotlin/g1101_1200/s1143_longest_common_subsequence) [TypeScript](src/main/ts/g1101_1200/s1143_longest_common_subsequence) [Scala](src/main/scala/g1101_1200/s1143_longest_common_subsequence) [Ruby](src/main/ruby/g1101_1200/s1143_longest_common_subsequence) [PHP](src/main/php/g1101_1200/s1143_longest_common_subsequence) [C#](src/main/csharp/g1101_1200/s1143_longest_common_subsequence) [Go](src/main/go/g1101_1200/s1143_longest_common_subsequence) [Cpp](src/main/cpp/g1101_1200/s1143_longest_common_subsequence) [Python](src/main/python/g1101_1200/s1143_longest_common_subsequence) [Swift](src/main/swift/g1101_1200/s1143_longest_common_subsequence) [Elixir](src/main/elixir/g1101_1200/s1143_longest_common_subsequence) [Rust](src/main/rust/g1101_1200/s1143_longest_common_subsequence) [Dart](src/main/dart/g1101_1200/s1143_longest_common_subsequence) [C](src/main/c/g1101_1200/s1143_longest_common_subsequence) [JavaScript](src/main/js/g1101_1200/s1143_longest_common_subsequence) [Erlang](src/main/erlang/g1101_1200/s1143_longest_common_subsequence) [Racket](src/main/racket/g1101_1200/s1143_longest_common_subsequence)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n\*m)_Space_O(n\*m) | 19 | 89.05
+
+#### Day 18 Dynamic Programming
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0072 |Edit Distance| [Java](src/main/java/g0001_0100/s0072_edit_distance) [Kotlin](src/main/kotlin/g0001_0100/s0072_edit_distance) [TypeScript](src/main/ts/g0001_0100/s0072_edit_distance) [Scala](src/main/scala/g0001_0100/s0072_edit_distance) [Ruby](src/main/ruby/g0001_0100/s0072_edit_distance) [PHP](src/main/php/g0001_0100/s0072_edit_distance) [C#](src/main/csharp/g0001_0100/s0072_edit_distance) [Go](src/main/go/g0001_0100/s0072_edit_distance) [Cpp](src/main/cpp/g0001_0100/s0072_edit_distance) [Python](src/main/python/g0001_0100/s0072_edit_distance) [Swift](src/main/swift/g0001_0100/s0072_edit_distance) [Elixir](src/main/elixir/g0001_0100/s0072_edit_distance) [Rust](src/main/rust/g0001_0100/s0072_edit_distance) [Dart](src/main/dart/g0001_0100/s0072_edit_distance) [C](src/main/c/g0001_0100/s0072_edit_distance) [JavaScript](src/main/js/g0001_0100/s0072_edit_distance) [Erlang](src/main/erlang/g0001_0100/s0072_edit_distance) [Racket](src/main/racket/g0001_0100/s0072_edit_distance)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 3 | 97.19
+| 0322 |Coin Change| [Java](src/main/java/g0301_0400/s0322_coin_change) [Kotlin](src/main/kotlin/g0301_0400/s0322_coin_change) [TypeScript](src/main/ts/g0301_0400/s0322_coin_change) [Scala](src/main/scala/g0301_0400/s0322_coin_change) [Ruby](src/main/ruby/g0301_0400/s0322_coin_change) [PHP](src/main/php/g0301_0400/s0322_coin_change) [C#](src/main/csharp/g0301_0400/s0322_coin_change) [Go](src/main/go/g0301_0400/s0322_coin_change) [Cpp](src/main/cpp/g0301_0400/s0322_coin_change) [Python](src/main/python/g0301_0400/s0322_coin_change) [Swift](src/main/swift/g0301_0400/s0322_coin_change) [Elixir](src/main/elixir/g0301_0400/s0322_coin_change) [Rust](src/main/rust/g0301_0400/s0322_coin_change) [Dart](src/main/dart/g0301_0400/s0322_coin_change) [C](src/main/c/g0301_0400/s0322_coin_change) [JavaScript](src/main/js/g0301_0400/s0322_coin_change) [Erlang](src/main/erlang/g0301_0400/s0322_coin_change) [Racket](src/main/racket/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 12 | 92.59
+
+#### Day 19 Bit Manipulation
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 20 Others
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 21 Others
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+### Binary Search I
+
+#### Day 1
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 2
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0035 |Search Insert Position| [Java](src/main/java/g0001_0100/s0035_search_insert_position) [Kotlin](src/main/kotlin/g0001_0100/s0035_search_insert_position) [TypeScript](src/main/ts/g0001_0100/s0035_search_insert_position) [Scala](src/main/scala/g0001_0100/s0035_search_insert_position) [Ruby](src/main/ruby/g0001_0100/s0035_search_insert_position) [PHP](src/main/php/g0001_0100/s0035_search_insert_position) [C#](src/main/csharp/g0001_0100/s0035_search_insert_position) [Go](src/main/go/g0001_0100/s0035_search_insert_position) [Cpp](src/main/cpp/g0001_0100/s0035_search_insert_position) [Python](src/main/python/g0001_0100/s0035_search_insert_position) [Swift](src/main/swift/g0001_0100/s0035_search_insert_position) [Elixir](src/main/elixir/g0001_0100/s0035_search_insert_position) [Rust](src/main/rust/g0001_0100/s0035_search_insert_position) [Dart](src/main/dart/g0001_0100/s0035_search_insert_position) [C](src/main/c/g0001_0100/s0035_search_insert_position) [JavaScript](src/main/js/g0001_0100/s0035_search_insert_position) [Erlang](src/main/erlang/g0001_0100/s0035_search_insert_position) [Racket](src/main/racket/g0001_0100/s0035_search_insert_position)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+
+#### Day 3
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 4
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 5
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0034 |Find First and Last Position of Element in Sorted Array| [Java](src/main/java/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Scala](src/main/scala/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [PHP](src/main/php/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C#](src/main/csharp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Go](src/main/go/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Python](src/main/python/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Swift](src/main/swift/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Rust](src/main/rust/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Dart](src/main/dart/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [C](src/main/c/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [JavaScript](src/main/js/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array) [Racket](src/main/racket/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+
+#### Day 6
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 7
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 8
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0074 |Search a 2D Matrix| [Java](src/main/java/g0001_0100/s0074_search_a_2d_matrix) [Kotlin](src/main/kotlin/g0001_0100/s0074_search_a_2d_matrix) [TypeScript](src/main/ts/g0001_0100/s0074_search_a_2d_matrix) [Scala](src/main/scala/g0001_0100/s0074_search_a_2d_matrix) [Ruby](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix) [PHP](src/main/php/g0001_0100/s0074_search_a_2d_matrix) [C#](src/main/csharp/g0001_0100/s0074_search_a_2d_matrix) [Go](src/main/go/g0001_0100/s0074_search_a_2d_matrix) [Cpp](src/main/cpp/g0001_0100/s0074_search_a_2d_matrix) [Python](src/main/python/g0001_0100/s0074_search_a_2d_matrix) [Swift](src/main/swift/g0001_0100/s0074_search_a_2d_matrix) [Elixir](src/main/elixir/g0001_0100/s0074_search_a_2d_matrix) [Rust](src/main/rust/g0001_0100/s0074_search_a_2d_matrix) [Dart](src/main/dart/g0001_0100/s0074_search_a_2d_matrix) [C](src/main/c/g0001_0100/s0074_search_a_2d_matrix) [JavaScript](src/main/js/g0001_0100/s0074_search_a_2d_matrix) [Erlang](src/main/erlang/g0001_0100/s0074_search_a_2d_matrix) [Racket](src/main/racket/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 0 | 100.00
+
+#### Day 9
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 11
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0033 |Search in Rotated Sorted Array| [Java](src/main/java/g0001_0100/s0033_search_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0001_0100/s0033_search_in_rotated_sorted_array) [TypeScript](src/main/ts/g0001_0100/s0033_search_in_rotated_sorted_array) [Scala](src/main/scala/g0001_0100/s0033_search_in_rotated_sorted_array) [Ruby](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array) [PHP](src/main/php/g0001_0100/s0033_search_in_rotated_sorted_array) [C#](src/main/csharp/g0001_0100/s0033_search_in_rotated_sorted_array) [Go](src/main/go/g0001_0100/s0033_search_in_rotated_sorted_array) [Cpp](src/main/cpp/g0001_0100/s0033_search_in_rotated_sorted_array) [Python](src/main/python/g0001_0100/s0033_search_in_rotated_sorted_array) [Swift](src/main/swift/g0001_0100/s0033_search_in_rotated_sorted_array) [Elixir](src/main/elixir/g0001_0100/s0033_search_in_rotated_sorted_array) [Rust](src/main/rust/g0001_0100/s0033_search_in_rotated_sorted_array) [Dart](src/main/dart/g0001_0100/s0033_search_in_rotated_sorted_array) [C](src/main/c/g0001_0100/s0033_search_in_rotated_sorted_array) [JavaScript](src/main/js/g0001_0100/s0033_search_in_rotated_sorted_array) [Erlang](src/main/erlang/g0001_0100/s0033_search_in_rotated_sorted_array) [Racket](src/main/racket/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 0 | 100.00
+
+#### Day 12
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0153 |Find Minimum in Rotated Sorted Array| [Java](src/main/java/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Kotlin](src/main/kotlin/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [TypeScript](src/main/ts/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Scala](src/main/scala/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Ruby](src/main/ruby/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [PHP](src/main/php/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C#](src/main/csharp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Go](src/main/go/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Cpp](src/main/cpp/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Python](src/main/python/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Swift](src/main/swift/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Elixir](src/main/elixir/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Rust](src/main/rust/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Dart](src/main/dart/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [C](src/main/c/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [JavaScript](src/main/js/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Erlang](src/main/erlang/g0101_0200/s0153_find_minimum_in_rotated_sorted_array) [Racket](src/main/racket/g0101_0200/s0153_find_minimum_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_N)_Space_O(log_N) | 0 | 100.00
 
 ## Algorithms
 
