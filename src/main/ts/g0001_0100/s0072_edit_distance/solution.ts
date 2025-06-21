@@ -1,4 +1,4 @@
-// #Medium #Top_100_Liked_Questions #String #Dynamic_Programming
+// #Medium #Top_100_Liked_Questions #String #Dynamic_Programming #LeetCode_75_DP/Multidimensional
 // #Algorithm_II_Day_18_Dynamic_Programming #Dynamic_Programming_I_Day_19
 // #Udemy_Dynamic_Programming #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(n^2)_Space_O(n2)
 // #2025_03_23_Time_6_ms_(93.83%)_Space_61.09_MB_(45.68%)
@@ -8,7 +8,9 @@ function minDistance(word1: string, word2: string): number {
     const l1 = word1.length
     const l2 = word2.length
     const dfs = (w1: number, w2: number): number => {
-        if (memo[w1][w2] != undefined) return memo[w1][w2]
+        if (memo[w1][w2] != undefined) {
+            return memo[w1][w2]
+        }
         if (w1 == l1 && w2 == l2) {
             memo[w1][w2] = 0
             return 0

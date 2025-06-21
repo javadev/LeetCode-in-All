@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Design #Linked_List
-// #Doubly_Linked_List #Udemy_Linked_List #Big_O_Time_O(1)_Space_O(capacity)
-// #2024_10_07_Time_640_ms_(81.25%)_Space_235.3_MB_(87.50%)
+// #Doubly_Linked_List #Udemy_Linked_List #Top_Interview_150_Linked_List
+// #Big_O_Time_O(1)_Space_O(capacity) #2024_10_07_Time_640_ms_(81.25%)_Space_235.3_MB_(87.50%)
 
 class LRUCache {
   int length = 0;

@@ -1,7 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table
 // #Dynamic_Programming #Trie #Memoization #Algorithm_II_Day_15_Dynamic_Programming
-// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Big_O_Time_O(M+max*N)_Space_O(M+N+max)
-// #2024_10_07_Time_307_ms_(86.96%)_Space_148.9_MB_(56.52%)
+// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP
+// #Big_O_Time_O(M+max*N)_Space_O(M+N+max) #2024_10_07_Time_307_ms_(86.96%)_Space_148.9_MB_(56.52%)
 
 class Solution {
   bool wordBreak(String s, List<String> wordDict) {

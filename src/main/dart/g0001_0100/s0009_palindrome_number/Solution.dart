@@ -1,4 +1,5 @@
-// #Easy #Math #Udemy_Integers #2024_09_30_Time_518_ms_(95.59%)_Space_149.5_MB_(93.56%)
+// #Easy #Math #Udemy_Integers #Top_Interview_150_Math
+// #2024_09_30_Time_518_ms_(95.59%)_Space_149.5_MB_(93.56%)
 
 class Solution {
   bool isPalindrome(int x) {

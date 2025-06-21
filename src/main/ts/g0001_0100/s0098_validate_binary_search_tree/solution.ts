@@ -5,10 +5,29 @@
 
 import { TreeNode } from '../../com_github_leetcode/treenode'
 
+/**
+ * Definition for a binary tree node.
+ * class TreeNode {
+ *     val: number
+ *     left: TreeNode | null
+ *     right: TreeNode | null
+ *     constructor(val?: number, left?: TreeNode | null, right?: TreeNode | null) {
+ *         this.val = (val===undefined ? 0 : val)
+ *         this.left = (left===undefined ? null : left)
+ *         this.right = (right===undefined ? null : right)
+ *     }
+ * }
+ */
 function dfs(node: TreeNode | null, lowerBound: number, upperBound: number): boolean {
-    if (!node) return true
-    if (node.val <= lowerBound) return false
-    if (node.val >= upperBound) return false
+    if (!node) {
+        return true
+    }
+    if (node.val <= lowerBound) {
+        return false
+    }
+    if (node.val >= upperBound) {
+        return false
+    }
     return dfs(node.left, lowerBound, node.val) && dfs(node.right, node.val, upperBound)
 }
 

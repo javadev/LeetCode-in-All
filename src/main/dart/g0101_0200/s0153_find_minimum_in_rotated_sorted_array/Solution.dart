@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Array #Binary_Search #Algorithm_II_Day_2_Binary_Search
-// #Binary_Search_I_Day_12 #Udemy_Binary_Search #Big_O_Time_O(log_N)_Space_O(log_N)
-// #2024_10_07_Time_313_ms_(92.98%)_Space_149.8_MB_(42.10%)
+// #Binary_Search_I_Day_12 #Udemy_Binary_Search #Top_Interview_150_Binary_Search
+// #Big_O_Time_O(log_N)_Space_O(log_N) #2024_10_07_Time_313_ms_(92.98%)_Space_149.8_MB_(42.10%)
 
 class Solution {
   int findMinUtil(List<int> nums, int l, int r) {

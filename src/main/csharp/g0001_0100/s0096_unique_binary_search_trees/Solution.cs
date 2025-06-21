@@ -1,8 +1,8 @@
 namespace LeetCodeNet.G0001_0100.S0096_unique_binary_search_trees {
 
-// #Medium #Top_100_Liked_Questions #Dynamic_Programming #Math #Tree #Binary_Tree
-// #Binary_Search_Tree #Dynamic_Programming_I_Day_11 #Big_O_Time_O(n)_Space_O(1)
-// #2024_01_08_Time_13_ms_(98.48%)_Space_26.2_MB_(88.64%)
+// #Medium #Dynamic_Programming #Math #Tree #Binary_Tree #Binary_Search_Tree
+// #Dynamic_Programming_I_Day_11 #Big_O_Time_O(n)_Space_O(1)
+// #2025_06_13_Time_0_ms_(100.00%)_Space_28.70_MB_(95.42%)
 
 public class Solution {
     public int NumTrees(int n) {
