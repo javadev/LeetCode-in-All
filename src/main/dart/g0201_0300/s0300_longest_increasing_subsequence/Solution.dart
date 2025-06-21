@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Binary_Search
 // #Algorithm_II_Day_16_Dynamic_Programming #Binary_Search_II_Day_3 #Dynamic_Programming_I_Day_18
-// #Udemy_Dynamic_Programming #Big_O_Time_O(n*log_n)_Space_O(n)
+// #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP #Big_O_Time_O(n*log_n)_Space_O(n)
 // #2024_10_09_Time_332_ms_(96.15%)_Space_147.1_MB_(100.00%)
 
 class Solution {

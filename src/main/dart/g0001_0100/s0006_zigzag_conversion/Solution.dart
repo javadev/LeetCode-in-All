@@ -1,4 +1,5 @@
-// #Medium #String #2024_09_30_Time_374_ms_(94.79%)_Space_150.8_MB_(57.29%)
+// #Medium #String #Top_Interview_150_Array/String
+// #2024_09_30_Time_374_ms_(94.79%)_Space_150.8_MB_(57.29%)
 
 class Solution {
   String convert(String s, int numRows) {

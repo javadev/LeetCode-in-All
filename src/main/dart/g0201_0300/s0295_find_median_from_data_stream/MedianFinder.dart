@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Sorting #Two_Pointers #Design #Heap_Priority_Queue #Data_Stream
-// #Big_O_Time_O(n*log_n)_Space_O(n) #2024_10_09_Time_602_ms_(100.00%)_Space_228.5_MB_(62.50%)
+// #Top_Interview_150_Heap #Big_O_Time_O(n*log_n)_Space_O(n)
+// #2024_10_09_Time_602_ms_(100.00%)_Space_228.5_MB_(62.50%)
 
 class MedianFinder {
   PriorityQueue<int> small = PriorityQueue((a, b) =>b.compareTo(a));

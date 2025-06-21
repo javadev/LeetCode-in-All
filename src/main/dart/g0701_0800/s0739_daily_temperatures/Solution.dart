@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-// #Big_O_Time_O(n)_Space_O(n) #2024_10_12_Time_429_ms_(80.43%)_Space_189.2_MB_(54.35%)
+// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+// #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+// #2024_10_12_Time_429_ms_(80.43%)_Space_189.2_MB_(54.35%)
 
 class Solution {
   List<int> dailyTemperatures(List<int> temperatures) {

@@ -1,8 +1,9 @@
 namespace LeetCodeNet.G0001_0100.S0001_two_sum {
 
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table
-// #Data_Structure_I_Day_2_Array #Level_1_Day_13_Hashmap #Udemy_Arrays #Big_O_Time_O(n)_Space_O(n)
-// #2023_12_18_Time_134_ms_(81.26%)_Space_44.8_MB_(19.72%)
+// #Data_Structure_I_Day_2_Array #Level_1_Day_13_Hashmap #Udemy_Arrays #Top_Interview_150_Hashmap
+// #Big_O_Time_O(n)_Space_O(n) #AI_can_be_used_to_solve_the_task
+// #2025_06_12_Time_1_ms_(98.51%)_Space_49.32_MB_(14.31%)
 
 public class Solution {
     public int[] TwoSum(int[] numbers, int target) {
@@ -18,4 +19,3 @@ public class Solution {
     }
 }
 }
-    

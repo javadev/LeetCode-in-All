@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Two_Pointers #Linked_List
-// #Algorithm_I_Day_5_Two_Pointers #Level_2_Day_3_Linked_List #Big_O_Time_O(L)_Space_O(L)
-// #2024_09_30_Time_321_ms_(93.59%)_Space_149.9_MB_(42.31%)
+// #Algorithm_I_Day_5_Two_Pointers #Level_2_Day_3_Linked_List #Top_Interview_150_Linked_List
+// #Big_O_Time_O(L)_Space_O(L) #2024_09_30_Time_321_ms_(93.59%)_Space_149.9_MB_(42.31%)
 
 /**
  * Definition for singly-linked list.

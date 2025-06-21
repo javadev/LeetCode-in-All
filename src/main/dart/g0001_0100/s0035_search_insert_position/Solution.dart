@@ -1,5 +1,5 @@
 // #Easy #Top_100_Liked_Questions #Array #Binary_Search #Algorithm_I_Day_1_Binary_Search
-// #Binary_Search_I_Day_2 #Big_O_Time_O(log_n)_Space_O(1)
+// #Binary_Search_I_Day_2 #Top_Interview_150_Binary_Search #Big_O_Time_O(log_n)_Space_O(1)
 // #2024_10_01_Time_325_ms_(80.73%)_Space_147.9_MB_(80.00%)
 
 class Solution {

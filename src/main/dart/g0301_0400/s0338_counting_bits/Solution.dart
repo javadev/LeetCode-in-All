@@ -1,5 +1,6 @@
-// #Easy #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
-// #Big_O_Time_O(num)_Space_O(num) #2024_10_11_Time_303_ms_(100.00%)_Space_151.6_MB_(25.81%)
+// #Easy #Dynamic_Programming #Bit_Manipulation #LeetCode_75_Bit_Manipulation
+// #Udemy_Bit_Manipulation #Big_O_Time_O(num)_Space_O(num)
+// #2024_10_11_Time_303_ms_(100.00%)_Space_151.6_MB_(25.81%)
 
 class Solution {
   List<int> countBits(int num) {
