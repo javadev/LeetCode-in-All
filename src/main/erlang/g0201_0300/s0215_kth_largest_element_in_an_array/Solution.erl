@@ -1,6 +1,7 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting #Heap_Priority_Queue
-% #Divide_and_Conquer #Quickselect #Data_Structure_II_Day_20_Heap_Priority_Queue
-% #Top_Interview_150_Heap #Big_O_Time_O(n*log(n))_Space_O(log(n))
+% #Divide_and_Conquer #Quickselect #LeetCode_75_Heap/Priority_Queue
+% #Data_Structure_II_Day_20_Heap_Priority_Queue #Top_Interview_150_Heap
+% #Big_O_Time_O(n*log(n))_Space_O(log(n))
 % #2025_01_19_Time_803_ms_(100.00%)_Space_147.74_MB_(100.00%)
 
 -spec find_kth_largest(Nums :: [integer()], K :: integer()) -> integer().

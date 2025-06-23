@@ -1,6 +1,6 @@
 % #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Greedy #Two_Pointers
-% #Algorithm_II_Day_4_Two_Pointers #Top_Interview_150_Two_Pointers #Big_O_Time_O(n)_Space_O(1)
-% #2025_01_09_Time_13_ms_(100.00%)_Space_123.05_MB_(100.00%)
+% #LeetCode_75_Two_Pointers #Algorithm_II_Day_4_Two_Pointers #Top_Interview_150_Two_Pointers
+% #Big_O_Time_O(n)_Space_O(1) #2025_01_09_Time_13_ms_(100.00%)_Space_123.05_MB_(100.00%)
 
 -spec max_area([integer()]) -> integer().
 max_area(Height) ->
