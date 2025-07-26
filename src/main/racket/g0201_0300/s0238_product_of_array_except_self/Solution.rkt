@@ -1,6 +1,6 @@
-; #Medium #Top_100_Liked_Questions #Array #Prefix_Sum #Data_Structure_II_Day_5_Array #Udemy_Arrays
-; #Top_Interview_150_Array/String #Big_O_Time_O(n^2)_Space_O(n)
-; #2025_02_10_Time_10_ms_(100.00%)_Space_132.25_MB_(100.00%)
+; #Medium #Top_100_Liked_Questions #Array #Prefix_Sum #LeetCode_75_Array/String
+; #Data_Structure_II_Day_5_Array #Udemy_Arrays #Top_Interview_150_Array/String
+; #Big_O_Time_O(n^2)_Space_O(n) #2025_02_10_Time_10_ms_(100.00%)_Space_132.25_MB_(100.00%)
 
 (define/contract (product-except-self nums)
   (-> (listof exact-integer?) (listof exact-integer?))

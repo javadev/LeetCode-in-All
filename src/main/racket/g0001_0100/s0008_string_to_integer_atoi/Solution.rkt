@@ -1,4 +1,4 @@
-; #Medium #Top_Interview_Questions #String
+; #Medium #Top_Interview_Questions #String #Big_O_Time_O(n)_Space_O(n)
 ; #2025_02_03_Time_3_ms_(100.00%)_Space_101.64_MB_(100.00%)
 
 (define/contract (my-atoi s)

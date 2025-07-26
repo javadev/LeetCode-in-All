@@ -1,5 +1,6 @@
-; #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-; #Big_O_Time_O(n)_Space_O(n) #2025_02_12_Time_42_ms_(100.00%)_Space_132.69_MB_(100.00%)
+; #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+; #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+; #2025_02_12_Time_42_ms_(100.00%)_Space_132.69_MB_(100.00%)
 
 (define/contract (daily-temperatures temp)
     (-> (listof exact-integer?) (listof exact-integer?))

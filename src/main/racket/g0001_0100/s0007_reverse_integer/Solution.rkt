@@ -1,4 +1,4 @@
-; #Medium #Top_Interview_Questions #Math #Udemy_Integers
+; #Medium #Top_Interview_Questions #Math #Udemy_Integers #Big_O_Time_O(log10(x))_Space_O(1)
 ; #2025_02_03_Time_204_ms_(100.00%)_Space_101.45_MB_(100.00%)
 
 (define/contract (reverse x)

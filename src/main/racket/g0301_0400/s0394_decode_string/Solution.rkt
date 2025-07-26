@@ -1,5 +1,6 @@
-; #Medium #Top_100_Liked_Questions #String #Stack #Recursion #Level_1_Day_14_Stack #Udemy_Strings
-; #Big_O_Time_O(n)_Space_O(n) #2025_02_11_Time_0_ms_(100.00%)_Space_101.43_MB_(100.00%)
+; #Medium #Top_100_Liked_Questions #String #Stack #Recursion #LeetCode_75_Stack
+; #Level_1_Day_14_Stack #Udemy_Strings #Big_O_Time_O(n)_Space_O(n)
+; #2025_02_11_Time_0_ms_(100.00%)_Space_101.43_MB_(100.00%)
 
 (define/contract (decode-string s)
   (-> string? string?)

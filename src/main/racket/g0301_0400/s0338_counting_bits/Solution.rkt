@@ -1,5 +1,6 @@
-; #Easy #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
-; #Big_O_Time_O(num)_Space_O(num) #2025_02_11_Time_3_ms_(100.00%)_Space_135.21_MB_(100.00%)
+; #Easy #Dynamic_Programming #Bit_Manipulation #LeetCode_75_Bit_Manipulation
+; #Udemy_Bit_Manipulation #Big_O_Time_O(num)_Space_O(num)
+; #2025_02_11_Time_3_ms_(100.00%)_Space_135.21_MB_(100.00%)
 
 (define (near-bit n i)
     (if (and (<= i n) (< n (* i 2)))
