@@ -10,7 +10,6 @@
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Programming Skills I](#programming-skills-i)
 * [Programming Skills II](#programming-skills-ii)
 * [Graph Theory I](#graph-theory-i)
 * [SQL I](#sql-i)
@@ -25,70 +24,7 @@
 * [Binary Search I](#binary-search-i)
 * [Binary Search II](#binary-search-ii)
 * [Dynamic Programming I](#dynamic-programming-i)
-
-### Programming Skills I
-
-#### Day 1 Basic Data Type
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 2 Operator
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 3 Conditional Statements
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 4 Loop
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 5 Function
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 6 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0283 |Move Zeroes| [Java](src/main/java/g0201_0300/s0283_move_zeroes) [Kotlin](src/main/kotlin/g0201_0300/s0283_move_zeroes) [TypeScript](src/main/ts/g0201_0300/s0283_move_zeroes) [Scala](src/main/scala/g0201_0300/s0283_move_zeroes) [Ruby](src/main/ruby/g0201_0300/s0283_move_zeroes) [PHP](src/main/php/g0201_0300/s0283_move_zeroes) [C#](src/main/csharp/g0201_0300/s0283_move_zeroes) [Go](src/main/go/g0201_0300/s0283_move_zeroes) [Cpp](src/main/cpp/g0201_0300/s0283_move_zeroes) [Python](src/main/python/g0201_0300/s0283_move_zeroes) [Swift](src/main/swift/g0201_0300/s0283_move_zeroes) [Elixir](src/main/elixir/g0201_0300/s0283_move_zeroes) [Rust](src/main/rust/g0201_0300/s0283_move_zeroes) [Dart](src/main/dart/g0201_0300/s0283_move_zeroes) [C](src/main/c/g0201_0300/s0283_move_zeroes) [JavaScript](src/main/js/g0201_0300/s0283_move_zeroes) [Erlang](src/main/erlang/g0201_0300/s0283_move_zeroes) [Racket](src/main/racket/g0201_0300/s0283_move_zeroes)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, LeetCode_75_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 2 | 83.99
-
-#### Day 7 Array
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 8 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9 String
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10 Linked List and Tree
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0104 |Maximum Depth of Binary Tree| [Java](src/main/java/g0101_0200/s0104_maximum_depth_of_binary_tree) [Kotlin](src/main/kotlin/g0101_0200/s0104_maximum_depth_of_binary_tree) [TypeScript](src/main/ts/g0101_0200/s0104_maximum_depth_of_binary_tree) [Scala](src/main/scala/g0101_0200/s0104_maximum_depth_of_binary_tree) [Ruby](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree) [PHP](src/main/php/g0101_0200/s0104_maximum_depth_of_binary_tree) [C#](src/main/csharp/g0101_0200/s0104_maximum_depth_of_binary_tree) [Go](src/main/go/g0101_0200/s0104_maximum_depth_of_binary_tree) [Cpp](src/main/cpp/g0101_0200/s0104_maximum_depth_of_binary_tree) [Python](src/main/python/g0101_0200/s0104_maximum_depth_of_binary_tree) [Swift](src/main/swift/g0101_0200/s0104_maximum_depth_of_binary_tree) [Elixir](src/main/elixir/g0101_0200/s0104_maximum_depth_of_binary_tree) [Rust](src/main/rust/g0101_0200/s0104_maximum_depth_of_binary_tree) [Dart](src/main/dart/g0101_0200/s0104_maximum_depth_of_binary_tree) [C](src/main/c/g0101_0200/s0104_maximum_depth_of_binary_tree) [JavaScript](src/main/js/g0101_0200/s0104_maximum_depth_of_binary_tree) [Erlang](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree) [Racket](src/main/racket/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/DFS, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
-
-#### Day 11 Containers and Libraries
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 12 Class and Object
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
+* [Programming Skills I](#programming-skills-i)
 
 ### Programming Skills II
 
@@ -1587,6 +1523,70 @@
 | 0322 |Coin Change| [Java](src/main/java/g0301_0400/s0322_coin_change) [Kotlin](src/main/kotlin/g0301_0400/s0322_coin_change) [TypeScript](src/main/ts/g0301_0400/s0322_coin_change) [Scala](src/main/scala/g0301_0400/s0322_coin_change) [Ruby](src/main/ruby/g0301_0400/s0322_coin_change) [PHP](src/main/php/g0301_0400/s0322_coin_change) [C#](src/main/csharp/g0301_0400/s0322_coin_change) [Go](src/main/go/g0301_0400/s0322_coin_change) [Cpp](src/main/cpp/g0301_0400/s0322_coin_change) [Python](src/main/python/g0301_0400/s0322_coin_change) [Swift](src/main/swift/g0301_0400/s0322_coin_change) [Elixir](src/main/elixir/g0301_0400/s0322_coin_change) [Rust](src/main/rust/g0301_0400/s0322_coin_change) [Dart](src/main/dart/g0301_0400/s0322_coin_change) [C](src/main/c/g0301_0400/s0322_coin_change) [JavaScript](src/main/js/g0301_0400/s0322_coin_change) [Erlang](src/main/erlang/g0301_0400/s0322_coin_change) [Racket](src/main/racket/g0301_0400/s0322_coin_change)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 12 | 92.59
 
 #### Day 21
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+### Programming Skills I
+
+#### Day 1 Basic Data Type
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 2 Operator
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 3 Conditional Statements
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 4 Loop
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 5 Function
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 6 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0283 |Move Zeroes| [Java](src/main/java/g0201_0300/s0283_move_zeroes) [Kotlin](src/main/kotlin/g0201_0300/s0283_move_zeroes) [TypeScript](src/main/ts/g0201_0300/s0283_move_zeroes) [Scala](src/main/scala/g0201_0300/s0283_move_zeroes) [Ruby](src/main/ruby/g0201_0300/s0283_move_zeroes) [PHP](src/main/php/g0201_0300/s0283_move_zeroes) [C#](src/main/csharp/g0201_0300/s0283_move_zeroes) [Go](src/main/go/g0201_0300/s0283_move_zeroes) [Cpp](src/main/cpp/g0201_0300/s0283_move_zeroes) [Python](src/main/python/g0201_0300/s0283_move_zeroes) [Swift](src/main/swift/g0201_0300/s0283_move_zeroes) [Elixir](src/main/elixir/g0201_0300/s0283_move_zeroes) [Rust](src/main/rust/g0201_0300/s0283_move_zeroes) [Dart](src/main/dart/g0201_0300/s0283_move_zeroes) [C](src/main/c/g0201_0300/s0283_move_zeroes) [JavaScript](src/main/js/g0201_0300/s0283_move_zeroes) [Erlang](src/main/erlang/g0201_0300/s0283_move_zeroes) [Racket](src/main/racket/g0201_0300/s0283_move_zeroes)| Easy | Top_100_Liked_Questions, Array, Two_Pointers, LeetCode_75_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 2 | 83.99
+
+#### Day 7 Array
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 8 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9 String
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10 Linked List and Tree
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0104 |Maximum Depth of Binary Tree| [Java](src/main/java/g0101_0200/s0104_maximum_depth_of_binary_tree) [Kotlin](src/main/kotlin/g0101_0200/s0104_maximum_depth_of_binary_tree) [TypeScript](src/main/ts/g0101_0200/s0104_maximum_depth_of_binary_tree) [Scala](src/main/scala/g0101_0200/s0104_maximum_depth_of_binary_tree) [Ruby](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree) [PHP](src/main/php/g0101_0200/s0104_maximum_depth_of_binary_tree) [C#](src/main/csharp/g0101_0200/s0104_maximum_depth_of_binary_tree) [Go](src/main/go/g0101_0200/s0104_maximum_depth_of_binary_tree) [Cpp](src/main/cpp/g0101_0200/s0104_maximum_depth_of_binary_tree) [Python](src/main/python/g0101_0200/s0104_maximum_depth_of_binary_tree) [Swift](src/main/swift/g0101_0200/s0104_maximum_depth_of_binary_tree) [Elixir](src/main/elixir/g0101_0200/s0104_maximum_depth_of_binary_tree) [Rust](src/main/rust/g0101_0200/s0104_maximum_depth_of_binary_tree) [Dart](src/main/dart/g0101_0200/s0104_maximum_depth_of_binary_tree) [C](src/main/c/g0101_0200/s0104_maximum_depth_of_binary_tree) [JavaScript](src/main/js/g0101_0200/s0104_maximum_depth_of_binary_tree) [Erlang](src/main/erlang/g0101_0200/s0104_maximum_depth_of_binary_tree) [Racket](src/main/racket/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/DFS, Big_O_Time_O(N)_Space_O(H) | 0 | 100.00
+
+#### Day 11 Containers and Libraries
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 12 Class and Object
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-|-
