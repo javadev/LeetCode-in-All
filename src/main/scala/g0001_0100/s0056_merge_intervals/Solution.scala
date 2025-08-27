@@ -2,7 +2,8 @@ package g0001_0100.s0056_merge_intervals
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting
 // #Data_Structure_II_Day_2_Array #Level_2_Day_17_Interval #Udemy_2D_Arrays/Matrix
-// #Big_O_Time_O(n_log_n)_Space_O(n) #2023_10_31_Time_583_ms_(90.91%)_Space_60.2_MB_(90.91%)
+// #Top_Interview_150_Intervals #Big_O_Time_O(n_log_n)_Space_O(n)
+// #2023_10_31_Time_583_ms_(90.91%)_Space_60.2_MB_(90.91%)
 
 object Solution {
     def merge(intervals: Array[Array[Int]]): Array[Array[Int]] = {

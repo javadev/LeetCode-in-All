@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Greedy #Two_Pointers
-// #Algorithm_II_Day_4_Two_Pointers #Big_O_Time_O(n)_Space_O(1)
-// #2024_06_18_Time_204_ms_(98.62%)_Space_19.4_MB_(60.00%)
+// #LeetCode_75_Two_Pointers #Algorithm_II_Day_4_Two_Pointers #Top_Interview_150_Two_Pointers
+// #Big_O_Time_O(n)_Space_O(1) #2024_06_18_Time_204_ms_(98.62%)_Space_19.4_MB_(60.00%)
 
 class Solution {
     func maxArea(_ height: [Int]) -> Int {

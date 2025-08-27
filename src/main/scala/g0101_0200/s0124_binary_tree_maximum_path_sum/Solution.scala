@@ -1,8 +1,8 @@
 package g0101_0200.s0124_binary_tree_maximum_path_sum
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Dynamic_Programming #Depth_First_Search
-// #Tree #Binary_Tree #Udemy_Tree_Stack_Queue #Big_O_Time_O(N)_Space_O(N)
-// #2023_11_03_Time_523_ms_(89.47%)_Space_57.9_MB_(73.68%)
+// #Tree #Binary_Tree #Udemy_Tree_Stack_Queue #Top_Interview_150_Binary_Tree_General
+// #Big_O_Time_O(N)_Space_O(N) #2023_11_03_Time_523_ms_(89.47%)_Space_57.9_MB_(73.68%)
 
 import com_github_leetcode.TreeNode
 

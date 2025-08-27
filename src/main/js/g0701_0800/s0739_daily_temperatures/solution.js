@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-// #Big_O_Time_O(n)_Space_O(n) #2024_12_24_Time_9_ms_(99.89%)_Space_75.6_MB_(27.87%)
+// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+// #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+// #2024_12_24_Time_9_ms_(99.89%)_Space_75.6_MB_(27.87%)
 
 /**
  * @param {number[]} temperatures

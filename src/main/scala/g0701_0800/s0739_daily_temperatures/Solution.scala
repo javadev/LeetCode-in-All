@@ -1,7 +1,8 @@
 package g0701_0800.s0739_daily_temperatures
 
-// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-// #Big_O_Time_O(n)_Space_O(n) #2023_11_09_Time_931_ms_(97.30%)_Space_69.2_MB_(97.30%)
+// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+// #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+// #2023_11_09_Time_931_ms_(97.30%)_Space_69.2_MB_(97.30%)
 
 object Solution {
     def dailyTemperatures(temperatures: Array[Int]): Array[Int] = {

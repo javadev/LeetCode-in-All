@@ -1,4 +1,5 @@
-// #Easy #Math #Udemy_Integers #2024_12_03_Time_4_ms_(97.14%)_Space_59.8_MB_(5.70%)
+// #Easy #Math #Udemy_Integers #Top_Interview_150_Math #Big_O_Time_O(log10(x))_Space_O(1)
+// #2024_12_03_Time_4_ms_(97.14%)_Space_59.8_MB_(5.70%)
 
 /**
  * @param {number} x

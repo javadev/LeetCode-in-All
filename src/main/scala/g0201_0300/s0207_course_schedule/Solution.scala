@@ -1,8 +1,8 @@
 package g0201_0300.s0207_course_schedule
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search
-// #Breadth_First_Search #Graph #Topological_Sort #Big_O_Time_O(N)_Space_O(N)
-// #2024_06_02_Time_720_ms_(91.11%)_Space_61.7_MB_(75.56%)
+// #Breadth_First_Search #Graph #Topological_Sort #Top_Interview_150_Graph_General
+// #Big_O_Time_O(N)_Space_O(N) #2024_06_02_Time_720_ms_(91.11%)_Space_61.7_MB_(75.56%)
 
 object Solution {
     def canFinish(numCourses: Int, prerequisites: Array[Array[Int]]): Boolean = {

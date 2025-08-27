@@ -4,7 +4,8 @@ package g0101_0200.s0200_number_of_islands
 // #Breadth_First_Search #Matrix #Union_Find
 // #Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search
 // #Graph_Theory_I_Day_1_Matrix_Related_Problems #Level_1_Day_9_Graph/BFS/DFS #Udemy_Graph
-// #Big_O_Time_O(M*N)_Space_O(M*N) #2023_11_05_Time_537_ms_(93.18%)_Space_63.1_MB_(52.27%)
+// #Top_Interview_150_Graph_General #Big_O_Time_O(M*N)_Space_O(M*N)
+// #2023_11_05_Time_537_ms_(93.18%)_Space_63.1_MB_(52.27%)
 
 object Solution {
     def numIslands(grid: Array[Array[Char]]): Int = {

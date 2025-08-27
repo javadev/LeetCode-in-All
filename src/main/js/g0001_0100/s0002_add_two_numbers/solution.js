@@ -1,7 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Math #Linked_List #Recursion
 // #Data_Structure_II_Day_10_Linked_List #Programming_Skills_II_Day_15
-// #Big_O_Time_O(max(N,M))_Space_O(max(N,M)) #AI_can_be_used_to_solve_the_task
-// #2024_11_29_Time_3_ms_(81.61%)_Space_55.3_MB_(96.39%)
+// #Top_Interview_150_Linked_List #Big_O_Time_O(max(N,M))_Space_O(max(N,M))
+// #AI_can_be_used_to_solve_the_task #2024_11_29_Time_3_ms_(81.61%)_Space_55.3_MB_(96.39%)
 
 import { ListNode } from 'src/main/js/com_github_leetcode/listnode'
 

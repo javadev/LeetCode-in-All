@@ -1,7 +1,8 @@
 package g0001_0100.s0004_median_of_two_sorted_arrays
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Divide_and_Conquer
-// #Big_O_Time_O(log(min(N,M)))_Space_O(1) #2023_10_29_Time_644_ms_(80.82%)_Space_57.9_MB_(91.78%)
+// #Top_Interview_150_Binary_Search #Big_O_Time_O(log(min(N,M)))_Space_O(1)
+// #AI_can_be_used_to_solve_the_task #2023_10_29_Time_644_ms_(80.82%)_Space_57.9_MB_(91.78%)
 
 object Solution {
     @SuppressWarnings(Array("scala:S3776"))

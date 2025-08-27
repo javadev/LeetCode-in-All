@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Sorting #Two_Pointers #Design #Heap_Priority_Queue #Data_Stream
-// #Big_O_Time_O(n*log_n)_Space_O(n) #2024_07_02_Time_671_ms_(91.08%)_Space_22.7_MB_(68.15%)
+// #Top_Interview_150_Heap #Big_O_Time_O(n*log_n)_Space_O(n)
+// #2024_07_02_Time_671_ms_(91.08%)_Space_22.7_MB_(68.15%)
 
 import HeapModule
 

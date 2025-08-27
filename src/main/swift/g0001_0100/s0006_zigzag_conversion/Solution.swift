@@ -1,4 +1,5 @@
-// #Medium #String #2024_06_19_Time_26_ms_(72.18%)_Space_16.6_MB_(44.74%)
+// #Medium #String #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(n)
+// #2024_06_19_Time_26_ms_(72.18%)_Space_16.6_MB_(44.74%)
 
 class Solution {
     func convert(_ s: String, _ numRows: Int) -> String {

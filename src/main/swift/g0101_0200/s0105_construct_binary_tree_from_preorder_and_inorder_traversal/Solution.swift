@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Tree #Binary_Tree
-// #Divide_and_Conquer #Data_Structure_II_Day_15_Tree #Big_O_Time_O(N)_Space_O(N)
-// #2024_06_25_Time_9_ms_(93.01%)_Space_16.7_MB_(77.29%)
+// #Divide_and_Conquer #Data_Structure_II_Day_15_Tree #Top_Interview_150_Binary_Tree_General
+// #Big_O_Time_O(N)_Space_O(N) #2024_06_25_Time_9_ms_(93.01%)_Space_16.7_MB_(77.29%)
 
 /**
  * Definition for a binary tree node.

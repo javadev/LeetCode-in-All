@@ -1,8 +1,7 @@
 package g0001_0100.s0010_regular_expression_matching
 
-// #Hard #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming #Recursion
-// #Udemy_Dynamic_Programming #Big_O_Time_O(m*n)_Space_O(m*n)
-// #2023_10_29_Time_459_ms_(75.00%)_Space_54.4_MB_(100.00%)
+// #Hard #Top_Interview_Questions #String #Dynamic_Programming #Recursion #Udemy_Dynamic_Programming
+// #Big_O_Time_O(m*n)_Space_O(m*n) #2023_10_29_Time_459_ms_(75.00%)_Space_54.4_MB_(100.00%)
 
 object Solution {
     private var cache: Array[Array[Option[Boolean]]] = Array.ofDim[Option[Boolean]](0, 0)

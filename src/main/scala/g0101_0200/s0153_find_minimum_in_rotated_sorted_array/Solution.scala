@@ -1,8 +1,8 @@
 package g0101_0200.s0153_find_minimum_in_rotated_sorted_array
 
 // #Medium #Top_100_Liked_Questions #Array #Binary_Search #Algorithm_II_Day_2_Binary_Search
-// #Binary_Search_I_Day_12 #Udemy_Binary_Search #Big_O_Time_O(log_N)_Space_O(log_N)
-// #2023_11_05_Time_457_ms_(78.79%)_Space_55.5_MB_(6.06%)
+// #Binary_Search_I_Day_12 #Udemy_Binary_Search #Top_Interview_150_Binary_Search
+// #Big_O_Time_O(log_N)_Space_O(log_N) #2023_11_05_Time_457_ms_(78.79%)_Space_55.5_MB_(6.06%)
 
 object Solution {
     def findMin(nums: Array[Int]): Int = {

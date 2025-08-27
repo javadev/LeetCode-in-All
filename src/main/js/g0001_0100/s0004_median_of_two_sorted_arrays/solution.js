@@ -1,6 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Divide_and_Conquer
-// #Big_O_Time_O(log(min(N,M)))_Space_O(1) #AI_can_be_used_to_solve_the_task
-// #2024_11_29_Time_3_ms_(91.90%)_Space_54.1_MB_(88.03%)
+// #Top_Interview_150_Binary_Search #Big_O_Time_O(log(min(N,M)))_Space_O(1)
+// #AI_can_be_used_to_solve_the_task #2024_11_29_Time_3_ms_(91.90%)_Space_54.1_MB_(88.03%)
 
 /**
  * @param {number[]} nums1

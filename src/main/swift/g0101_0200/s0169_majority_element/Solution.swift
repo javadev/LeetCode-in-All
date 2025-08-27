@@ -1,6 +1,7 @@
 // #Easy #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Sorting #Counting
 // #Divide_and_Conquer #Data_Structure_II_Day_1_Array #Udemy_Famous_Algorithm
-// #Big_O_Time_O(n)_Space_O(1) #2024_06_28_Time_38_ms_(96.59%)_Space_16.9_MB_(85.84%)
+// #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(1)
+// #2024_06_28_Time_38_ms_(96.59%)_Space_16.9_MB_(85.84%)
 
 class Solution {
     func majorityElement(_ arr: [Int]) -> Int {

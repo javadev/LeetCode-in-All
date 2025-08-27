@@ -1,5 +1,6 @@
 // #Medium #Array #Dynamic_Programming #Matrix #Dynamic_Programming_I_Day_16
-// #Big_O_Time_O(m*n)_Space_O(m*n) #2024_07_01_Time_350_ms_(93.48%)_Space_18.3_MB_(82.61%)
+// #Top_Interview_150_Multidimensional_DP #Big_O_Time_O(m*n)_Space_O(m*n)
+// #2024_07_01_Time_350_ms_(93.48%)_Space_18.3_MB_(82.61%)
 
 class Solution {
     func maximalSquare(_ matrix: [[Character]]) -> Int {

@@ -1,4 +1,5 @@
-// #Easy #Math #Udemy_Integers #2024_06_18_Time_12_ms_(94.81%)_Space_15.6_MB_(58.39%)
+// #Easy #Math #Udemy_Integers #Top_Interview_150_Math #Big_O_Time_O(log10(x))_Space_O(1)
+// #2024_06_18_Time_12_ms_(94.81%)_Space_15.6_MB_(58.39%)
 
 class Solution {
     func isPalindrome(_ x: Int) -> Bool {

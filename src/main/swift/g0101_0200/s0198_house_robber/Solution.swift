@@ -1,7 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Dynamic_Programming
-// #Algorithm_I_Day_12_Dynamic_Programming #Dynamic_Programming_I_Day_3
-// #Level_2_Day_12_Dynamic_Programming #Udemy_Dynamic_Programming #Big_O_Time_O(n)_Space_O(n)
-// #2024_06_28_Time_0_ms_(100.00%)_Space_15.6_MB_(25.32%)
+// #LeetCode_75_DP/1D #Algorithm_I_Day_12_Dynamic_Programming #Dynamic_Programming_I_Day_3
+// #Level_2_Day_12_Dynamic_Programming #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP
+// #Big_O_Time_O(n)_Space_O(n) #2024_06_28_Time_0_ms_(100.00%)_Space_15.6_MB_(25.32%)
 
 class Solution {
     func rob(_ nums: [Int]) -> Int {

@@ -2,7 +2,8 @@ package g0001_0100.s0048_rotate_image
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Math #Matrix
 // #Data_Structure_II_Day_3_Array #Programming_Skills_II_Day_7 #Udemy_2D_Arrays/Matrix
-// #Big_O_Time_O(n^2)_Space_O(1) #2023_10_31_Time_472_ms_(66.67%)_Space_55.3_MB_(20.83%)
+// #Top_Interview_150_Matrix #Big_O_Time_O(n^2)_Space_O(1)
+// #2023_10_31_Time_472_ms_(66.67%)_Space_55.3_MB_(20.83%)
 
 object Solution {
     def rotate(matrix: Array[Array[Int]]): Unit = {

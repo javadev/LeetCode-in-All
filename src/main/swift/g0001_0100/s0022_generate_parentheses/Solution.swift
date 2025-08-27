@@ -1,6 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Dynamic_Programming
 // #Backtracking #Algorithm_II_Day_11_Recursion_Backtracking #Udemy_Backtracking/Recursion
-// #Big_O_Time_O(2^n)_Space_O(n) #2024_06_19_Time_4_ms_(93.36%)_Space_16.3_MB_(33.02%)
+// #Top_Interview_150_Backtracking #Big_O_Time_O(2^n)_Space_O(n)
+// #2024_06_19_Time_4_ms_(93.36%)_Space_16.3_MB_(33.02%)
 
 class Solution {
     func generateParenthesis(_ n: Int) -> [String] {

@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Depth_First_Search
-// #Breadth_First_Search #Graph #Topological_Sort #Big_O_Time_O(N)_Space_O(N)
-// #2024_06_28_Time_30_ms_(92.23%)_Space_15.6_MB_(98.23%)
+// #Breadth_First_Search #Graph #Topological_Sort #Top_Interview_150_Graph_General
+// #Big_O_Time_O(N)_Space_O(N) #2024_06_28_Time_30_ms_(92.23%)_Space_15.6_MB_(98.23%)
 
 class Solution {
     private let WHITE = 0

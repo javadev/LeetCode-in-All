@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Matrix
-// #Dynamic_Programming_I_Day_16 #Udemy_Dynamic_Programming #Big_O_Time_O(m*n)_Space_O(m*n)
-// #2024_06_24_Time_17_ms_(92.63%)_Space_16_MB_(21.05%)
+// #Dynamic_Programming_I_Day_16 #Udemy_Dynamic_Programming #Top_Interview_150_Multidimensional_DP
+// #Big_O_Time_O(m*n)_Space_O(m*n) #2024_06_24_Time_17_ms_(92.63%)_Space_16_MB_(21.05%)
 
 class Solution {
     func minPathSum(_ grid: [[Int]]) -> Int {

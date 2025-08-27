@@ -1,6 +1,7 @@
 package g0001_0100.s0006_zigzag_conversion
 
-// #Medium #String #2023_11_09_Time_542_ms_(85.71%)_Space_55.7_MB_(90.48%)
+// #Medium #String #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(n)
+// #2023_11_09_Time_542_ms_(85.71%)_Space_55.7_MB_(90.48%)
 
 import scala.collection.mutable
 

@@ -1,7 +1,8 @@
 package g0001_0100.s0023_merge_k_sorted_lists
 
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Heap_Priority_Queue #Linked_List
-// #Divide_and_Conquer #Merge_Sort #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
+// #Divide_and_Conquer #Merge_Sort #Top_Interview_150_Divide_and_Conquer
+// #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
 // #2023_10_30_Time_549_ms_(94.74%)_Space_59.6_MB_(89.47%)
 
 import com_github_leetcode.ListNode

@@ -1,6 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Sorting
 // #Data_Structure_II_Day_2_Array #Level_2_Day_17_Interval #Udemy_2D_Arrays/Matrix
-// #Big_O_Time_O(n_log_n)_Space_O(n) #2024_06_23_Time_52_ms_(99.13%)_Space_17.8_MB_(32.24%)
+// #Top_Interview_150_Intervals #Big_O_Time_O(n_log_n)_Space_O(n)
+// #2024_06_23_Time_52_ms_(99.13%)_Space_17.8_MB_(32.24%)
 
 class Solution {
     func merge(_ intervals: [[Int]]) -> [[Int]] {

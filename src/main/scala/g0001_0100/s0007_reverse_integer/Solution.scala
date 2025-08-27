@@ -1,6 +1,6 @@
 package g0001_0100.s0007_reverse_integer
 
-// #Medium #Top_Interview_Questions #Math #Udemy_Integers
+// #Medium #Top_Interview_Questions #Math #Udemy_Integers #Big_O_Time_O(log10(x))_Space_O(1)
 // #2023_11_09_Time_405_ms_(90.16%)_Space_52.3_MB_(31.15%)
 
 object Solution {

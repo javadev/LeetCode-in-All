@@ -1,6 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Heap_Priority_Queue #Linked_List
-// #Divide_and_Conquer #Merge_Sort #Big_O_Time_O(k*n*log(k))_Space_O(log(k))
-// #2024_06_19_Time_25_ms_(94.57%)_Space_17.3_MB_(6.09%)
+// #Divide_and_Conquer #Merge_Sort #Top_Interview_150_Divide_and_Conquer
+// #Big_O_Time_O(k*n*log(k))_Space_O(log(k)) #2024_06_19_Time_25_ms_(94.57%)_Space_17.3_MB_(6.09%)
 
 /**
  * Definition for singly-linked list.

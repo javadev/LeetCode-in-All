@@ -1,4 +1,5 @@
-// #Medium #Top_Interview_Questions #String #2024_12_03_Time_1_ms_(96.63%)_Space_53.7_MB_(52.53%)
+// #Medium #Top_Interview_Questions #String #Big_O_Time_O(n)_Space_O(n)
+// #2024_12_03_Time_1_ms_(96.63%)_Space_53.7_MB_(52.53%)
 
 /**
  * @param {string} s

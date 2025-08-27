@@ -1,4 +1,5 @@
-// #Medium #Top_Interview_Questions #String #2024_06_18_Time_0_ms_(100.00%)_Space_16.5_MB_(45.57%)
+// #Medium #Top_Interview_Questions #String #Big_O_Time_O(n)_Space_O(n)
+// #2024_06_18_Time_0_ms_(100.00%)_Space_16.5_MB_(45.57%)
 
 class Solution {
     func myAtoi(_ str: String) -> Int {

@@ -1,5 +1,6 @@
-// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #Programming_Skills_II_Day_6
-// #Big_O_Time_O(n)_Space_O(n) #2024_07_03_Time_535_ms_(99.24%)_Space_26.9_MB_(19.32%)
+// #Medium #Top_100_Liked_Questions #Array #Stack #Monotonic_Stack #LeetCode_75_Monotonic_Stack
+// #Programming_Skills_II_Day_6 #Big_O_Time_O(n)_Space_O(n)
+// #2024_07_03_Time_535_ms_(99.24%)_Space_26.9_MB_(19.32%)
 
 class Solution {
     func dailyTemperatures(_ temperatures: [Int]) -> [Int] {

@@ -1,5 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Union_Find
-// #Big_O_Time_O(N_log_N)_Space_O(1) #2024_06_27_Time_225_ms_(94.82%)_Space_21_MB_(31.47%)
+// #Top_Interview_150_Hashmap #Big_O_Time_O(N_log_N)_Space_O(1)
+// #2024_06_27_Time_225_ms_(94.82%)_Space_21_MB_(31.47%)
 
 class Solution {
     func longestConsecutive(_ nums: [Int]) -> Int {

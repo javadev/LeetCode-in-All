@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Top_Interview_Questions #Array #Binary_Search #Divide_and_Conquer
-// #Big_O_Time_O(log(min(N,M)))_Space_O(1) #2024_06_17_Time_26_ms_(94.07%)_Space_16_MB_(90.06%)
+// #Top_Interview_150_Binary_Search #Big_O_Time_O(log(min(N,M)))_Space_O(1)
+// #AI_can_be_used_to_solve_the_task #2024_06_17_Time_26_ms_(94.07%)_Space_16_MB_(90.06%)
 
 public class Solution {
     public func findMedianSortedArrays(_ nums1: [Int], _ nums2: [Int]) -> Double {

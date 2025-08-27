@@ -1,5 +1,6 @@
 // #Hard #Top_100_Liked_Questions #Sorting #Two_Pointers #Design #Heap_Priority_Queue #Data_Stream
-// #Big_O_Time_O(n*log_n)_Space_O(n) #2024_12_21_Time_134_ms_(76.00%)_Space_83.2_MB_(52.42%)
+// #Top_Interview_150_Heap #Big_O_Time_O(n*log_n)_Space_O(n)
+// #2024_12_21_Time_134_ms_(76.00%)_Space_83.2_MB_(52.42%)
 
 var MedianFinder = function () {
     this.large = new Heap();

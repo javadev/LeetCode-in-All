@@ -2,8 +2,8 @@ package g0101_0200.s0139_word_break
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table
 // #Dynamic_Programming #Trie #Memoization #Algorithm_II_Day_15_Dynamic_Programming
-// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Big_O_Time_O(M+max*N)_Space_O(M+N+max)
-// #2023_11_04_Time_482_ms_(66.67%)_Space_57.5_MB_(6.67%)
+// #Dynamic_Programming_I_Day_9 #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP
+// #Big_O_Time_O(M+max*N)_Space_O(M+N+max) #2023_11_04_Time_482_ms_(66.67%)_Space_57.5_MB_(6.67%)
 
 object Solution {
     def wordBreak(s: String, wordDict: List[String]): Boolean = {

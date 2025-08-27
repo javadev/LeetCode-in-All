@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Two_Pointers #Linked_List
-// #Algorithm_I_Day_5_Two_Pointers #Level_2_Day_3_Linked_List #Big_O_Time_O(L)_Space_O(L)
-// #2024_12_03_Time_0_ms_(100.00%)_Space_51.2_MB_(27.67%)
+// #Algorithm_I_Day_5_Two_Pointers #Level_2_Day_3_Linked_List #Top_Interview_150_Linked_List
+// #Big_O_Time_O(L)_Space_O(L) #2024_12_03_Time_0_ms_(100.00%)_Space_51.2_MB_(27.67%)
 
 import { ListNode } from '../../com_github_leetcode/listnode'
 

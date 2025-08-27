@@ -1,4 +1,4 @@
-// #Medium #Top_Interview_Questions #Math #Udemy_Integers
+// #Medium #Top_Interview_Questions #Math #Udemy_Integers #Big_O_Time_O(log10(x))_Space_O(1)
 // #2024_06_18_Time_0_ms_(100.00%)_Space_15.3_MB_(69.27%)
 
 class Solution {

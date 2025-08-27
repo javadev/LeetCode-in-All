@@ -1,6 +1,7 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Stack #Design
 // #Data_Structure_II_Day_14_Stack_Queue #Programming_Skills_II_Day_18 #Level_2_Day_16_Design
-// #Udemy_Design #Big_O_Time_O(1)_Space_O(N) #2024_12_16_Time_6_ms_(99.32%)_Space_60.1_MB_(41.88%)
+// #Udemy_Design #Top_Interview_150_Stack #Big_O_Time_O(1)_Space_O(N)
+// #2024_12_16_Time_6_ms_(99.32%)_Space_60.1_MB_(41.88%)
 
 var MinStack = function () {
     this.stack = []

@@ -1,4 +1,4 @@
-// #Medium #Top_Interview_Questions #Math #Udemy_Integers
+// #Medium #Top_Interview_Questions #Math #Udemy_Integers #Big_O_Time_O(log10(x))_Space_O(1)
 // #2024_12_04_Time_67_ms_(85.38%)_Space_53.1_MB_(34.57%)
 
 /**

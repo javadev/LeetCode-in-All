@@ -1,6 +1,6 @@
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Hash_Table #Design #Linked_List
-// #Doubly_Linked_List #Udemy_Linked_List #Big_O_Time_O(1)_Space_O(capacity)
-// #2024_06_27_Time_673_ms_(99.77%)_Space_33.4_MB_(73.43%)
+// #Doubly_Linked_List #Udemy_Linked_List #Top_Interview_150_Linked_List
+// #Big_O_Time_O(1)_Space_O(capacity) #2024_06_27_Time_673_ms_(99.77%)_Space_33.4_MB_(73.43%)
 
 class LRUCache {
     private class LruCacheNode {

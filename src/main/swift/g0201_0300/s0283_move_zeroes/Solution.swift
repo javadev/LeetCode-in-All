@@ -1,6 +1,6 @@
-// #Easy #Top_100_Liked_Questions #Array #Two_Pointers #Algorithm_I_Day_3_Two_Pointers
-// #Programming_Skills_I_Day_6_Array #Udemy_Arrays #Big_O_Time_O(n)_Space_O(1)
-// #2024_07_01_Time_82_ms_(95.43%)_Space_17.1_MB_(33.52%)
+// #Easy #Top_100_Liked_Questions #Array #Two_Pointers #LeetCode_75_Two_Pointers
+// #Algorithm_I_Day_3_Two_Pointers #Programming_Skills_I_Day_6_Array #Udemy_Arrays
+// #Big_O_Time_O(n)_Space_O(1) #2024_07_01_Time_82_ms_(95.43%)_Space_17.1_MB_(33.52%)
 
 class Solution {
     func moveZeroes(_ nums: inout [Int]) {
