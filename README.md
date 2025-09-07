@@ -1,6 +1,6 @@
 # LeetCode-in-All
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.javadev/leetcode-in-all?style=flat-square)](https://central.sonatype.com/artifact/com.github.javadev/leetcode-in-all/1.10)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.javadev/leetcode-in-all?style=flat-square)](https://central.sonatype.com/artifact/com.github.javadev/leetcode-in-all/1.11)
 [![Java CI](https://github.com/javadev/LeetCode-in-All/actions/workflows/maven.yml/badge.svg)](https://github.com/javadev/LeetCode-in-All/actions/workflows/maven.yml)
 [![CodeQL](https://github.com/javadev/LeetCode-in-All/actions/workflows/codeql.yml/badge.svg)](https://github.com/javadev/LeetCode-in-All/actions/workflows/codeql.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/javadev/LeetCode-in-All/blob/main/LICENSE)
@@ -10,7 +10,6 @@
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
 
 ##
-* [Programming Skills II](#programming-skills-ii)
 * [Graph Theory I](#graph-theory-i)
 * [SQL I](#sql-i)
 * [Level 1](#level-1)
@@ -25,115 +24,7 @@
 * [Binary Search II](#binary-search-ii)
 * [Dynamic Programming I](#dynamic-programming-i)
 * [Programming Skills I](#programming-skills-i)
-
-### Programming Skills II
-
-#### Day 1
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 2
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 3
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 4
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 5
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 6
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0739 |Daily Temperatures| [Java](src/main/java/g0701_0800/s0739_daily_temperatures) [Kotlin](src/main/kotlin/g0701_0800/s0739_daily_temperatures) [TypeScript](src/main/ts/g0701_0800/s0739_daily_temperatures) [Scala](src/main/scala/g0701_0800/s0739_daily_temperatures) [Ruby](src/main/ruby/g0701_0800/s0739_daily_temperatures) [PHP](src/main/php/g0701_0800/s0739_daily_temperatures) [C#](src/main/csharp/g0701_0800/s0739_daily_temperatures) [Go](src/main/go/g0701_0800/s0739_daily_temperatures) [Cpp](src/main/cpp/g0701_0800/s0739_daily_temperatures) [Python](src/main/python/g0701_0800/s0739_daily_temperatures) [Swift](src/main/swift/g0701_0800/s0739_daily_temperatures) [Elixir](src/main/elixir/g0701_0800/s0739_daily_temperatures) [Rust](src/main/rust/g0701_0800/s0739_daily_temperatures) [Dart](src/main/dart/g0701_0800/s0739_daily_temperatures) [C](src/main/c/g0701_0800/s0739_daily_temperatures) [JavaScript](src/main/js/g0701_0800/s0739_daily_temperatures) [Erlang](src/main/erlang/g0701_0800/s0739_daily_temperatures) [Racket](src/main/racket/g0701_0800/s0739_daily_temperatures)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, LeetCode_75_Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 8 | 96.83
-
-#### Day 7
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0048 |Rotate Image| [Java](src/main/java/g0001_0100/s0048_rotate_image) [Kotlin](src/main/kotlin/g0001_0100/s0048_rotate_image) [TypeScript](src/main/ts/g0001_0100/s0048_rotate_image) [Scala](src/main/scala/g0001_0100/s0048_rotate_image) [Ruby](src/main/ruby/g0001_0100/s0048_rotate_image) [PHP](src/main/php/g0001_0100/s0048_rotate_image) [C#](src/main/csharp/g0001_0100/s0048_rotate_image) [Go](src/main/go/g0001_0100/s0048_rotate_image) [Cpp](src/main/cpp/g0001_0100/s0048_rotate_image) [Python](src/main/python/g0001_0100/s0048_rotate_image) [Swift](src/main/swift/g0001_0100/s0048_rotate_image) [Elixir](src/main/elixir/g0001_0100/s0048_rotate_image) [Rust](src/main/rust/g0001_0100/s0048_rotate_image) [Dart](src/main/dart/g0001_0100/s0048_rotate_image) [C](src/main/c/g0001_0100/s0048_rotate_image) [JavaScript](src/main/js/g0001_0100/s0048_rotate_image) [Erlang](src/main/erlang/g0001_0100/s0048_rotate_image) [Racket](src/main/racket/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
-
-#### Day 8
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 9
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 10
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 11
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0049 |Group Anagrams| [Java](src/main/java/g0001_0100/s0049_group_anagrams) [Kotlin](src/main/kotlin/g0001_0100/s0049_group_anagrams) [TypeScript](src/main/ts/g0001_0100/s0049_group_anagrams) [Scala](src/main/scala/g0001_0100/s0049_group_anagrams) [Ruby](src/main/ruby/g0001_0100/s0049_group_anagrams) [PHP](src/main/php/g0001_0100/s0049_group_anagrams) [C#](src/main/csharp/g0001_0100/s0049_group_anagrams) [Go](src/main/go/g0001_0100/s0049_group_anagrams) [Cpp](src/main/cpp/g0001_0100/s0049_group_anagrams) [Python](src/main/python/g0001_0100/s0049_group_anagrams) [Swift](src/main/swift/g0001_0100/s0049_group_anagrams) [Elixir](src/main/elixir/g0001_0100/s0049_group_anagrams) [Rust](src/main/rust/g0001_0100/s0049_group_anagrams) [Dart](src/main/dart/g0001_0100/s0049_group_anagrams) [C](src/main/c/g0001_0100/s0049_group_anagrams) [JavaScript](src/main/js/g0001_0100/s0049_group_anagrams) [Erlang](src/main/erlang/g0001_0100/s0049_group_anagrams) [Racket](src/main/racket/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 6 | 97.61
-
-#### Day 12
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0438 |Find All Anagrams in a String| [Java](src/main/java/g0401_0500/s0438_find_all_anagrams_in_a_string) [Kotlin](src/main/kotlin/g0401_0500/s0438_find_all_anagrams_in_a_string) [TypeScript](src/main/ts/g0401_0500/s0438_find_all_anagrams_in_a_string) [Scala](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string) [Ruby](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string) [PHP](src/main/php/g0401_0500/s0438_find_all_anagrams_in_a_string) [C#](src/main/csharp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Go](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string) [Cpp](src/main/cpp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Python](src/main/python/g0401_0500/s0438_find_all_anagrams_in_a_string) [Swift](src/main/swift/g0401_0500/s0438_find_all_anagrams_in_a_string) [Elixir](src/main/elixir/g0401_0500/s0438_find_all_anagrams_in_a_string) [Rust](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string) [Dart](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string) [C](src/main/c/g0401_0500/s0438_find_all_anagrams_in_a_string) [JavaScript](src/main/js/g0401_0500/s0438_find_all_anagrams_in_a_string) [Erlang](src/main/erlang/g0401_0500/s0438_find_all_anagrams_in_a_string) [Racket](src/main/racket/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 3 | 99.83
-
-#### Day 13
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 14
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0138 |Copy List with Random Pointer| [Java](src/main/java/g0101_0200/s0138_copy_list_with_random_pointer) [Kotlin](src/main/kotlin/g0101_0200/s0138_copy_list_with_random_pointer) [TypeScript](src/main/ts/g0101_0200/s0138_copy_list_with_random_pointer) [Scala](src/main/scala/g0101_0200/s0138_copy_list_with_random_pointer) [Ruby](src/main/ruby/g0101_0200/s0138_copy_list_with_random_pointer) [PHP](src/main/php/g0101_0200/s0138_copy_list_with_random_pointer) [C#](src/main/csharp/g0101_0200/s0138_copy_list_with_random_pointer) [Go](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer) [Cpp](src/main/cpp/g0101_0200/s0138_copy_list_with_random_pointer) [Python](src/main/python/g0101_0200/s0138_copy_list_with_random_pointer) [Swift](src/main/swift/g0101_0200/s0138_copy_list_with_random_pointer) [Elixir](src/main/elixir/g0101_0200/s0138_copy_list_with_random_pointer) [Rust](src/main/rust/g0101_0200/s0138_copy_list_with_random_pointer) [Dart](src/main/dart/g0101_0200/s0138_copy_list_with_random_pointer) [C](src/main/c/g0101_0200/s0138_copy_list_with_random_pointer) [JavaScript](src/main/js/g0101_0200/s0138_copy_list_with_random_pointer) [Erlang](src/main/erlang/g0101_0200/s0138_copy_list_with_random_pointer) [Racket](src/main/racket/g0101_0200/s0138_copy_list_with_random_pointer)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
-
-#### Day 15
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0002 |Add Two Numbers| [Java](src/main/java/g0001_0100/s0002_add_two_numbers) [Kotlin](src/main/kotlin/g0001_0100/s0002_add_two_numbers) [TypeScript](src/main/ts/g0001_0100/s0002_add_two_numbers) [Scala](src/main/scala/g0001_0100/s0002_add_two_numbers) [Ruby](src/main/ruby/g0001_0100/s0002_add_two_numbers) [PHP](src/main/php/g0001_0100/s0002_add_two_numbers) [C#](src/main/csharp/g0001_0100/s0002_add_two_numbers) [Go](src/main/go/g0001_0100/s0002_add_two_numbers) [Cpp](src/main/cpp/g0001_0100/s0002_add_two_numbers) [Python](src/main/python/g0001_0100/s0002_add_two_numbers) [Swift](src/main/swift/g0001_0100/s0002_add_two_numbers) [Elixir](src/main/elixir/g0001_0100/s0002_add_two_numbers) [Rust](src/main/rust/g0001_0100/s0002_add_two_numbers) [Dart](src/main/dart/g0001_0100/s0002_add_two_numbers) [C](src/main/c/g0001_0100/s0002_add_two_numbers) [JavaScript](src/main/js/g0001_0100/s0002_add_two_numbers) [Erlang](src/main/erlang/g0001_0100/s0002_add_two_numbers) [Racket](src/main/racket/g0001_0100/s0002_add_two_numbers)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 1 | 100.00
-
-#### Day 16
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 17
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 18
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-| 0155 |Min Stack| [Java](src/main/java/g0101_0200/s0155_min_stack) [Kotlin](src/main/kotlin/g0101_0200/s0155_min_stack) [TypeScript](src/main/ts/g0101_0200/s0155_min_stack) [Scala](src/main/scala/g0101_0200/s0155_min_stack) [Ruby](src/main/ruby/g0101_0200/s0155_min_stack) [PHP](src/main/php/g0101_0200/s0155_min_stack) [C#](src/main/csharp/g0101_0200/s0155_min_stack) [Go](src/main/go/g0101_0200/s0155_min_stack) [Cpp](src/main/cpp/g0101_0200/s0155_min_stack) [Python](src/main/python/g0101_0200/s0155_min_stack) [Swift](src/main/swift/g0101_0200/s0155_min_stack) [Elixir](src/main/elixir/g0101_0200/s0155_min_stack) [Rust](src/main/rust/g0101_0200/s0155_min_stack) [Dart](src/main/dart/g0101_0200/s0155_min_stack) [C](src/main/c/g0101_0200/s0155_min_stack) [JavaScript](src/main/js/g0101_0200/s0155_min_stack) [Erlang](src/main/erlang/g0101_0200/s0155_min_stack) [Racket](src/main/racket/g0101_0200/s0155_min_stack)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 4 | 96.54
-
-#### Day 19
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
-
-#### Day 20
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
-|-|-|-|-|-|-|-
+* [Programming Skills II](#programming-skills-ii)
 
 ### Graph Theory I
 
@@ -1587,6 +1478,115 @@
 |-|-|-|-|-|-|-
 
 #### Day 12 Class and Object
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+### Programming Skills II
+
+#### Day 1
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 2
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 3
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 4
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 5
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 6
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0739 |Daily Temperatures| [Java](src/main/java/g0701_0800/s0739_daily_temperatures) [Kotlin](src/main/kotlin/g0701_0800/s0739_daily_temperatures) [TypeScript](src/main/ts/g0701_0800/s0739_daily_temperatures) [Scala](src/main/scala/g0701_0800/s0739_daily_temperatures) [Ruby](src/main/ruby/g0701_0800/s0739_daily_temperatures) [PHP](src/main/php/g0701_0800/s0739_daily_temperatures) [C#](src/main/csharp/g0701_0800/s0739_daily_temperatures) [Go](src/main/go/g0701_0800/s0739_daily_temperatures) [Cpp](src/main/cpp/g0701_0800/s0739_daily_temperatures) [Python](src/main/python/g0701_0800/s0739_daily_temperatures) [Swift](src/main/swift/g0701_0800/s0739_daily_temperatures) [Elixir](src/main/elixir/g0701_0800/s0739_daily_temperatures) [Rust](src/main/rust/g0701_0800/s0739_daily_temperatures) [Dart](src/main/dart/g0701_0800/s0739_daily_temperatures) [C](src/main/c/g0701_0800/s0739_daily_temperatures) [JavaScript](src/main/js/g0701_0800/s0739_daily_temperatures) [Erlang](src/main/erlang/g0701_0800/s0739_daily_temperatures) [Racket](src/main/racket/g0701_0800/s0739_daily_temperatures)| Medium | Top_100_Liked_Questions, Array, Stack, Monotonic_Stack, LeetCode_75_Monotonic_Stack, Big_O_Time_O(n)_Space_O(n) | 8 | 96.83
+
+#### Day 7
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0048 |Rotate Image| [Java](src/main/java/g0001_0100/s0048_rotate_image) [Kotlin](src/main/kotlin/g0001_0100/s0048_rotate_image) [TypeScript](src/main/ts/g0001_0100/s0048_rotate_image) [Scala](src/main/scala/g0001_0100/s0048_rotate_image) [Ruby](src/main/ruby/g0001_0100/s0048_rotate_image) [PHP](src/main/php/g0001_0100/s0048_rotate_image) [C#](src/main/csharp/g0001_0100/s0048_rotate_image) [Go](src/main/go/g0001_0100/s0048_rotate_image) [Cpp](src/main/cpp/g0001_0100/s0048_rotate_image) [Python](src/main/python/g0001_0100/s0048_rotate_image) [Swift](src/main/swift/g0001_0100/s0048_rotate_image) [Elixir](src/main/elixir/g0001_0100/s0048_rotate_image) [Rust](src/main/rust/g0001_0100/s0048_rotate_image) [Dart](src/main/dart/g0001_0100/s0048_rotate_image) [C](src/main/c/g0001_0100/s0048_rotate_image) [JavaScript](src/main/js/g0001_0100/s0048_rotate_image) [Erlang](src/main/erlang/g0001_0100/s0048_rotate_image) [Racket](src/main/racket/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 0 | 100.00
+
+#### Day 8
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 9
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 10
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 11
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0049 |Group Anagrams| [Java](src/main/java/g0001_0100/s0049_group_anagrams) [Kotlin](src/main/kotlin/g0001_0100/s0049_group_anagrams) [TypeScript](src/main/ts/g0001_0100/s0049_group_anagrams) [Scala](src/main/scala/g0001_0100/s0049_group_anagrams) [Ruby](src/main/ruby/g0001_0100/s0049_group_anagrams) [PHP](src/main/php/g0001_0100/s0049_group_anagrams) [C#](src/main/csharp/g0001_0100/s0049_group_anagrams) [Go](src/main/go/g0001_0100/s0049_group_anagrams) [Cpp](src/main/cpp/g0001_0100/s0049_group_anagrams) [Python](src/main/python/g0001_0100/s0049_group_anagrams) [Swift](src/main/swift/g0001_0100/s0049_group_anagrams) [Elixir](src/main/elixir/g0001_0100/s0049_group_anagrams) [Rust](src/main/rust/g0001_0100/s0049_group_anagrams) [Dart](src/main/dart/g0001_0100/s0049_group_anagrams) [C](src/main/c/g0001_0100/s0049_group_anagrams) [JavaScript](src/main/js/g0001_0100/s0049_group_anagrams) [Erlang](src/main/erlang/g0001_0100/s0049_group_anagrams) [Racket](src/main/racket/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 6 | 97.61
+
+#### Day 12
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0438 |Find All Anagrams in a String| [Java](src/main/java/g0401_0500/s0438_find_all_anagrams_in_a_string) [Kotlin](src/main/kotlin/g0401_0500/s0438_find_all_anagrams_in_a_string) [TypeScript](src/main/ts/g0401_0500/s0438_find_all_anagrams_in_a_string) [Scala](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string) [Ruby](src/main/ruby/g0401_0500/s0438_find_all_anagrams_in_a_string) [PHP](src/main/php/g0401_0500/s0438_find_all_anagrams_in_a_string) [C#](src/main/csharp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Go](src/main/go/g0401_0500/s0438_find_all_anagrams_in_a_string) [Cpp](src/main/cpp/g0401_0500/s0438_find_all_anagrams_in_a_string) [Python](src/main/python/g0401_0500/s0438_find_all_anagrams_in_a_string) [Swift](src/main/swift/g0401_0500/s0438_find_all_anagrams_in_a_string) [Elixir](src/main/elixir/g0401_0500/s0438_find_all_anagrams_in_a_string) [Rust](src/main/rust/g0401_0500/s0438_find_all_anagrams_in_a_string) [Dart](src/main/dart/g0401_0500/s0438_find_all_anagrams_in_a_string) [C](src/main/c/g0401_0500/s0438_find_all_anagrams_in_a_string) [JavaScript](src/main/js/g0401_0500/s0438_find_all_anagrams_in_a_string) [Erlang](src/main/erlang/g0401_0500/s0438_find_all_anagrams_in_a_string) [Racket](src/main/racket/g0401_0500/s0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 3 | 99.83
+
+#### Day 13
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 14
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0138 |Copy List with Random Pointer| [Java](src/main/java/g0101_0200/s0138_copy_list_with_random_pointer) [Kotlin](src/main/kotlin/g0101_0200/s0138_copy_list_with_random_pointer) [TypeScript](src/main/ts/g0101_0200/s0138_copy_list_with_random_pointer) [Scala](src/main/scala/g0101_0200/s0138_copy_list_with_random_pointer) [Ruby](src/main/ruby/g0101_0200/s0138_copy_list_with_random_pointer) [PHP](src/main/php/g0101_0200/s0138_copy_list_with_random_pointer) [C#](src/main/csharp/g0101_0200/s0138_copy_list_with_random_pointer) [Go](src/main/go/g0101_0200/s0138_copy_list_with_random_pointer) [Cpp](src/main/cpp/g0101_0200/s0138_copy_list_with_random_pointer) [Python](src/main/python/g0101_0200/s0138_copy_list_with_random_pointer) [Swift](src/main/swift/g0101_0200/s0138_copy_list_with_random_pointer) [Elixir](src/main/elixir/g0101_0200/s0138_copy_list_with_random_pointer) [Rust](src/main/rust/g0101_0200/s0138_copy_list_with_random_pointer) [Dart](src/main/dart/g0101_0200/s0138_copy_list_with_random_pointer) [C](src/main/c/g0101_0200/s0138_copy_list_with_random_pointer) [JavaScript](src/main/js/g0101_0200/s0138_copy_list_with_random_pointer) [Erlang](src/main/erlang/g0101_0200/s0138_copy_list_with_random_pointer) [Racket](src/main/racket/g0101_0200/s0138_copy_list_with_random_pointer)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
+
+#### Day 15
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0002 |Add Two Numbers| [Java](src/main/java/g0001_0100/s0002_add_two_numbers) [Kotlin](src/main/kotlin/g0001_0100/s0002_add_two_numbers) [TypeScript](src/main/ts/g0001_0100/s0002_add_two_numbers) [Scala](src/main/scala/g0001_0100/s0002_add_two_numbers) [Ruby](src/main/ruby/g0001_0100/s0002_add_two_numbers) [PHP](src/main/php/g0001_0100/s0002_add_two_numbers) [C#](src/main/csharp/g0001_0100/s0002_add_two_numbers) [Go](src/main/go/g0001_0100/s0002_add_two_numbers) [Cpp](src/main/cpp/g0001_0100/s0002_add_two_numbers) [Python](src/main/python/g0001_0100/s0002_add_two_numbers) [Swift](src/main/swift/g0001_0100/s0002_add_two_numbers) [Elixir](src/main/elixir/g0001_0100/s0002_add_two_numbers) [Rust](src/main/rust/g0001_0100/s0002_add_two_numbers) [Dart](src/main/dart/g0001_0100/s0002_add_two_numbers) [C](src/main/c/g0001_0100/s0002_add_two_numbers) [JavaScript](src/main/js/g0001_0100/s0002_add_two_numbers) [Erlang](src/main/erlang/g0001_0100/s0002_add_two_numbers) [Racket](src/main/racket/g0001_0100/s0002_add_two_numbers)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)), AI_can_be_used_to_solve_the_task | 1 | 100.00
+
+#### Day 16
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 17
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 18
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+| 0155 |Min Stack| [Java](src/main/java/g0101_0200/s0155_min_stack) [Kotlin](src/main/kotlin/g0101_0200/s0155_min_stack) [TypeScript](src/main/ts/g0101_0200/s0155_min_stack) [Scala](src/main/scala/g0101_0200/s0155_min_stack) [Ruby](src/main/ruby/g0101_0200/s0155_min_stack) [PHP](src/main/php/g0101_0200/s0155_min_stack) [C#](src/main/csharp/g0101_0200/s0155_min_stack) [Go](src/main/go/g0101_0200/s0155_min_stack) [Cpp](src/main/cpp/g0101_0200/s0155_min_stack) [Python](src/main/python/g0101_0200/s0155_min_stack) [Swift](src/main/swift/g0101_0200/s0155_min_stack) [Elixir](src/main/elixir/g0101_0200/s0155_min_stack) [Rust](src/main/rust/g0101_0200/s0155_min_stack) [Dart](src/main/dart/g0101_0200/s0155_min_stack) [C](src/main/c/g0101_0200/s0155_min_stack) [JavaScript](src/main/js/g0101_0200/s0155_min_stack) [Erlang](src/main/erlang/g0101_0200/s0155_min_stack) [Racket](src/main/racket/g0101_0200/s0155_min_stack)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Stack, Design, Big_O_Time_O(1)_Space_O(N) | 4 | 96.54
+
+#### Day 19
+
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
+|-|-|-|-|-|-|-
+
+#### Day 20
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-|-
